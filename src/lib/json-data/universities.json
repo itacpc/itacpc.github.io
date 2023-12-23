@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Politecnico di Milano",
+        "short_name": "polimi",
+        "url": "https://polimi.it/"
+    },
+    {
+        "name": "Politecnico di Torino",
+        "short_name": "polito",
+        "url": "https://polito.it/"
+    }
+]
