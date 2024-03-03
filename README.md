@@ -1,19 +1,19 @@
 
-# iio-team.github.io
+# itacpc.github.io
 
-This is the official website of the International Informatics Olympiad in Teams.
+This is the soon-to-be-published new website for ITACPC.
 
 
 ## Run Locally
 
 Clone the project:
 ```bash
-  git clone https://github.com/iio-team/iio-team.github.io
+  git clone https://github.com/itacpc/itacpc.github.io
 ```
 
 Install dependencies:
 ```bash
-  cd iio-team.github.io
+  cd itacpc.github.io
 ```
 ```bash
   npm install
@@ -52,6 +52,8 @@ Each task object has 5 variables:
 
 ## Update Results
 
+TODO: change this section, we need to define a proper way to create the results.json file starting from the raw data
+
 The data for the results pages is stored in the `results.json` file in the `src/lib/json-data` folder.
 
 Create the results table in Excel, you can find an example file [here](static/excel/results.xlsx) with the correct format. 
@@ -65,20 +67,15 @@ After that, use an [Excel to JSON converter](https://tableconvert.com/excel-to-j
 (You can also check the data of the previous years in the `results.json` file for the required final JSON format.)
 
 
-## Update Countries
+## Update Universities
 
-The data for the countries page is stored in the `countries.json` file in the `src/lib/json-data` folder.
+The data for the universities page is stored in the `universities.json` file in the `src/lib/json-data` folder.
 
-For creating a new country, just use one of the existing countries in the `countries.json` file as a template.
+For creating a new universities, just use one of the existing universities in the `universities.json` file as a template.
 
-Each country has a `.svg` flag file, which is stored in the `static/images/flags` folder. For new countries, please create or download an `.svg` file of the countries flag and place it in there. [Wikimedia: SVG flags of countries](https://commons.wikimedia.org/wiki/Category:SVG_flags_by_country)
+Each universities has a `.png` flag file, which is stored in the `static/images/flags` folder. For new universities, please create or download an `.png` file of the universities flag and place it in there.
 
-> The name of the `.svg` file is **required** to match the `name` parameter of the country in the `countries.json` file.
-
-
-## Update Gallery
-
-Creating a new  gallery is really simple. Just create a new folder in the `static/images/gallery` folder and put the pictures inside this new folder. The name of the folder should be the year of the gallery (for example: `2024`).
+> The name of the `.png` file is **required** to match the `short_name` parameter of the universities in the `universities.json` file.
 
 
 ## Update Editions
@@ -94,20 +91,17 @@ The parameters of the `<AccordionItem>` tag are:
 | `flag` |  The name of the country's `.svg` flag. |
 
 
-## Documents
-
-The documents that are linked on the site such as the *Regulations.pdf* etc. are in the `static/documents` folder, replace them there if needed.
-
-
 ## Authors
 
-| Github | Email |
-| :- | :- |
-| [@TkcsHnr](https://www.github.com/TkcsHnr) | [tkcshnr@gmail.com](mailto:tkcshnr@gmail.com) |
-| [@niklaci](https://www.github.com/niklaci) | [laszlo.nikhazy@gmail.com](mailto:laszlo.nikhazy@gmail.com) |
+| Github username |
+| :- |
+| [@wil93](https://www.github.com/wil93) |
 
+This project is based on <https://github.com/iio-team/iio-team.github.io>
 
 ## Color Reference
+
+TODO: update this section
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |

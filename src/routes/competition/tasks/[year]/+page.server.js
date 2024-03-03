@@ -9,8 +9,8 @@ export async function load({ params }) {
         throw error(404, "Not Found");
     }
 
-    let contest_tasks = tasks_json[`${year}`].contest_tasks;
-    let practice_tasks = tasks_json[`${year}`].practice_tasks;
+    let ret = tasks_json[`${year}`];
+    ret.year = year;
 
-    return { contest_tasks, practice_tasks, year }
+    return ret;
 };

@@ -25,32 +25,25 @@
 				#{row.Rank ? row.Rank : rank}
 			</span>
 			<span class="text-center grow text-xl">{row.Team}</span>
-			<img
-				bind:this={flag}
-				on:error={error}
-				class="h-8 rounded-md"
-				src="{base}/images/flags/{row.Country}.svg?{Math.random()}"
-				alt={row.Country}
-			/>
+			<a class="btn bg-gray-100 border-gray-300 flex items-center gap-x-1" href="{base}/universities#{row.University}">
+				<img
+					bind:this={flag}
+					on:error={error}
+					class="h-8 rounded-md"
+					src="{base}/images/flags/{row.University}.png"
+					alt={row.University}
+				/>
+				<span class="font-semibold text-xs uppercase">
+					{row.University}
+				</span>
+			</a>
 		</h2>
 		<div class="flex flex-wrap gap-2">
-			{#if row.Country}
-				<p class="text-lg w-full">
-					Country:
-					<span class="font-semibold">{row.Country}</span>
-				</p>
-			{/if}
-			{#if row.School}
-				<p class="text-lg w-full">
-					School:
-					<span class="font-semibold normal-case">{row.School}</span>.
-				</p>
-			{/if}
-			{#if row.Total}
+			{#if row['Solved tasks']}
 				<p class="text-lg flex items-center gap-2">
-					Total points:
+					Solved tasks:
 					<span class="badge badge-neutral h-fit w-fit transition-none text-lg font-bold">
-						{row.Total}
+						{row['Solved tasks']}
 					</span>
 				</p>
 			{/if}
@@ -63,10 +56,12 @@
 		</div>
 		<div class="collapse collapse-arrow bg-base-300">
 			<input type="checkbox" bind:checked={open} />
-			<div class="collapse-title font-medium h-fit text-lg">Points for each task:</div>
+			<div class="collapse-title font-medium h-fit text-lg">
+				Solve time of attempted tasks:
+			</div>
 			<div class="collapse-content {open ? 'mt-2' : ''} flex flex-wrap gap-x-4 gap-y-6">
 				{#each headers as header}
-					{#if !['Rank', 'Award', 'Team', 'Country', 'School', 'Total'].includes(header)}
+					{#if !['Rank', 'Award', 'Team', 'University', 'Solved tasks', 'Penalty'].includes(header)}
 						{#if hasTasks}
 							<a
 								class="btn hover:bg-base-100 indicator grow normal-case"

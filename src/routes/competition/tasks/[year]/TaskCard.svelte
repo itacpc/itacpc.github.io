@@ -4,11 +4,40 @@
 
 	import { page } from "$app/stores";
 	import { onMount } from "svelte";
+
+	let showTaskInfo = false;
+
+	function toggleTaskInfo(event) {
+		showTaskInfo = !showTaskInfo;
+	}
 </script>
 
 <div id="{task.id}" class="card bg-base-200 shadow-md border {$page.url.href.includes(task.id) ? 'border-base-content' : 'border-base-300'} scroll-m-[7.5rem]">
 	<div class="card-body p-6 gap-4">
-		<h2 class="card-title text-xl">{task.name} ({task.id})</h2>
+		<h2 class="card-title text-xl">
+			{task.name} ({task.id})
+			{#if task.credits}
+				<button class="task-info" on:click={toggleTaskInfo}>
+					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="stroke-gray-600 shrink-0 w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+				</button>
+			{/if}
+		</h2>
+		{#if showTaskInfo}
+			<div>
+				{#if task.credits.idea}
+					Idea by: <strong>{task.credits.idea}</strong>.
+				{/if}
+				{#if task.credits.statement}
+					Statement by: <strong>{task.credits.statement}</strong>.
+				{/if}
+				{#if task.credits.development}
+					Developed by: <strong>{task.credits.development}</strong>.
+				{/if}
+				{#if task.credits.review}
+					Reviewed by: <strong>{task.credits.review}</strong>.
+				{/if}
+			</div>
+		{/if}
 		<div class="card-actions items-stretch gap-4 grid grid-cols-1 sm:grid-cols-2">
 			<a
 				class="text-lg normal-case h-auto px-4 py-2 btn btn-neutral col-span-1 sm:col-span-2 {task.statement ? '' : 'btn-disabled opacity-75'}"
@@ -64,3 +93,9 @@
 		</div>
 	</div>
 </div>
+
+<style>
+	.task-info {
+		cursor: pointer;
+	}
+</style>

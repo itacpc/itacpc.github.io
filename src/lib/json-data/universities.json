@@ -2,11 +2,30 @@
     {
         "name": "Politecnico di Milano",
         "short_name": "polimi",
-        "url": "https://polimi.it/"
+        "website": "https://polimi.it/",
+        "total_gold_medals": 2,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 3,
+        "earliest_participation": 2021
     },
     {
         "name": "Politecnico di Torino",
         "short_name": "polito",
-        "url": "https://polito.it/"
+        "website": "https://polito.it/",
+        "total_gold_medals": 1,
+        "total_silver_medals": 2,
+        "total_bronze_medals": 0,
+        "total_participations": 1,
+        "earliest_participation": 2022
+    },
+    {
+        "name": "Università di Bologna",
+        "short_name": "unibo",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 1,
+        "total_participations": 1,
+        "earliest_participation": 2023
     }
 ]

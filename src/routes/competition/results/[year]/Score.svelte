@@ -2,11 +2,23 @@
 	// @ts-nocheck
 
 	export let score;
+
+	function formatTime(solveTime) {
+		if (solveTime == null) {
+			return '-';
+		}
+
+		const hours = Math.floor(solveTime / 60);
+		const minutes = `${solveTime % 60}`;
+		return `${hours}:${minutes.padStart(2, '0')}`;
+	}
 </script>
 
-<span
-	class="indicator-item indicator-top indicator-center badge
-            {score == 100 ? 'badge-success' : score == 0 ? 'badge-error' : 'badge-primary'}"
->
-	{score}
-</span>
+{#if score.attempts > 0}
+	<span
+		class="indicator-item indicator-top indicator-center badge
+				{score.solve_time == null ? 'badge-error' : 'badge-success'}"
+	>
+		{formatTime(score.solve_time)}
+	</span>
+{/if}

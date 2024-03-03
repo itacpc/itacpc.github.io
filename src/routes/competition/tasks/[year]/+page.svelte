@@ -16,6 +16,9 @@
 <Hero>ITACPC {data.year} Tasks</Hero>
 
 <Content>
+	{#if data.special_thanks}
+		Special thanks to: {data.special_thanks}
+	{/if}
 	<div class="w-full max-w-4xl 2xl:max-w-7xl flex flex-col gap-8">
 		<div class="grid grid-cols-1 md:grid-cols-2 2xl:grid-cols-3 gap-6 w-full">
 			{#each data.contest_tasks as task}

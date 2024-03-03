@@ -8,13 +8,23 @@
 	import ResultCard from './ResultCard.svelte';
 
 	export let data;
+
+	function formatTime(solveTime) {
+		if (solveTime == null) {
+			return '-';
+		}
+
+		const hours = Math.floor(solveTime / 60);
+		const minutes = `${solveTime % 60}`;
+		return `${hours}:${minutes.padStart(2, '0')}`;
+	}
 </script>
 
 <svelte:head>
 	<title>{data.year} Results</title>
 </svelte:head>
 
-<Hero>IIOT International Final {data.year} Results</Hero>
+<Hero>ITACPC {data.year} Results</Hero>
 
 <Content>
 	<div class="gap-6 w-full flex-col flex md:hidden">
@@ -28,7 +38,7 @@
 			<thead>
 				{#each data.headers as th}
 					<th class="whitespace-break-spaces text-sm">
-						{#if data.hasTasks && !['Rank', 'Award', 'Team', 'Country', 'School', 'Total'].includes(th)}
+						{#if data.hasTasks && !['Rank', 'Award', 'Team', 'University', 'School', 'Solved tasks', 'Penalty'].includes(th)}
 							<a
 								href="{base}/competition/tasks/{data.year}#{th}"
 								class="whitespace-break-spaces link link-hover h-min"
@@ -45,7 +55,7 @@
 				{#each data.rows as row}
 					<tr>
 						{#each data.headers as header}
-							<td class={['Team', 'Country', 'School'].includes(header) ? 'left' : ''}>
+							<td class={['Team', 'University', 'School'].includes(header) ? 'left' : ''}>
 								{#if header == 'Award' && row.Award && row.Award != ''}
 									<div class="tooltip h-7 cursor-help" data-tip={row.Award}>
 										<img
@@ -54,18 +64,24 @@
 											alt={row.Award}
 										/>
 									</div>
-								{:else if !['Rank', 'Award', 'Team', 'Country', 'School', 'Total'].includes(header)}
-									<span
-										class="badge
-											{row[`${header}`] == 100
-											? 'badge-success'
-											: row[`${header}`] == 0
-											? 'badge-error'
-											: 'badge-primary'}"
-									>
-										{row[`${header}`]}
-									</span>
-								{:else if header == 'Total'}
+								{:else if !['Rank', 'Award', 'Team', 'University', 'School', 'Solved tasks', 'Penalty'].includes(header)}
+									{#if row[`${header}`].attempts > 0}
+										<span
+											class="badge
+												{row[`${header}`].attempts > 0
+													? (row[`${header}`].solve_time == null
+														? 'badge-error'
+														: 'badge-success')
+													: ''}"
+										>
+											{formatTime(row[`${header}`].solve_time)}
+										</span><br>
+										<span class="text-xs">
+											{row[`${header}`].attempts}
+											tr{row[`${header}`].attempts == 1 ? 'y' : 'ies'}
+										</span>
+									{/if}
+								{:else if header == 'Solved tasks'}
 									<span class="badge badge-neutral font-bold">
 										{row[`${header}`]}
 									</span>

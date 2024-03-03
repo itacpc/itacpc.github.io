@@ -46,7 +46,7 @@
 	<div class="grow px-4 lg:pr-0 justify-center lg:justify-start">
 		<a href="{base}/" class="btn h-full px-0 rounded-none btn-ghost bg-transparent hover:bg-transparent">
 			<!-- TODO: make a smaller and higher quality version? -->
-			<img src="{base}/images/logo/logo.png" alt="" />
+			<img src="{base}/images/logo/logo.png" alt="" class="h-8 sm:h-12" />
 		</a>
 	</div>
 	
