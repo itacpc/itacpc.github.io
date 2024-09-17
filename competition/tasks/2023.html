@@ -8,15 +8,15 @@
 	
 		<link href="../../_app/immutable/assets/0.a19e79d5.css" rel="stylesheet">
 		<link href="../../_app/immutable/assets/6.15137b5d.css" rel="stylesheet">
-		<link rel="modulepreload" href="../../_app/immutable/entry/start.376452eb.js">
+		<link rel="modulepreload" href="../../_app/immutable/entry/start.b0e3c106.js">
 		<link rel="modulepreload" href="../../_app/immutable/chunks/index.29db32ad.js">
-		<link rel="modulepreload" href="../../_app/immutable/chunks/singletons.a548dbc8.js">
+		<link rel="modulepreload" href="../../_app/immutable/chunks/singletons.83f46dff.js">
 		<link rel="modulepreload" href="../../_app/immutable/chunks/index.0fd5f543.js">
-		<link rel="modulepreload" href="../../_app/immutable/chunks/paths.4bc93115.js">
-		<link rel="modulepreload" href="../../_app/immutable/entry/app.0a45ce75.js">
-		<link rel="modulepreload" href="../../_app/immutable/nodes/0.a5c85587.js">
-		<link rel="modulepreload" href="../../_app/immutable/chunks/stores.7bcd2142.js">
-		<link rel="modulepreload" href="../../_app/immutable/nodes/6.d68e316f.js">
+		<link rel="modulepreload" href="../../_app/immutable/chunks/paths.0c8da1c1.js">
+		<link rel="modulepreload" href="../../_app/immutable/entry/app.3df6fda0.js">
+		<link rel="modulepreload" href="../../_app/immutable/nodes/0.364010b3.js">
+		<link rel="modulepreload" href="../../_app/immutable/chunks/stores.01fa5625.js">
+		<link rel="modulepreload" href="../../_app/immutable/nodes/6.9ada85e2.js">
 		<link rel="modulepreload" href="../../_app/immutable/chunks/Hero.fb9ea710.js">
 		<link rel="modulepreload" href="../../_app/immutable/chunks/Content.b0858b56.js"><title>2023 Tasks</title><!-- HEAD_svelte-webdpb_START --><!-- HEAD_svelte-webdpb_END -->
 </head>
@@ -83,9 +83,93 @@
 
 <div class="hero h-fit min-h-[10rem] md:min-h-[13rem] lg:min-h-[16rem] py-8 bg-base-200 border-b-[1.5px] border-base-300 shadow-sm z-10"><div class="hero-content text-center"><h1 class="text-4xl lg:text-5xl text-base-content font-bold">ITACPC 2023 Tasks</h1></div></div>
 
-<div class="w-full grow px-4 gap-8 py-12 flex flex-col items-center bg-base-100">Special thanks to: a
-	<div class="w-full max-w-4xl 2xl:max-w-7xl flex flex-col gap-8"><div class="grid grid-cols-1 md:grid-cols-2 2xl:grid-cols-3 gap-6 w-full"><div id="felix2" class="card bg-base-200 shadow-md border border-base-300 scroll-m-[7.5rem]"><div class="card-body p-6 gap-4"><h2 class="card-title text-xl">Fold it Felix! 2 (felix2)
-			<button class="task-info svelte-4aqqs9"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="stroke-gray-600 shrink-0 w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg></button></h2>
+<div class="w-full grow px-4 gap-8 py-12 flex flex-col items-center bg-base-100">
+	<div class="w-full max-w-4xl 2xl:max-w-7xl flex flex-col gap-8"><div class="grid grid-cols-1 md:grid-cols-2 2xl:grid-cols-3 gap-6 w-full"><div id="digits" class="card bg-base-200 shadow-md border border-base-300 scroll-m-[7.5rem]"><div class="card-body p-6 gap-4"><h2 class="card-title text-xl">Sum of Digits (digits)
+			</h2>
+		
+		<div class="card-actions items-stretch gap-4 grid grid-cols-1 sm:grid-cols-2"><a class="text-lg normal-case h-auto px-4 py-2 btn btn-neutral col-span-1 sm:col-span-2 " href="/files/2023/digits.pdf" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-neutral-content" viewBox="0 0 512 512"><path d="M0 64C0 28.7 28.7 0 64 0H224V128c0 17.7 14.3 32 32 32H384V304H176c-35.3 0-64 28.7-64 64V512H64c-35.3 0-64-28.7-64-64V64zm384 64H256V0L384 128zM176 352h32c30.9 0 56 25.1 56 56s-25.1 56-56 56H192v32c0 8.8-7.2 16-16 16s-16-7.2-16-16V448 368c0-8.8 7.2-16 16-16zm32 80c13.3 0 24-10.7 24-24s-10.7-24-24-24H192v48h16zm96-80h32c26.5 0 48 21.5 48 48v64c0 26.5-21.5 48-48 48H304c-8.8 0-16-7.2-16-16V368c0-8.8 7.2-16 16-16zm32 128c8.8 0 16-7.2 16-16V400c0-8.8-7.2-16-16-16H320v96h16zm80-112c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v32h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v48c0 8.8-7.2 16-16 16s-16-7.2-16-16V432 368z"></path></svg>
+				Statement
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-primary col-span-1 " href="/files/2023/digits-sol.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-primary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Solutions
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-secondary col-span-1 " href="/files/2023/digits-testcases.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-secondary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Test cases
+			</a></div></div>
+</div><div id="pigeon" class="card bg-base-200 shadow-md border border-base-300 scroll-m-[7.5rem]"><div class="card-body p-6 gap-4"><h2 class="card-title text-xl">Pigeon Life (pigeon)
+			</h2>
+		
+		<div class="card-actions items-stretch gap-4 grid grid-cols-1 sm:grid-cols-2"><a class="text-lg normal-case h-auto px-4 py-2 btn btn-neutral col-span-1 sm:col-span-2 " href="/files/2023/pigeon.pdf" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-neutral-content" viewBox="0 0 512 512"><path d="M0 64C0 28.7 28.7 0 64 0H224V128c0 17.7 14.3 32 32 32H384V304H176c-35.3 0-64 28.7-64 64V512H64c-35.3 0-64-28.7-64-64V64zm384 64H256V0L384 128zM176 352h32c30.9 0 56 25.1 56 56s-25.1 56-56 56H192v32c0 8.8-7.2 16-16 16s-16-7.2-16-16V448 368c0-8.8 7.2-16 16-16zm32 80c13.3 0 24-10.7 24-24s-10.7-24-24-24H192v48h16zm96-80h32c26.5 0 48 21.5 48 48v64c0 26.5-21.5 48-48 48H304c-8.8 0-16-7.2-16-16V368c0-8.8 7.2-16 16-16zm32 128c8.8 0 16-7.2 16-16V400c0-8.8-7.2-16-16-16H320v96h16zm80-112c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v32h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v48c0 8.8-7.2 16-16 16s-16-7.2-16-16V432 368z"></path></svg>
+				Statement
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-primary col-span-1 " href="/files/2023/pigeon-sol.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-primary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Solutions
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-secondary col-span-1 " href="/files/2023/pigeon-testcases.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-secondary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Test cases
+			</a></div></div>
+</div><div id="bookcase" class="card bg-base-200 shadow-md border border-base-300 scroll-m-[7.5rem]"><div class="card-body p-6 gap-4"><h2 class="card-title text-xl">Palindromic Bookcase (bookcase)
+			</h2>
+		
+		<div class="card-actions items-stretch gap-4 grid grid-cols-1 sm:grid-cols-2"><a class="text-lg normal-case h-auto px-4 py-2 btn btn-neutral col-span-1 sm:col-span-2 " href="/files/2023/bookcase.pdf" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-neutral-content" viewBox="0 0 512 512"><path d="M0 64C0 28.7 28.7 0 64 0H224V128c0 17.7 14.3 32 32 32H384V304H176c-35.3 0-64 28.7-64 64V512H64c-35.3 0-64-28.7-64-64V64zm384 64H256V0L384 128zM176 352h32c30.9 0 56 25.1 56 56s-25.1 56-56 56H192v32c0 8.8-7.2 16-16 16s-16-7.2-16-16V448 368c0-8.8 7.2-16 16-16zm32 80c13.3 0 24-10.7 24-24s-10.7-24-24-24H192v48h16zm96-80h32c26.5 0 48 21.5 48 48v64c0 26.5-21.5 48-48 48H304c-8.8 0-16-7.2-16-16V368c0-8.8 7.2-16 16-16zm32 128c8.8 0 16-7.2 16-16V400c0-8.8-7.2-16-16-16H320v96h16zm80-112c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v32h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v48c0 8.8-7.2 16-16 16s-16-7.2-16-16V432 368z"></path></svg>
+				Statement
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-primary col-span-1 " href="/files/2023/bookcase-sol.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-primary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Solutions
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-secondary col-span-1 " href="/files/2023/bookcase-testcases.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-secondary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Test cases
+			</a></div></div>
+</div><div id="birthday" class="card bg-base-200 shadow-md border border-base-300 scroll-m-[7.5rem]"><div class="card-body p-6 gap-4"><h2 class="card-title text-xl">Palindromic Birthday (birthday)
+			</h2>
+		
+		<div class="card-actions items-stretch gap-4 grid grid-cols-1 sm:grid-cols-2"><a class="text-lg normal-case h-auto px-4 py-2 btn btn-neutral col-span-1 sm:col-span-2 " href="/files/2023/birthday.pdf" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-neutral-content" viewBox="0 0 512 512"><path d="M0 64C0 28.7 28.7 0 64 0H224V128c0 17.7 14.3 32 32 32H384V304H176c-35.3 0-64 28.7-64 64V512H64c-35.3 0-64-28.7-64-64V64zm384 64H256V0L384 128zM176 352h32c30.9 0 56 25.1 56 56s-25.1 56-56 56H192v32c0 8.8-7.2 16-16 16s-16-7.2-16-16V448 368c0-8.8 7.2-16 16-16zm32 80c13.3 0 24-10.7 24-24s-10.7-24-24-24H192v48h16zm96-80h32c26.5 0 48 21.5 48 48v64c0 26.5-21.5 48-48 48H304c-8.8 0-16-7.2-16-16V368c0-8.8 7.2-16 16-16zm32 128c8.8 0 16-7.2 16-16V400c0-8.8-7.2-16-16-16H320v96h16zm80-112c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v32h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v48c0 8.8-7.2 16-16 16s-16-7.2-16-16V432 368z"></path></svg>
+				Statement
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-primary col-span-1 " href="/files/2023/birthday-sol.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-primary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Solutions
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-secondary col-span-1 " href="/files/2023/birthday-testcases.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-secondary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Test cases
+			</a></div></div>
+</div><div id="meetings" class="card bg-base-200 shadow-md border border-base-300 scroll-m-[7.5rem]"><div class="card-body p-6 gap-4"><h2 class="card-title text-xl">So Many Meetings (meetings)
+			</h2>
+		
+		<div class="card-actions items-stretch gap-4 grid grid-cols-1 sm:grid-cols-2"><a class="text-lg normal-case h-auto px-4 py-2 btn btn-neutral col-span-1 sm:col-span-2 " href="/files/2023/meetings.pdf" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-neutral-content" viewBox="0 0 512 512"><path d="M0 64C0 28.7 28.7 0 64 0H224V128c0 17.7 14.3 32 32 32H384V304H176c-35.3 0-64 28.7-64 64V512H64c-35.3 0-64-28.7-64-64V64zm384 64H256V0L384 128zM176 352h32c30.9 0 56 25.1 56 56s-25.1 56-56 56H192v32c0 8.8-7.2 16-16 16s-16-7.2-16-16V448 368c0-8.8 7.2-16 16-16zm32 80c13.3 0 24-10.7 24-24s-10.7-24-24-24H192v48h16zm96-80h32c26.5 0 48 21.5 48 48v64c0 26.5-21.5 48-48 48H304c-8.8 0-16-7.2-16-16V368c0-8.8 7.2-16 16-16zm32 128c8.8 0 16-7.2 16-16V400c0-8.8-7.2-16-16-16H320v96h16zm80-112c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v32h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v48c0 8.8-7.2 16-16 16s-16-7.2-16-16V432 368z"></path></svg>
+				Statement
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-primary col-span-1 " href="/files/2023/meetings-sol.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-primary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Solutions
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-secondary col-span-1 " href="/files/2023/meetings-testcases.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-secondary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Test cases
+			</a></div></div>
+</div><div id="tree" class="card bg-base-200 shadow-md border border-base-300 scroll-m-[7.5rem]"><div class="card-body p-6 gap-4"><h2 class="card-title text-xl">Tree Restoration (tree)
+			</h2>
+		
+		<div class="card-actions items-stretch gap-4 grid grid-cols-1 sm:grid-cols-2"><a class="text-lg normal-case h-auto px-4 py-2 btn btn-neutral col-span-1 sm:col-span-2 " href="/files/2023/tree.pdf" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-neutral-content" viewBox="0 0 512 512"><path d="M0 64C0 28.7 28.7 0 64 0H224V128c0 17.7 14.3 32 32 32H384V304H176c-35.3 0-64 28.7-64 64V512H64c-35.3 0-64-28.7-64-64V64zm384 64H256V0L384 128zM176 352h32c30.9 0 56 25.1 56 56s-25.1 56-56 56H192v32c0 8.8-7.2 16-16 16s-16-7.2-16-16V448 368c0-8.8 7.2-16 16-16zm32 80c13.3 0 24-10.7 24-24s-10.7-24-24-24H192v48h16zm96-80h32c26.5 0 48 21.5 48 48v64c0 26.5-21.5 48-48 48H304c-8.8 0-16-7.2-16-16V368c0-8.8 7.2-16 16-16zm32 128c8.8 0 16-7.2 16-16V400c0-8.8-7.2-16-16-16H320v96h16zm80-112c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v32h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v48c0 8.8-7.2 16-16 16s-16-7.2-16-16V432 368z"></path></svg>
+				Statement
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-primary col-span-1 " href="/files/2023/tree-sol.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-primary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Solutions
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-secondary col-span-1 " href="/files/2023/tree-testcases.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-secondary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Test cases
+			</a></div></div>
+</div><div id="parentheses" class="card bg-base-200 shadow-md border border-base-300 scroll-m-[7.5rem]"><div class="card-body p-6 gap-4"><h2 class="card-title text-xl">Matter of Parentheses (parentheses)
+			</h2>
+		
+		<div class="card-actions items-stretch gap-4 grid grid-cols-1 sm:grid-cols-2"><a class="text-lg normal-case h-auto px-4 py-2 btn btn-neutral col-span-1 sm:col-span-2 " href="/files/2023/parentheses.pdf" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-neutral-content" viewBox="0 0 512 512"><path d="M0 64C0 28.7 28.7 0 64 0H224V128c0 17.7 14.3 32 32 32H384V304H176c-35.3 0-64 28.7-64 64V512H64c-35.3 0-64-28.7-64-64V64zm384 64H256V0L384 128zM176 352h32c30.9 0 56 25.1 56 56s-25.1 56-56 56H192v32c0 8.8-7.2 16-16 16s-16-7.2-16-16V448 368c0-8.8 7.2-16 16-16zm32 80c13.3 0 24-10.7 24-24s-10.7-24-24-24H192v48h16zm96-80h32c26.5 0 48 21.5 48 48v64c0 26.5-21.5 48-48 48H304c-8.8 0-16-7.2-16-16V368c0-8.8 7.2-16 16-16zm32 128c8.8 0 16-7.2 16-16V400c0-8.8-7.2-16-16-16H320v96h16zm80-112c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v32h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v48c0 8.8-7.2 16-16 16s-16-7.2-16-16V432 368z"></path></svg>
+				Statement
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-primary col-span-1 " href="/files/2023/parentheses-sol.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-primary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Solutions
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-secondary col-span-1 " href="/files/2023/parentheses-testcases.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-secondary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Test cases
+			</a></div></div>
+</div><div id="felix2" class="card bg-base-200 shadow-md border border-base-300 scroll-m-[7.5rem]"><div class="card-body p-6 gap-4"><h2 class="card-title text-xl">Fold it Felix! 2 (felix2)
+			</h2>
 		
 		<div class="card-actions items-stretch gap-4 grid grid-cols-1 sm:grid-cols-2"><a class="text-lg normal-case h-auto px-4 py-2 btn btn-neutral col-span-1 sm:col-span-2 " href="/files/2023/felix2.pdf" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-neutral-content" viewBox="0 0 512 512"><path d="M0 64C0 28.7 28.7 0 64 0H224V128c0 17.7 14.3 32 32 32H384V304H176c-35.3 0-64 28.7-64 64V512H64c-35.3 0-64-28.7-64-64V64zm384 64H256V0L384 128zM176 352h32c30.9 0 56 25.1 56 56s-25.1 56-56 56H192v32c0 8.8-7.2 16-16 16s-16-7.2-16-16V448 368c0-8.8 7.2-16 16-16zm32 80c13.3 0 24-10.7 24-24s-10.7-24-24-24H192v48h16zm96-80h32c26.5 0 48 21.5 48 48v64c0 26.5-21.5 48-48 48H304c-8.8 0-16-7.2-16-16V368c0-8.8 7.2-16 16-16zm32 128c8.8 0 16-7.2 16-16V400c0-8.8-7.2-16-16-16H320v96h16zm80-112c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v32h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v48c0 8.8-7.2 16-16 16s-16-7.2-16-16V432 368z"></path></svg>
 				Statement
@@ -97,7 +181,7 @@
 				Test cases
 			</a></div></div>
 </div><div id="hike" class="card bg-base-200 shadow-md border border-base-300 scroll-m-[7.5rem]"><div class="card-body p-6 gap-4"><h2 class="card-title text-xl">Hike on the Mountain (hike)
-			<button class="task-info svelte-4aqqs9"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="stroke-gray-600 shrink-0 w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg></button></h2>
+			</h2>
 		
 		<div class="card-actions items-stretch gap-4 grid grid-cols-1 sm:grid-cols-2"><a class="text-lg normal-case h-auto px-4 py-2 btn btn-neutral col-span-1 sm:col-span-2 " href="/files/2023/hike.pdf" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-neutral-content" viewBox="0 0 512 512"><path d="M0 64C0 28.7 28.7 0 64 0H224V128c0 17.7 14.3 32 32 32H384V304H176c-35.3 0-64 28.7-64 64V512H64c-35.3 0-64-28.7-64-64V64zm384 64H256V0L384 128zM176 352h32c30.9 0 56 25.1 56 56s-25.1 56-56 56H192v32c0 8.8-7.2 16-16 16s-16-7.2-16-16V448 368c0-8.8 7.2-16 16-16zm32 80c13.3 0 24-10.7 24-24s-10.7-24-24-24H192v48h16zm96-80h32c26.5 0 48 21.5 48 48v64c0 26.5-21.5 48-48 48H304c-8.8 0-16-7.2-16-16V368c0-8.8 7.2-16 16-16zm32 128c8.8 0 16-7.2 16-16V400c0-8.8-7.2-16-16-16H320v96h16zm80-112c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v32h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v48c0 8.8-7.2 16-16 16s-16-7.2-16-16V432 368z"></path></svg>
 				Statement
@@ -106,6 +190,42 @@
 				Solutions
 			</a>
 			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-secondary col-span-1 " href="/files/2023/hike-testcases.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-secondary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Test cases
+			</a></div></div>
+</div><div id="events" class="card bg-base-200 shadow-md border border-base-300 scroll-m-[7.5rem]"><div class="card-body p-6 gap-4"><h2 class="card-title text-xl">Turn of Events (events)
+			</h2>
+		
+		<div class="card-actions items-stretch gap-4 grid grid-cols-1 sm:grid-cols-2"><a class="text-lg normal-case h-auto px-4 py-2 btn btn-neutral col-span-1 sm:col-span-2 " href="/files/2023/events.pdf" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-neutral-content" viewBox="0 0 512 512"><path d="M0 64C0 28.7 28.7 0 64 0H224V128c0 17.7 14.3 32 32 32H384V304H176c-35.3 0-64 28.7-64 64V512H64c-35.3 0-64-28.7-64-64V64zm384 64H256V0L384 128zM176 352h32c30.9 0 56 25.1 56 56s-25.1 56-56 56H192v32c0 8.8-7.2 16-16 16s-16-7.2-16-16V448 368c0-8.8 7.2-16 16-16zm32 80c13.3 0 24-10.7 24-24s-10.7-24-24-24H192v48h16zm96-80h32c26.5 0 48 21.5 48 48v64c0 26.5-21.5 48-48 48H304c-8.8 0-16-7.2-16-16V368c0-8.8 7.2-16 16-16zm32 128c8.8 0 16-7.2 16-16V400c0-8.8-7.2-16-16-16H320v96h16zm80-112c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v32h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v48c0 8.8-7.2 16-16 16s-16-7.2-16-16V432 368z"></path></svg>
+				Statement
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-primary col-span-1 " href="/files/2023/events-sol.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-primary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Solutions
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-secondary col-span-1 " href="/files/2023/events-testcases.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-secondary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Test cases
+			</a></div></div>
+</div><div id="agency" class="card bg-base-200 shadow-md border border-base-300 scroll-m-[7.5rem]"><div class="card-body p-6 gap-4"><h2 class="card-title text-xl">Travel Agency (agency)
+			</h2>
+		
+		<div class="card-actions items-stretch gap-4 grid grid-cols-1 sm:grid-cols-2"><a class="text-lg normal-case h-auto px-4 py-2 btn btn-neutral col-span-1 sm:col-span-2 " href="/files/2023/agency.pdf" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-neutral-content" viewBox="0 0 512 512"><path d="M0 64C0 28.7 28.7 0 64 0H224V128c0 17.7 14.3 32 32 32H384V304H176c-35.3 0-64 28.7-64 64V512H64c-35.3 0-64-28.7-64-64V64zm384 64H256V0L384 128zM176 352h32c30.9 0 56 25.1 56 56s-25.1 56-56 56H192v32c0 8.8-7.2 16-16 16s-16-7.2-16-16V448 368c0-8.8 7.2-16 16-16zm32 80c13.3 0 24-10.7 24-24s-10.7-24-24-24H192v48h16zm96-80h32c26.5 0 48 21.5 48 48v64c0 26.5-21.5 48-48 48H304c-8.8 0-16-7.2-16-16V368c0-8.8 7.2-16 16-16zm32 128c8.8 0 16-7.2 16-16V400c0-8.8-7.2-16-16-16H320v96h16zm80-112c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v32h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v48c0 8.8-7.2 16-16 16s-16-7.2-16-16V432 368z"></path></svg>
+				Statement
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-primary col-span-1 " href="/files/2023/agency-sol.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-primary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Solutions
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-secondary col-span-1 " href="/files/2023/agency-testcases.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-secondary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Test cases
+			</a></div></div>
+</div><div id="pizzalandia" class="card bg-base-200 shadow-md border border-base-300 scroll-m-[7.5rem]"><div class="card-body p-6 gap-4"><h2 class="card-title text-xl">Pizzalandia (pizzalandia)
+			</h2>
+		
+		<div class="card-actions items-stretch gap-4 grid grid-cols-1 sm:grid-cols-2"><a class="text-lg normal-case h-auto px-4 py-2 btn btn-neutral col-span-1 sm:col-span-2 " href="/files/2023/pizzalandia.pdf" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-neutral-content" viewBox="0 0 512 512"><path d="M0 64C0 28.7 28.7 0 64 0H224V128c0 17.7 14.3 32 32 32H384V304H176c-35.3 0-64 28.7-64 64V512H64c-35.3 0-64-28.7-64-64V64zm384 64H256V0L384 128zM176 352h32c30.9 0 56 25.1 56 56s-25.1 56-56 56H192v32c0 8.8-7.2 16-16 16s-16-7.2-16-16V448 368c0-8.8 7.2-16 16-16zm32 80c13.3 0 24-10.7 24-24s-10.7-24-24-24H192v48h16zm96-80h32c26.5 0 48 21.5 48 48v64c0 26.5-21.5 48-48 48H304c-8.8 0-16-7.2-16-16V368c0-8.8 7.2-16 16-16zm32 128c8.8 0 16-7.2 16-16V400c0-8.8-7.2-16-16-16H320v96h16zm80-112c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v32h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H448v48c0 8.8-7.2 16-16 16s-16-7.2-16-16V432 368z"></path></svg>
+				Statement
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-primary col-span-1 " href="/files/2023/pizzalandia-sol.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-primary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
+				Solutions
+			</a>
+			<a class="text-lg normal-case h-auto px-4 py-2 btn btn-secondary col-span-1 " href="/files/2023/pizzalandia-testcases.zip" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 fill-secondary-content" viewBox="0 0 576 512"><path d="M88.7 223.8L0 375.8V96C0 60.7 28.7 32 64 32H181.5c17 0 33.3 6.7 45.3 18.7l26.5 26.5c12 12 28.3 18.7 45.3 18.7H416c35.3 0 64 28.7 64 64v32H144c-22.8 0-43.8 12.1-55.3 31.8zm27.6 16.1C122.1 230 132.6 224 144 224H544c11.5 0 22 6.1 27.7 16.1s5.7 22.2-.1 32.1l-112 192C453.9 474 443.4 480 432 480H32c-11.5 0-22-6.1-27.7-16.1s-5.7-22.2 .1-32.1l112-192z"></path></svg>
 				Test cases
 			</a></div></div>
 </div></div>
@@ -126,7 +246,7 @@
 			
 			<script>
 				{
-					__sveltekit_19wvyk6 = {
+					__sveltekit_1dexp1v = {
 						assets: "/itacpc.github.io",
 						base: new URL("../..", location).pathname.slice(0, -1),
 						env: {}
@@ -134,11 +254,11 @@
 
 					const element = document.currentScript.parentElement;
 
-					const data = [null,{"type":"data","data":{contest_tasks:[{id:"felix2",name:"Fold it Felix! 2",statement:"/files/2023/felix2.pdf",solutions:"/files/2023/felix2-sol.zip",testcases:"/files/2023/felix2-testcases.zip",credits:{idea:"a",statement:"b",development:"c",review:"d"}},{id:"hike",name:"Hike on the Mountain",statement:"/files/2023/hike.pdf",solutions:"/files/2023/hike-sol.zip",testcases:"/files/2023/hike-testcases.zip",credits:{idea:"a",statement:"b",development:"c",review:"d"}}],special_thanks:"a",year:"2023"},"uses":{"params":["year"]}}];
+					const data = [null,{"type":"data","data":{contest_tasks:[{id:"digits",name:"Sum of Digits",statement:"/files/2023/digits.pdf",solutions:"/files/2023/digits-sol.zip",testcases:"/files/2023/digits-testcases.zip"},{id:"pigeon",name:"Pigeon Life",statement:"/files/2023/pigeon.pdf",solutions:"/files/2023/pigeon-sol.zip",testcases:"/files/2023/pigeon-testcases.zip"},{id:"bookcase",name:"Palindromic Bookcase",statement:"/files/2023/bookcase.pdf",solutions:"/files/2023/bookcase-sol.zip",testcases:"/files/2023/bookcase-testcases.zip"},{id:"birthday",name:"Palindromic Birthday",statement:"/files/2023/birthday.pdf",solutions:"/files/2023/birthday-sol.zip",testcases:"/files/2023/birthday-testcases.zip"},{id:"meetings",name:"So Many Meetings",statement:"/files/2023/meetings.pdf",solutions:"/files/2023/meetings-sol.zip",testcases:"/files/2023/meetings-testcases.zip"},{id:"tree",name:"Tree Restoration",statement:"/files/2023/tree.pdf",solutions:"/files/2023/tree-sol.zip",testcases:"/files/2023/tree-testcases.zip"},{id:"parentheses",name:"Matter of Parentheses",statement:"/files/2023/parentheses.pdf",solutions:"/files/2023/parentheses-sol.zip",testcases:"/files/2023/parentheses-testcases.zip"},{id:"felix2",name:"Fold it Felix! 2",statement:"/files/2023/felix2.pdf",solutions:"/files/2023/felix2-sol.zip",testcases:"/files/2023/felix2-testcases.zip"},{id:"hike",name:"Hike on the Mountain",statement:"/files/2023/hike.pdf",solutions:"/files/2023/hike-sol.zip",testcases:"/files/2023/hike-testcases.zip"},{id:"events",name:"Turn of Events",statement:"/files/2023/events.pdf",solutions:"/files/2023/events-sol.zip",testcases:"/files/2023/events-testcases.zip"},{id:"agency",name:"Travel Agency",statement:"/files/2023/agency.pdf",solutions:"/files/2023/agency-sol.zip",testcases:"/files/2023/agency-testcases.zip"},{id:"pizzalandia",name:"Pizzalandia",statement:"/files/2023/pizzalandia.pdf",solutions:"/files/2023/pizzalandia-sol.zip",testcases:"/files/2023/pizzalandia-testcases.zip"}],year:"2023"},"uses":{"params":["year"]}}];
 
 					Promise.all([
-						import("../../_app/immutable/entry/start.376452eb.js"),
-						import("../../_app/immutable/entry/app.0a45ce75.js")
+						import("../../_app/immutable/entry/start.b0e3c106.js"),
+						import("../../_app/immutable/entry/app.3df6fda0.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element, {
 							node_ids: [0, 6],
