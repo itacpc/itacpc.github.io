@@ -2,94 +2,77 @@
     "2023": {
         "contest_tasks": [
             {
+                "id": "digits",
+                "name": "Sum of Digits",
+                "statement": "/files/2023/digits.pdf",
+                "solutions": "/files/2023/digits-sol.zip"
+            },
+            {
+                "id": "pigeon",
+                "name": "Pigeon Life",
+                "statement": "/files/2023/pigeon.pdf",
+                "solutions": "/files/2023/pigeon-sol.zip"
+            },
+            {
+                "id": "bookcase",
+                "name": "Palindromic Bookcase",
+                "statement": "/files/2023/bookcase.pdf",
+                "solutions": "/files/2023/bookcase-sol.zip"
+            },
+            {
+                "id": "birthday",
+                "name": "Palindromic Birthday",
+                "statement": "/files/2023/birthday.pdf",
+                "solutions": "/files/2023/birthday-sol.zip"
+            },
+            {
+                "id": "meetings",
+                "name": "So Many Meetings",
+                "statement": "/files/2023/meetings.pdf",
+                "solutions": "/files/2023/meetings-sol.zip"
+            },
+            {
+                "id": "tree",
+                "name": "Tree Restoration",
+                "statement": "/files/2023/tree.pdf",
+                "solutions": "/files/2023/tree-sol.zip"
+            },
+            {
+                "id": "parentheses",
+                "name": "Matter of Parentheses",
+                "statement": "/files/2023/parentheses.pdf",
+                "solutions": "/files/2023/parentheses-sol.zip"
+            },
+            {
                 "id": "felix2",
                 "name": "Fold it Felix! 2",
                 "statement": "/files/2023/felix2.pdf",
-                "solutions": "/files/2023/felix2-sol.zip",
-                "testcases": "/files/2023/felix2-testcases.zip",
-                "credits": {
-                    "idea": "a",
-                    "statement": "b",
-                    "development": "c",
-                    "review": "d"
-                }
+                "solutions": "/files/2023/felix2-sol.zip"
             },
             {
                 "id": "hike",
                 "name": "Hike on the Mountain",
                 "statement": "/files/2023/hike.pdf",
-                "solutions": "/files/2023/hike-sol.zip",
-                "testcases": "/files/2023/hike-testcases.zip",
-                "credits": {
-                    "idea": "a",
-                    "statement": "b",
-                    "development": "c",
-                    "review": "d"
-                }
-            }
-        ],
-        "special_thanks": "a"
-    },
-    "2022": {
-        "contest_tasks": [
-            {
-                "id": "felix2",
-                "name": "Fold it Felix! 2",
-                "statement": "/files/2023/felix2.pdf",
-                "solutions": "/files/2023/felix2-sol.zip",
-                "testcases": "/files/2023/felix2-testcases.zip",
-                "credits": {
-                    "idea": "a",
-                    "statement": "b",
-                    "development": "c",
-                    "review": "d"
-                }
+                "solutions": "/files/2023/hike-sol.zip"
             },
             {
-                "id": "hike",
-                "name": "Hike on the Mountain",
-                "statement": "/files/2023/hike.pdf",
-                "solutions": "/files/2023/hike-sol.zip",
-                "testcases": "/files/2023/hike-testcases.zip",
-                "credits": {
-                    "idea": "a",
-                    "statement": "b",
-                    "development": "c",
-                    "review": "d"
-                }
-            }
-        ],
-        "special_thanks": "a"
-    },
-    "2021": {
-        "contest_tasks": [
-            {
-                "id": "felix2",
-                "name": "Fold it Felix! 2",
-                "statement": "/files/2023/felix2.pdf",
-                "solutions": "/files/2023/felix2-sol.zip",
-                "testcases": "/files/2023/felix2-testcases.zip",
-                "credits": {
-                    "idea": "a",
-                    "statement": "b",
-                    "development": "c",
-                    "review": "d"
-                }
+                "id": "events",
+                "name": "Turn of Events",
+                "statement": "/files/2023/events.pdf",
+                "solutions": "/files/2023/events-sol.zip"
             },
             {
-                "id": "hike",
-                "name": "Hike on the Mountain",
-                "statement": "/files/2023/hike.pdf",
-                "solutions": "/files/2023/hike-sol.zip",
-                "testcases": "/files/2023/hike-testcases.zip",
-                "credits": {
-                    "idea": "a",
-                    "statement": "b",
-                    "development": "c",
-                    "review": "d"
-                }
+                "id": "agency",
+                "name": "Travel Agency",
+                "statement": "/files/2023/agency.pdf",
+                "solutions": "/files/2023/agency-sol.zip"
+            },
+            {
+                "id": "pizzalandia",
+                "name": "Pizzalandia",
+                "statement": "/files/2023/pizzalandia.pdf",
+                "solutions": "/files/2023/pizzalandia-sol.zip"
             }
-        ],
-        "special_thanks": "a"
+        ]
     }
 }

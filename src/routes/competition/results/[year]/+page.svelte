@@ -85,6 +85,16 @@
 									<span class="badge badge-neutral font-bold">
 										{row[`${header}`]}
 									</span>
+								{:else if header == 'Team'}
+									<div class="collapse">
+										<input type="checkbox" /> 
+										<button class="collapse-title underline decoration-dotted">{row[`${header}`].name}</button>
+										<ul class="collapse-content"> 
+											{#each row[`${header}`].members as member}
+												<li>{member}</li>
+											{/each}
+									  	</ul>
+									</div>
 								{:else}
 									{row[`${header}`]}
 								{/if}
