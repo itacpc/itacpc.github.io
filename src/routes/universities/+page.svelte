@@ -25,7 +25,7 @@
 				class="card md:card-side min-w-fit w-full justify-center gap-8 bg-base-200 shadow-md border border-base-300"
 			>
 				<figure
-					class="md:flex-col-reverse min-w-fit justify-start items-start md:gap-4 p-8 pb-4 md:pb-8 md:pr-0"
+					class="md:flex-col-reverse justify-start items-start md:gap-4 p-8 pb-4 md:pb-8 md:pr-0"
 				>
 					<h1 class="card-title h-fit justify-center text-2xl">{university.name}</h1>
 					<div
@@ -46,13 +46,19 @@
 
 					<div class="flex">
 						{#each Array(university.total_gold_medals) as _, i}
-							<img src="/images/medals/gold.png" alt="gold" class="h-9" />
+							<span class="tooltip h-7" data-tip="gold">
+								<img src="/images/medals/gold.png" alt="gold" class="h-9" />
+							</span>
 						{/each}
 						{#each Array(university.total_silver_medals) as _, i}
-							<img src="/images/medals/silver.png" alt="silver" class="h-9" />
+							<span class="tooltip h-7" data-tip="silver">
+								<img src="/images/medals/silver.png" alt="silver" class="h-9" />
+							</span>
 						{/each}
 						{#each Array(university.total_bronze_medals) as _, i}
-							<img src="/images/medals/bronze.png" alt="bronze" class="h-9" />
+							<span class="tooltip h-7" data-tip="bronze">
+								<img src="/images/medals/bronze.png" alt="bronze" class="h-9" />
+							</span>
 						{/each}
 					</div>
 

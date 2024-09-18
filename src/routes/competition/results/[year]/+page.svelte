@@ -57,7 +57,7 @@
 						{#each data.headers as header}
 							<td class={['Team', 'University', 'School'].includes(header) ? 'left' : ''}>
 								{#if header == 'Award' && row.Award && row.Award != ''}
-									<div class="tooltip h-7 cursor-help" data-tip={row.Award}>
+									<div class="tooltip h-7" data-tip={row.Award}>
 										<img
 											class="w-7 h-7"
 											src="{base}/images/medals/{row.Award}.png"
@@ -95,6 +95,14 @@
 											{/each}
 									  	</ul>
 									</div>
+								{:else if header == 'University'}
+									<a class="tooltip h-7" data-tip={data.universityMap[row.University]} href="asd">
+										<img
+											class="w-7 h-7"
+											src="{base}/images/flags/{row.University}.png"
+											alt={data.universityMap[row.University]}
+										/>
+									</a>
 								{:else}
 									{row[`${header}`]}
 								{/if}
