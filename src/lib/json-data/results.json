@@ -1,4 +1,1886 @@
 {
+  "2021": [
+    {
+      "Rank": 1,
+      "Award": "gold",
+      "Team": {
+        "name": "UNIBOis",
+        "members": []
+      },
+      "University": "unibo",
+      "Solved tasks": 7,
+      "Penalty": 258,
+      "party": {
+        "solve_time": 51,
+        "attempts": 1
+      },
+      "marathon": {
+        "solve_time": 70,
+        "attempts": 2
+      },
+      "bird": {
+        "solve_time": 7,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 16,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": 29,
+        "attempts": 1
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 2
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 8
+      },
+      "wine": {
+        "solve_time": 54,
+        "attempts": 1
+      },
+      "words": {
+        "solve_time": 11,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 2,
+      "Award": "silver",
+      "Team": {
+        "name": "SGSS",
+        "members": []
+      },
+      "University": "unipd",
+      "Solved tasks": 7,
+      "Penalty": 392,
+      "party": {
+        "solve_time": 44,
+        "attempts": 1
+      },
+      "marathon": {
+        "solve_time": 103,
+        "attempts": 2
+      },
+      "bird": {
+        "solve_time": 26,
+        "attempts": 3
+      },
+      "keyboard": {
+        "solve_time": 5,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": 21,
+        "attempts": 1
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 1
+      },
+      "wine": {
+        "solve_time": 64,
+        "attempts": 1
+      },
+      "words": {
+        "solve_time": 69,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 3,
+      "Award": "bronze",
+      "Team": {
+        "name": "bTwice",
+        "members": []
+      },
+      "University": "unipi",
+      "Solved tasks": 7,
+      "Penalty": 413,
+      "party": {
+        "solve_time": 17,
+        "attempts": 1
+      },
+      "marathon": {
+        "solve_time": 138,
+        "attempts": 2
+      },
+      "bird": {
+        "solve_time": 9,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 26,
+        "attempts": 3
+      },
+      "police": {
+        "solve_time": 57,
+        "attempts": 2
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 1
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": 58,
+        "attempts": 1
+      },
+      "words": {
+        "solve_time": 28,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 4,
+      "Award": "",
+      "Team": {
+        "name": "PoliGons",
+        "members": []
+      },
+      "University": "polito",
+      "Solved tasks": 7,
+      "Penalty": 541,
+      "party": {
+        "solve_time": 58,
+        "attempts": 2
+      },
+      "marathon": {
+        "solve_time": 154,
+        "attempts": 2
+      },
+      "bird": {
+        "solve_time": 10,
+        "attempts": 2
+      },
+      "keyboard": {
+        "solve_time": 10,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": 66,
+        "attempts": 3
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 1
+      },
+      "wine": {
+        "solve_time": 97,
+        "attempts": 2
+      },
+      "words": {
+        "solve_time": 26,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 5,
+      "Award": "",
+      "Team": {
+        "name": "BortozElNabbo",
+        "members": []
+      },
+      "University": "unimi",
+      "Solved tasks": 7,
+      "Penalty": 674,
+      "party": {
+        "solve_time": 145,
+        "attempts": 1
+      },
+      "marathon": {
+        "solve_time": 128,
+        "attempts": 7
+      },
+      "bird": {
+        "solve_time": 23,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 32,
+        "attempts": 3
+      },
+      "police": {
+        "solve_time": 75,
+        "attempts": 5
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 7
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 2
+      },
+      "wine": {
+        "solve_time": 25,
+        "attempts": 1
+      },
+      "words": {
+        "solve_time": 6,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 6,
+      "Award": "",
+      "Team": {
+        "name": "Convex strudels",
+        "members": []
+      },
+      "University": "unitn",
+      "Solved tasks": 6,
+      "Penalty": 260,
+      "party": {
+        "solve_time": 100,
+        "attempts": 1
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 5
+      },
+      "bird": {
+        "solve_time": 15,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 16,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": 58,
+        "attempts": 1
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 5
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": 31,
+        "attempts": 1
+      },
+      "words": {
+        "solve_time": 40,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 7,
+      "Award": "",
+      "Team": {
+        "name": "Dominator Trees",
+        "members": []
+      },
+      "University": "unipd",
+      "Solved tasks": 6,
+      "Penalty": 392,
+      "party": {
+        "solve_time": 103,
+        "attempts": 3
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 14,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 7,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": 46,
+        "attempts": 5
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 2
+      },
+      "wine": {
+        "solve_time": 75,
+        "attempts": 1
+      },
+      "words": {
+        "solve_time": 27,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 8,
+      "Award": "",
+      "Team": {
+        "name": "ParTo17",
+        "members": []
+      },
+      "University": "polito",
+      "Solved tasks": 6,
+      "Penalty": 448,
+      "party": {
+        "solve_time": 29,
+        "attempts": 1
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 139,
+        "attempts": 2
+      },
+      "keyboard": {
+        "solve_time": 48,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": 43,
+        "attempts": 1
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 1
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": 100,
+        "attempts": 1
+      },
+      "words": {
+        "solve_time": 69,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 9,
+      "Award": "",
+      "Team": {
+        "name": "SapienzaRed",
+        "members": []
+      },
+      "University": "uniroma1",
+      "Solved tasks": 6,
+      "Penalty": 502,
+      "party": {
+        "solve_time": 58,
+        "attempts": 1
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 6
+      },
+      "bird": {
+        "solve_time": 30,
+        "attempts": 2
+      },
+      "keyboard": {
+        "solve_time": 50,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": 95,
+        "attempts": 5
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 1
+      },
+      "wine": {
+        "solve_time": 86,
+        "attempts": 3
+      },
+      "words": {
+        "solve_time": 23,
+        "attempts": 2
+      }
+    },
+    {
+      "Rank": 10,
+      "Award": "",
+      "Team": {
+        "name": "GEC",
+        "members": []
+      },
+      "University": "sns",
+      "Solved tasks": 6,
+      "Penalty": 708,
+      "party": {
+        "solve_time": 174,
+        "attempts": 3
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 12,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 42,
+        "attempts": 2
+      },
+      "police": {
+        "solve_time": 138,
+        "attempts": 3
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": 133,
+        "attempts": 5
+      },
+      "words": {
+        "solve_time": 29,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 11,
+      "Award": "",
+      "Team": {
+        "name": "Carovana Fighters",
+        "members": []
+      },
+      "University": "sns",
+      "Solved tasks": 5,
+      "Penalty": 213,
+      "party": {
+        "solve_time": 72,
+        "attempts": 2
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 3
+      },
+      "bird": {
+        "solve_time": 19,
+        "attempts": 2
+      },
+      "keyboard": {
+        "solve_time": 27,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": 36,
+        "attempts": 1
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 1
+      },
+      "words": {
+        "solve_time": 19,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 12,
+      "Award": "",
+      "Team": {
+        "name": "SapienzaGreen",
+        "members": []
+      },
+      "University": "uniroma1",
+      "Solved tasks": 5,
+      "Penalty": 380,
+      "party": {
+        "solve_time": 128,
+        "attempts": 3
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 3
+      },
+      "bird": {
+        "solve_time": 9,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 8,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": 104,
+        "attempts": 4
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 2
+      },
+      "words": {
+        "solve_time": 31,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 13,
+      "Award": "",
+      "Team": {
+        "name": "SapienzaBlue",
+        "members": []
+      },
+      "University": "uniroma1",
+      "Solved tasks": 4,
+      "Penalty": 225,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 22,
+        "attempts": 2
+      },
+      "keyboard": {
+        "solve_time": 30,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": 43,
+        "attempts": 1
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": 110,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 14,
+      "Award": "",
+      "Team": {
+        "name": "Mastro Petela",
+        "members": []
+      },
+      "University": "unitn",
+      "Solved tasks": 4,
+      "Penalty": 318,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 12,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 19,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": 116,
+        "attempts": 6
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 3
+      },
+      "words": {
+        "solve_time": 71,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 15,
+      "Award": "",
+      "Team": {
+        "name": "ReturnNULL",
+        "members": []
+      },
+      "University": "unige",
+      "Solved tasks": 4,
+      "Penalty": 330,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 6,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 44,
+        "attempts": 2
+      },
+      "police": {
+        "solve_time": 147,
+        "attempts": 5
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 1
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 3
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": 33,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 16,
+      "Award": "",
+      "Team": {
+        "name": "i PeccaTony",
+        "members": []
+      },
+      "University": "unitn",
+      "Solved tasks": 4,
+      "Penalty": 430,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 1
+      },
+      "bird": {
+        "solve_time": 80,
+        "attempts": 6
+      },
+      "keyboard": {
+        "solve_time": 7,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": 32,
+        "attempts": 4
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 2
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": 111,
+        "attempts": 3
+      }
+    },
+    {
+      "Rank": 17,
+      "Award": "",
+      "Team": {
+        "name": "Peperone",
+        "members": []
+      },
+      "University": "polimi",
+      "Solved tasks": 3,
+      "Penalty": 122,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 11,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 21,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 1
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": 90,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 18,
+      "Award": "",
+      "Team": {
+        "name": "Sigma Grindset",
+        "members": []
+      },
+      "University": "unige",
+      "Solved tasks": 3,
+      "Penalty": 195,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 25,
+        "attempts": 2
+      },
+      "keyboard": {
+        "solve_time": 40,
+        "attempts": 3
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 2
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 7
+      },
+      "words": {
+        "solve_time": 70,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 19,
+      "Award": "",
+      "Team": {
+        "name": "pizzaKebab",
+        "members": []
+      },
+      "University": "polito",
+      "Solved tasks": 3,
+      "Penalty": 195,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 27,
+        "attempts": 2
+      },
+      "keyboard": {
+        "solve_time": 5,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 7
+      },
+      "words": {
+        "solve_time": 123,
+        "attempts": 2
+      }
+    },
+    {
+      "Rank": 20,
+      "Award": "",
+      "Team": {
+        "name": "0x5eba",
+        "members": []
+      },
+      "University": "unipd",
+      "Solved tasks": 3,
+      "Penalty": 209,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 12,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 61,
+        "attempts": 3
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 2
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": 56,
+        "attempts": 3
+      }
+    },
+    {
+      "Rank": 21,
+      "Award": "",
+      "Team": {
+        "name": "I Charlatans",
+        "members": []
+      },
+      "University": "unige",
+      "Solved tasks": 3,
+      "Penalty": 223,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 4
+      },
+      "bird": {
+        "solve_time": 44,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 69,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 4
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": 110,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 22,
+      "Award": "",
+      "Team": {
+        "name": "Xinpj",
+        "members": []
+      },
+      "University": "unipd",
+      "Solved tasks": 3,
+      "Penalty": 286,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 20,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 78,
+        "attempts": 6
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 2
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": 68,
+        "attempts": 2
+      }
+    },
+    {
+      "Rank": 23,
+      "Award": "",
+      "Team": {
+        "name": "404ErrorsNotFound",
+        "members": []
+      },
+      "University": "unige",
+      "Solved tasks": 3,
+      "Penalty": 293,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 26,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 80,
+        "attempts": 4
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 3
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": 127,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 24,
+      "Award": "",
+      "Team": {
+        "name": "DuckSoup",
+        "members": []
+      },
+      "University": "luiss",
+      "Solved tasks": 3,
+      "Penalty": 293,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 64,
+        "attempts": 3
+      },
+      "keyboard": {
+        "solve_time": 18,
+        "attempts": 3
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 3
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 1
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 4
+      },
+      "words": {
+        "solve_time": 131,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 25,
+      "Award": "",
+      "Team": {
+        "name": "I tre zanzarieri",
+        "members": []
+      },
+      "University": "unimi",
+      "Solved tasks": 3,
+      "Penalty": 308,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 136,
+        "attempts": 5
+      },
+      "keyboard": {
+        "solve_time": 21,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 4
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": 51,
+        "attempts": 2
+      }
+    },
+    {
+      "Rank": 26,
+      "Award": "",
+      "Team": {
+        "name": "0xB4DC0FF3",
+        "members": []
+      },
+      "University": "unige",
+      "Solved tasks": 3,
+      "Penalty": 341,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 95,
+        "attempts": 2
+      },
+      "keyboard": {
+        "solve_time": 120,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 3
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": 106,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 27,
+      "Award": "",
+      "Team": {
+        "name": "DreamTeam",
+        "members": []
+      },
+      "University": "univaq",
+      "Solved tasks": 3,
+      "Penalty": 376,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 65,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 115,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 1
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 7
+      },
+      "words": {
+        "solve_time": 96,
+        "attempts": 6
+      }
+    },
+    {
+      "Rank": 28,
+      "Award": "",
+      "Team": {
+        "name": "ELIS",
+        "members": []
+      },
+      "University": "polimi",
+      "Solved tasks": 3,
+      "Penalty": 377,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 108,
+        "attempts": 4
+      },
+      "keyboard": {
+        "solve_time": 39,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 2
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": 170,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 29,
+      "Award": "",
+      "Team": {
+        "name": "PUMPingLemma",
+        "members": []
+      },
+      "University": "unige",
+      "Solved tasks": 2,
+      "Penalty": 27,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 9,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 18,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 3
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 6
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 1
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": null,
+        "attempts": 7
+      }
+    },
+    {
+      "Rank": 30,
+      "Award": "",
+      "Team": {
+        "name": "Codeberry",
+        "members": []
+      },
+      "University": "polito",
+      "Solved tasks": 2,
+      "Penalty": 115,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 87,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 28,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 2
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 1
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": null,
+        "attempts": 4
+      }
+    },
+    {
+      "Rank": 31,
+      "Award": "",
+      "Team": {
+        "name": "Lorenzo Bianchi",
+        "members": []
+      },
+      "University": "univr",
+      "Solved tasks": 2,
+      "Penalty": 116,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 20,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 96,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 1
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": null,
+        "attempts": 0
+      }
+    },
+    {
+      "Rank": 32,
+      "Award": "",
+      "Team": {
+        "name": "Poleeto",
+        "members": []
+      },
+      "University": "polito",
+      "Solved tasks": 2,
+      "Penalty": 124,
+      "party": {
+        "solve_time": null,
+        "attempts": 2
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 86,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 38,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 6
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": null,
+        "attempts": 0
+      }
+    },
+    {
+      "Rank": 33,
+      "Award": "",
+      "Team": {
+        "name": "Filippo Barbieri",
+        "members": []
+      },
+      "University": "univr",
+      "Solved tasks": 2,
+      "Penalty": 150,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 88,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 62,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 3
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": null,
+        "attempts": 3
+      }
+    },
+    {
+      "Rank": 34,
+      "Award": "",
+      "Team": {
+        "name": "Banani in Fiore",
+        "members": []
+      },
+      "University": "polito",
+      "Solved tasks": 2,
+      "Penalty": 165,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 84,
+        "attempts": 2
+      },
+      "keyboard": {
+        "solve_time": 61,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 2
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 1
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": null,
+        "attempts": 2
+      }
+    },
+    {
+      "Rank": 35,
+      "Award": "",
+      "Team": {
+        "name": "DripTeam",
+        "members": []
+      },
+      "University": "unige",
+      "Solved tasks": 2,
+      "Penalty": 183,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 58,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": 125,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": null,
+        "attempts": 0
+      }
+    },
+    {
+      "Rank": 36,
+      "Award": "",
+      "Team": {
+        "name": "Runtime Terror",
+        "members": []
+      },
+      "University": "polito",
+      "Solved tasks": 2,
+      "Penalty": 266,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 59,
+        "attempts": 3
+      },
+      "keyboard": {
+        "solve_time": 127,
+        "attempts": 3
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 3
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "sol,ve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": null,
+        "attempts": 1
+      }
+    },
+    {
+      "Rank": 37,
+      "Award": "",
+      "Team": {
+        "name": "404",
+        "members": []
+      },
+      "University": "polito",
+      "Solved tasks": 2,
+      "Penalty": 317,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": null,
+        "attempts": 5
+      },
+      "keyboard": {
+        "solve_time": 30,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 3
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": 167,
+        "attempts": 7
+      }
+    },
+    {
+      "Rank": 38,
+      "Award": "",
+      "Team": {
+        "name": "IoMiButto",
+        "members": []
+      },
+      "University": "polimi",
+      "Solved tasks": 2,
+      "Penalty": 341,
+      "party": {
+        "solve_time": null,
+        "attempts": 4
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": 91,
+        "attempts": 5
+      },
+      "keyboard": {
+        "solve_time": 110,
+        "attempts": 4
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 3
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": null,
+        "attempts": 0
+      }
+    },
+    {
+      "Rank": 39,
+      "Award": "",
+      "Team": {
+        "name": "SuperMax33",
+        "members": []
+      },
+      "University": "univaq",
+      "Solved tasks": 1,
+      "Penalty": 43,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": null,
+        "attempts": 4
+      },
+      "keyboard": {
+        "solve_time": 43,
+        "attempts": 1
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 6
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": null,
+        "attempts": 0
+      }
+    },
+    {
+      "Rank": 40,
+      "Award": "",
+      "Team": {
+        "name": "AlmenoUno",
+        "members": []
+      },
+      "University": "unict",
+      "Solved tasks": 0,
+      "Penalty": 0,
+      "party": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "marathon": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "bird": {
+        "solve_time": null,
+        "attempts": 1
+      },
+      "keyboard": {
+        "solve_time": null,
+        "attempts": 7
+      },
+      "police": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sorting": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "sieve": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "wine": {
+        "solve_time": null,
+        "attempts": 0
+      },
+      "words": {
+        "solve_time": null,
+        "attempts": 0
+      }
+    }
+  ],
   "2023": [
     {
       "Rank": 1,
@@ -7,7 +1889,7 @@
         "name": "LaStatale Blue",
         "members": []
       },
-      "University": "polimi",
+      "University": "unimi",
       "Solved tasks": 11,
       "Penalty": 836,
       "felix2": {
@@ -66,7 +1948,7 @@
         "name": "flag[10]",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipi",
       "Solved tasks": 11,
       "Penalty": 991,
       "felix2": {
@@ -125,7 +2007,7 @@
         "name": "Volterra gng",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipi",
       "Solved tasks": 11,
       "Penalty": 1165,
       "felix2": {
@@ -184,7 +2066,7 @@
         "name": "Disconnected Bbsts of Merkle Chains for Esoteric A*",
         "members": []
       },
-      "University": "polimi",
+      "University": "unibo",
       "Solved tasks": 10,
       "Penalty": 1025,
       "felix2": {
@@ -243,7 +2125,7 @@
         "name": "OverkillaTO",
         "members": []
       },
-      "University": "polimi",
+      "University": "polito",
       "Solved tasks": 9,
       "Penalty": 605,
       "felix2": {
@@ -302,7 +2184,7 @@
         "name": "Simone Moretti",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipd",
       "Solved tasks": 8,
       "Penalty": 853,
       "felix2": {
@@ -361,7 +2243,7 @@
         "name": "Send Nodes",
         "members": []
       },
-      "University": "polimi",
+      "University": "unitn",
       "Solved tasks": 8,
       "Penalty": 913,
       "felix2": {
@@ -420,7 +2302,7 @@
         "name": "MastersOfBreaks",
         "members": []
       },
-      "University": "polimi",
+      "University": "uniud",
       "Solved tasks": 8,
       "Penalty": 972,
       "felix2": {
@@ -479,7 +2361,7 @@
         "name": "Giovanni Gaio",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipd",
       "Solved tasks": 7,
       "Penalty": 583,
       "felix2": {
@@ -538,7 +2420,7 @@
         "name": "Greatest Competitive Dolphins",
         "members": []
       },
-      "University": "polimi",
+      "University": "unitn",
       "Solved tasks": 7,
       "Penalty": 773,
       "felix2": {
@@ -656,7 +2538,7 @@
         "name": "boh",
         "members": []
       },
-      "University": "polimi",
+      "University": "santanna",
       "Solved tasks": 7,
       "Penalty": 826,
       "felix2": {
@@ -774,7 +2656,7 @@
         "name": "Giacomo Stevanato",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipd",
       "Solved tasks": 6,
       "Penalty": 541,
       "felix2": {
@@ -833,7 +2715,7 @@
         "name": "Valentino Badalucco",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipd",
       "Solved tasks": 6,
       "Penalty": 550,
       "felix2": {
@@ -892,7 +2774,7 @@
         "name": "A Programming Team",
         "members": []
       },
-      "University": "polimi",
+      "University": "unimi",
       "Solved tasks": 6,
       "Penalty": 592,
       "felix2": {
@@ -951,7 +2833,7 @@
         "name": "Pazienza",
         "members": []
       },
-      "University": "polimi",
+      "University": "uniroma1",
       "Solved tasks": 6,
       "Penalty": 778,
       "felix2": {
@@ -1010,7 +2892,7 @@
         "name": "Alessandro Dario",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipd",
       "Solved tasks": 5,
       "Penalty": 209,
       "felix2": {
@@ -1069,7 +2951,7 @@
         "name": "Lorenzo Cazzador",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipd",
       "Solved tasks": 5,
       "Penalty": 240,
       "felix2": {
@@ -1128,7 +3010,7 @@
         "name": "nomathplz",
         "members": []
       },
-      "University": "polimi",
+      "University": "unige",
       "Solved tasks": 5,
       "Penalty": 262,
       "felix2": {
@@ -1187,7 +3069,7 @@
         "name": "Fenwick Treento",
         "members": []
       },
-      "University": "polimi",
+      "University": "unitn",
       "Solved tasks": 5,
       "Penalty": 329,
       "felix2": {
@@ -1364,7 +3246,7 @@
         "name": "Tree Techies",
         "members": []
       },
-      "University": "polimi",
+      "University": "unitn",
       "Solved tasks": 5,
       "Penalty": 386,
       "felix2": {
@@ -1423,7 +3305,7 @@
         "name": "Francesco Protopapa",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipd",
       "Solved tasks": 5,
       "Penalty": 401,
       "felix2": {
@@ -1541,7 +3423,7 @@
         "name": "Andrea Lavarone",
         "members": []
       },
-      "University": "polimi",
+      "University": "uniud",
       "Solved tasks": 5,
       "Penalty": 409,
       "felix2": {
@@ -1600,7 +3482,7 @@
         "name": "piparilli\u00b3",
         "members": []
       },
-      "University": "polimi",
+      "University": "unical",
       "Solved tasks": 5,
       "Penalty": 411,
       "felix2": {
@@ -1659,7 +3541,7 @@
         "name": "zzzzz",
         "members": []
       },
-      "University": "polimi",
+      "University": "unive",
       "Solved tasks": 5,
       "Penalty": 411,
       "felix2": {
@@ -1718,7 +3600,7 @@
         "name": "TravellingSalesmen",
         "members": []
       },
-      "University": "polimi",
+      "University": "uniroma1",
       "Solved tasks": 5,
       "Penalty": 511,
       "felix2": {
@@ -1777,7 +3659,7 @@
         "name": "Davide Caucchiolo",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipd",
       "Solved tasks": 5,
       "Penalty": 527,
       "felix2": {
@@ -1836,7 +3718,7 @@
         "name": "CroCoders",
         "members": []
       },
-      "University": "polimi",
+      "University": "polito",
       "Solved tasks": 5,
       "Penalty": 575,
       "felix2": {
@@ -1954,7 +3836,7 @@
         "name": "Binary Byte 8",
         "members": []
       },
-      "University": "polimi",
+      "University": "unitn",
       "Solved tasks": 5,
       "Penalty": 587,
       "felix2": {
@@ -2072,7 +3954,7 @@
         "name": "Procedura CMD",
         "members": []
       },
-      "University": "polimi",
+      "University": "uniba",
       "Solved tasks": 4,
       "Penalty": 174,
       "felix2": {
@@ -2249,7 +4131,7 @@
         "name": "Competitive programming unibo",
         "members": []
       },
-      "University": "polimi",
+      "University": "unibo",
       "Solved tasks": 4,
       "Penalty": 255,
       "felix2": {
@@ -2308,7 +4190,7 @@
         "name": "!giveUp(you)",
         "members": []
       },
-      "University": "polimi",
+      "University": "unive",
       "Solved tasks": 4,
       "Penalty": 292,
       "felix2": {
@@ -2367,7 +4249,7 @@
         "name": "Kire Koloft.",
         "members": []
       },
-      "University": "polimi",
+      "University": "unibo",
       "Solved tasks": 4,
       "Penalty": 292,
       "felix2": {
@@ -2426,7 +4308,7 @@
         "name": "Stop Meg Set",
         "members": []
       },
-      "University": "polimi",
+      "University": "univaq",
       "Solved tasks": 4,
       "Penalty": 312,
       "felix2": {
@@ -2485,7 +4367,7 @@
         "name": "Leonardo Bellin",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipd",
       "Solved tasks": 4,
       "Penalty": 382,
       "felix2": {
@@ -2662,7 +4544,7 @@
         "name": "Pseudocode",
         "members": []
       },
-      "University": "polimi",
+      "University": "unimib",
       "Solved tasks": 4,
       "Penalty": 548,
       "felix2": {
@@ -2898,7 +4780,7 @@
         "name": "UniTop",
         "members": []
       },
-      "University": "polimi",
+      "University": "unito",
       "Solved tasks": 3,
       "Penalty": 100,
       "felix2": {
@@ -2957,7 +4839,7 @@
         "name": "Matt\u00e9o LADRAT",
         "members": []
       },
-      "University": "polimi",
+      "University": "polito",
       "Solved tasks": 3,
       "Penalty": 104,
       "felix2": {
@@ -3016,7 +4898,7 @@
         "name": "Codekhols",
         "members": []
       },
-      "University": "polimi",
+      "University": "unimi",
       "Solved tasks": 3,
       "Penalty": 106,
       "felix2": {
@@ -3193,7 +5075,7 @@
         "name": "Francesco Sattolo",
         "members": []
       },
-      "University": "polimi",
+      "University": "polito",
       "Solved tasks": 3,
       "Penalty": 166,
       "felix2": {
@@ -3252,7 +5134,7 @@
         "name": "Samuele Riva",
         "members": []
       },
-      "University": "polimi",
+      "University": "unimi",
       "Solved tasks": 3,
       "Penalty": 183,
       "felix2": {
@@ -3311,7 +5193,7 @@
         "name": "BogoSort",
         "members": []
       },
-      "University": "polimi",
+      "University": "unitn",
       "Solved tasks": 3,
       "Penalty": 193,
       "felix2": {
@@ -3370,7 +5252,7 @@
         "name": "Python is love, python is life",
         "members": []
       },
-      "University": "polimi",
+      "University": "unimi",
       "Solved tasks": 3,
       "Penalty": 210,
       "felix2": {
@@ -3429,7 +5311,7 @@
         "name": "Josephus(3)",
         "members": []
       },
-      "University": "polimi",
+      "University": "uniud",
       "Solved tasks": 3,
       "Penalty": 222,
       "felix2": {
@@ -3488,7 +5370,7 @@
         "name": "Little Seagulls",
         "members": []
       },
-      "University": "polimi",
+      "University": "unimi",
       "Solved tasks": 3,
       "Penalty": 234,
       "felix2": {
@@ -3547,7 +5429,7 @@
         "name": "I tre caschetti",
         "members": []
       },
-      "University": "polimi",
+      "University": "unimi",
       "Solved tasks": 3,
       "Penalty": 237,
       "felix2": {
@@ -3606,7 +5488,7 @@
         "name": "Bug Busters",
         "members": []
       },
-      "University": "polimi",
+      "University": "unical",
       "Solved tasks": 3,
       "Penalty": 242,
       "felix2": {
@@ -3665,7 +5547,7 @@
         "name": "IngrifHack",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipg",
       "Solved tasks": 3,
       "Penalty": 248,
       "felix2": {
@@ -3901,7 +5783,7 @@
         "name": "Daniele De Pietri",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipd",
       "Solved tasks": 3,
       "Penalty": 279,
       "felix2": {
@@ -3960,7 +5842,7 @@
         "name": "Zio Peppe\u2019s Squad",
         "members": []
       },
-      "University": "polimi",
+      "University": "unisa",
       "Solved tasks": 3,
       "Penalty": 304,
       "felix2": {
@@ -4078,7 +5960,7 @@
         "name": "AM^2",
         "members": []
       },
-      "University": "polimi",
+      "University": "univpm",
       "Solved tasks": 3,
       "Penalty": 309,
       "felix2": {
@@ -4196,7 +6078,7 @@
         "name": "Monadi",
         "members": []
       },
-      "University": "polimi",
+      "University": "uniud",
       "Solved tasks": 3,
       "Penalty": 324,
       "felix2": {
@@ -4314,7 +6196,7 @@
         "name": "Luca Micarelli",
         "members": []
       },
-      "University": "polimi",
+      "University": "uniroma1",
       "Solved tasks": 3,
       "Penalty": 333,
       "felix2": {
@@ -4373,7 +6255,7 @@
         "name": "Federico Bertossi",
         "members": []
       },
-      "University": "polimi",
+      "University": "uniud",
       "Solved tasks": 3,
       "Penalty": 340,
       "felix2": {
@@ -4432,7 +6314,7 @@
         "name": "Barduc",
         "members": []
       },
-      "University": "polimi",
+      "University": "unisa",
       "Solved tasks": 3,
       "Penalty": 347,
       "felix2": {
@@ -4491,7 +6373,7 @@
         "name": "Matteo Caporrella",
         "members": []
       },
-      "University": "polimi",
+      "University": "univaq",
       "Solved tasks": 3,
       "Penalty": 358,
       "felix2": {
@@ -4609,7 +6491,7 @@
         "name": "As an AI language model, I cannot recommend a name for your competitive programming team",
         "members": []
       },
-      "University": "polimi",
+      "University": "unitn",
       "Solved tasks": 3,
       "Penalty": 371,
       "felix2": {
@@ -4727,7 +6609,7 @@
         "name": "YoRHa",
         "members": []
       },
-      "University": "polimi",
+      "University": "unical",
       "Solved tasks": 3,
       "Penalty": 386,
       "felix2": {
@@ -4786,7 +6668,7 @@
         "name": "UNIUD team2",
         "members": []
       },
-      "University": "polimi",
+      "University": "uniud",
       "Solved tasks": 3,
       "Penalty": 392,
       "felix2": {
@@ -4904,7 +6786,7 @@
         "name": "Stefano Garbari",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipd",
       "Solved tasks": 3,
       "Penalty": 395,
       "felix2": {
@@ -5081,7 +6963,7 @@
         "name": "BohNonLoso",
         "members": []
       },
-      "University": "polimi",
+      "University": "unive",
       "Solved tasks": 3,
       "Penalty": 412,
       "felix2": {
@@ -5140,7 +7022,7 @@
         "name": "Bugged!Out",
         "members": []
       },
-      "University": "polimi",
+      "University": "unisa",
       "Solved tasks": 3,
       "Penalty": 417,
       "felix2": {
@@ -5258,7 +7140,7 @@
         "name": "sout-tab",
         "members": []
       },
-      "University": "polimi",
+      "University": "unisa",
       "Solved tasks": 3,
       "Penalty": 423,
       "felix2": {
@@ -5435,7 +7317,7 @@
         "name": "Onigiri",
         "members": []
       },
-      "University": "polimi",
+      "University": "unimi",
       "Solved tasks": 3,
       "Penalty": 446,
       "felix2": {
@@ -5553,7 +7435,7 @@
         "name": "727",
         "members": []
       },
-      "University": "polimi",
+      "University": "unive",
       "Solved tasks": 3,
       "Penalty": 479,
       "felix2": {
@@ -5730,7 +7612,7 @@
         "name": "Marco Luzzara",
         "members": []
       },
-      "University": "polimi",
+      "University": "unimi",
       "Solved tasks": 3,
       "Penalty": 491,
       "felix2": {
@@ -5848,7 +7730,7 @@
         "name": "Python_Forever",
         "members": []
       },
-      "University": "polimi",
+      "University": "unimi",
       "Solved tasks": 3,
       "Penalty": 513,
       "felix2": {
@@ -6025,7 +7907,7 @@
         "name": "Capelli blu",
         "members": []
       },
-      "University": "polimi",
+      "University": "univaq",
       "Solved tasks": 3,
       "Penalty": 569,
       "felix2": {
@@ -6143,7 +8025,7 @@
         "name": "NoobDebugers",
         "members": []
       },
-      "University": "polimi",
+      "University": "polito",
       "Solved tasks": 3,
       "Penalty": 615,
       "felix2": {
@@ -6261,7 +8143,7 @@
         "name": "Isig",
         "members": []
       },
-      "University": "polimi",
+      "University": "unical",
       "Solved tasks": 3,
       "Penalty": 645,
       "felix2": {
@@ -6379,7 +8261,7 @@
         "name": "Ismaele Lorenzon",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipd",
       "Solved tasks": 2,
       "Penalty": 59,
       "felix2": {
@@ -6556,7 +8438,7 @@
         "name": "Giacomo Giannone",
         "members": []
       },
-      "University": "polimi",
+      "University": "unict",
       "Solved tasks": 2,
       "Penalty": 103,
       "felix2": {
@@ -6615,7 +8497,7 @@
         "name": "Michele Ogniben",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipd",
       "Solved tasks": 2,
       "Penalty": 116,
       "felix2": {
@@ -6674,7 +8556,7 @@
         "name": "Mario Gottardo",
         "members": []
       },
-      "University": "polimi",
+      "University": "unive",
       "Solved tasks": 2,
       "Penalty": 123,
       "felix2": {
@@ -6792,7 +8674,7 @@
         "name": "Gamma",
         "members": []
       },
-      "University": "polimi",
+      "University": "polito",
       "Solved tasks": 2,
       "Penalty": 134,
       "felix2": {
@@ -6851,7 +8733,7 @@
         "name": "p4st0rin0",
         "members": []
       },
-      "University": "polimi",
+      "University": "unige",
       "Solved tasks": 2,
       "Penalty": 135,
       "felix2": {
@@ -6969,7 +8851,7 @@
         "name": "IDK",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipd",
       "Solved tasks": 2,
       "Penalty": 142,
       "felix2": {
@@ -7028,7 +8910,7 @@
         "name": "Ale_Ricca_sei_un_bono",
         "members": []
       },
-      "University": "polimi",
+      "University": "polito",
       "Solved tasks": 2,
       "Penalty": 145,
       "felix2": {
@@ -7087,7 +8969,7 @@
         "name": "L'importante \u00e8 partecipare",
         "members": []
       },
-      "University": "polimi",
+      "University": "unimi",
       "Solved tasks": 2,
       "Penalty": 146,
       "felix2": {
@@ -7146,7 +9028,7 @@
         "name": "Ministilo",
         "members": []
       },
-      "University": "polimi",
+      "University": "univaq",
       "Solved tasks": 2,
       "Penalty": 154,
       "felix2": {
@@ -7323,7 +9205,7 @@
         "name": "o(piccolo)",
         "members": []
       },
-      "University": "polimi",
+      "University": "unical",
       "Solved tasks": 2,
       "Penalty": 166,
       "felix2": {
@@ -7382,7 +9264,7 @@
         "name": "' or 1=1 -- -",
         "members": []
       },
-      "University": "polimi",
+      "University": "unifi",
       "Solved tasks": 2,
       "Penalty": 177,
       "felix2": {
@@ -7500,7 +9382,7 @@
         "name": "Sathia Alfredo Martino",
         "members": []
       },
-      "University": "polimi",
+      "University": "polito",
       "Solved tasks": 2,
       "Penalty": 201,
       "felix2": {
@@ -7559,7 +9441,7 @@
         "name": "Gabriele Zolla",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipd",
       "Solved tasks": 2,
       "Penalty": 203,
       "felix2": {
@@ -7618,7 +9500,7 @@
         "name": "Corpo Di Gendarmeria",
         "members": []
       },
-      "University": "polimi",
+      "University": "unitn",
       "Solved tasks": 2,
       "Penalty": 204,
       "felix2": {
@@ -7854,7 +9736,7 @@
         "name": "Teamballo",
         "members": []
       },
-      "University": "polimi",
+      "University": "univaq",
       "Solved tasks": 2,
       "Penalty": 224,
       "felix2": {
@@ -7913,7 +9795,7 @@
         "name": "Eidos_02",
         "members": []
       },
-      "University": "polimi",
+      "University": "unimib",
       "Solved tasks": 2,
       "Penalty": 227,
       "felix2": {
@@ -7972,7 +9854,7 @@
         "name": "dQw4w9WgXcQ",
         "members": []
       },
-      "University": "polimi",
+      "University": "unive",
       "Solved tasks": 2,
       "Penalty": 232,
       "felix2": {
@@ -8031,7 +9913,7 @@
         "name": "Alessandro Sidero",
         "members": []
       },
-      "University": "polimi",
+      "University": "unical",
       "Solved tasks": 2,
       "Penalty": 237,
       "felix2": {
@@ -8090,7 +9972,7 @@
         "name": "VORREI MA NON HOSTO",
         "members": []
       },
-      "University": "polimi",
+      "University": "unical",
       "Solved tasks": 2,
       "Penalty": 239,
       "felix2": {
@@ -8149,7 +10031,7 @@
         "name": "Spaghetti Coders",
         "members": []
       },
-      "University": "polimi",
+      "University": "unicam",
       "Solved tasks": 2,
       "Penalty": 240,
       "felix2": {
@@ -8208,7 +10090,7 @@
         "name": "Gang of Three",
         "members": []
       },
-      "University": "polimi",
+      "University": "univaq",
       "Solved tasks": 2,
       "Penalty": 253,
       "felix2": {
@@ -8621,7 +10503,7 @@
         "name": "Epsilon Move",
         "members": []
       },
-      "University": "polimi",
+      "University": "unimol",
       "Solved tasks": 2,
       "Penalty": 326,
       "felix2": {
@@ -8680,7 +10562,7 @@
         "name": "Tiziano Tacconi",
         "members": []
       },
-      "University": "polimi",
+      "University": "unicam",
       "Solved tasks": 2,
       "Penalty": 339,
       "felix2": {
@@ -8739,7 +10621,7 @@
         "name": "manuel leoni",
         "members": []
       },
-      "University": "polimi",
+      "University": "uninsubria",
       "Solved tasks": 2,
       "Penalty": 344,
       "felix2": {
@@ -8798,7 +10680,7 @@
         "name": "Top 11",
         "members": []
       },
-      "University": "polimi",
+      "University": "uninsubria",
       "Solved tasks": 2,
       "Penalty": 382,
       "felix2": {
@@ -8857,7 +10739,7 @@
         "name": "Crafters",
         "members": []
       },
-      "University": "polimi",
+      "University": "units",
       "Solved tasks": 2,
       "Penalty": 420,
       "felix2": {
@@ -8916,7 +10798,7 @@
         "name": "Filippo Biondi",
         "members": []
       },
-      "University": "polimi",
+      "University": "unicam",
       "Solved tasks": 1,
       "Penalty": 4,
       "felix2": {
@@ -8975,7 +10857,7 @@
         "name": "Saeed Amiri",
         "members": []
       },
-      "University": "polimi",
+      "University": "polito",
       "Solved tasks": 1,
       "Penalty": 9,
       "felix2": {
@@ -9034,7 +10916,7 @@
         "name": "Aida team",
         "members": []
       },
-      "University": "polimi",
+      "University": "units",
       "Solved tasks": 1,
       "Penalty": 10,
       "felix2": {
@@ -9211,7 +11093,7 @@
         "name": "Spinning neurons",
         "members": []
       },
-      "University": "polimi",
+      "University": "unimi",
       "Solved tasks": 1,
       "Penalty": 11,
       "felix2": {
@@ -9270,7 +11152,7 @@
         "name": "Inefficient",
         "members": []
       },
-      "University": "polimi",
+      "University": "unitn",
       "Solved tasks": 1,
       "Penalty": 12,
       "felix2": {
@@ -9329,7 +11211,7 @@
         "name": "GreedyMinds",
         "members": []
       },
-      "University": "polimi",
+      "University": "unisa",
       "Solved tasks": 1,
       "Penalty": 13,
       "felix2": {
@@ -9447,7 +11329,7 @@
         "name": "GC",
         "members": []
       },
-      "University": "polimi",
+      "University": "luiss",
       "Solved tasks": 1,
       "Penalty": 14,
       "felix2": {
@@ -9624,7 +11506,7 @@
         "name": "Rizzieri Fedrigo",
         "members": []
       },
-      "University": "polimi",
+      "University": "uniud",
       "Solved tasks": 1,
       "Penalty": 23,
       "felix2": {
@@ -9801,7 +11683,7 @@
         "name": "Godo",
         "members": []
       },
-      "University": "polimi",
+      "University": "unimi",
       "Solved tasks": 1,
       "Penalty": 40,
       "felix2": {
@@ -9919,7 +11801,7 @@
         "name": "Luca Ghirimoldi",
         "members": []
       },
-      "University": "polimi",
+      "University": "unimi",
       "Solved tasks": 1,
       "Penalty": 49,
       "felix2": {
@@ -9978,7 +11860,7 @@
         "name": "Ponte di Rialto",
         "members": []
       },
-      "University": "polimi",
+      "University": "unive",
       "Solved tasks": 1,
       "Penalty": 54,
       "felix2": {
@@ -10096,7 +11978,7 @@
         "name": "UniUD team 1",
         "members": []
       },
-      "University": "polimi",
+      "University": "uniud",
       "Solved tasks": 1,
       "Penalty": 64,
       "felix2": {
@@ -10155,7 +12037,7 @@
         "name": "Tommaso Armenti",
         "members": []
       },
-      "University": "polimi",
+      "University": "polito",
       "Solved tasks": 1,
       "Penalty": 76,
       "felix2": {
@@ -10332,7 +12214,7 @@
         "name": "Alex Fasolo",
         "members": []
       },
-      "University": "polimi",
+      "University": "uninsubria",
       "Solved tasks": 1,
       "Penalty": 79,
       "felix2": {
@@ -10391,7 +12273,7 @@
         "name": "Andrea Sacchetto",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipd",
       "Solved tasks": 1,
       "Penalty": 80,
       "felix2": {
@@ -10509,7 +12391,7 @@
         "name": "Mattia Pesce",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipd",
       "Solved tasks": 1,
       "Penalty": 82,
       "felix2": {
@@ -10568,7 +12450,7 @@
         "name": "Mugiwara",
         "members": []
       },
-      "University": "polimi",
+      "University": "unict",
       "Solved tasks": 1,
       "Penalty": 82,
       "felix2": {
@@ -10627,7 +12509,7 @@
         "name": "Oleksandr Kirpachov",
         "members": []
       },
-      "University": "polimi",
+      "University": "unive",
       "Solved tasks": 1,
       "Penalty": 87,
       "felix2": {
@@ -10745,7 +12627,7 @@
         "name": "Yakubian_Apes",
         "members": []
       },
-      "University": "polimi",
+      "University": "polito",
       "Solved tasks": 1,
       "Penalty": 88,
       "felix2": {
@@ -10922,7 +12804,7 @@
         "name": "60_cent_meal",
         "members": []
       },
-      "University": "polimi",
+      "University": "unimib",
       "Solved tasks": 1,
       "Penalty": 96,
       "felix2": {
@@ -10981,7 +12863,7 @@
         "name": "ApePress",
         "members": []
       },
-      "University": "polimi",
+      "University": "unicam",
       "Solved tasks": 1,
       "Penalty": 102,
       "felix2": {
@@ -11040,7 +12922,7 @@
         "name": "Milanesi in Trasferta",
         "members": []
       },
-      "University": "polimi",
+      "University": "uninsubria",
       "Solved tasks": 1,
       "Penalty": 103,
       "felix2": {
@@ -11158,7 +13040,7 @@
         "name": "SubwayCoders",
         "members": []
       },
-      "University": "polimi",
+      "University": "polito",
       "Solved tasks": 1,
       "Penalty": 115,
       "felix2": {
@@ -11217,7 +13099,7 @@
         "name": "Nicol\u00f2 Della Porta",
         "members": []
       },
-      "University": "polimi",
+      "University": "uniroma1",
       "Solved tasks": 1,
       "Penalty": 119,
       "felix2": {
@@ -11394,7 +13276,7 @@
         "name": "AliSina Karimi",
         "members": []
       },
-      "University": "polimi",
+      "University": "polito",
       "Solved tasks": 1,
       "Penalty": 136,
       "felix2": {
@@ -11571,7 +13453,7 @@
         "name": "Nicola Ye",
         "members": []
       },
-      "University": "polimi",
+      "University": "unive",
       "Solved tasks": 1,
       "Penalty": 154,
       "felix2": {
@@ -11689,7 +13571,7 @@
         "name": "\u200e",
         "members": []
       },
-      "University": "polimi",
+      "University": "polito",
       "Solved tasks": 1,
       "Penalty": 163,
       "felix2": {
@@ -11748,7 +13630,7 @@
         "name": "B3AST",
         "members": []
       },
-      "University": "polimi",
+      "University": "polito",
       "Solved tasks": 1,
       "Penalty": 175,
       "felix2": {
@@ -11866,7 +13748,7 @@
         "name": "Roberto Di Stefano",
         "members": []
       },
-      "University": "polimi",
+      "University": "univaq",
       "Solved tasks": 1,
       "Penalty": 179,
       "felix2": {
@@ -12102,7 +13984,7 @@
         "name": "Stefano Elisio",
         "members": []
       },
-      "University": "polimi",
+      "University": "univaq",
       "Solved tasks": 1,
       "Penalty": 334,
       "felix2": {
@@ -12161,7 +14043,7 @@
         "name": "DigitalCreations D&C",
         "members": []
       },
-      "University": "polimi",
+      "University": "unicam",
       "Solved tasks": 1,
       "Penalty": 366,
       "felix2": {
@@ -12397,7 +14279,7 @@
         "name": "maTricks",
         "members": []
       },
-      "University": "polimi",
+      "University": "polito",
       "Solved tasks": 0,
       "Penalty": 0,
       "felix2": {
@@ -12456,7 +14338,7 @@
         "name": "Matteo Zaramella",
         "members": []
       },
-      "University": "polimi",
+      "University": "uniroma1",
       "Solved tasks": 0,
       "Penalty": 0,
       "felix2": {
@@ -12515,7 +14397,7 @@
         "name": "Mohammed Amine Rebbaj",
         "members": []
       },
-      "University": "polimi",
+      "University": "uninsubria",
       "Solved tasks": 0,
       "Penalty": 0,
       "felix2": {
@@ -12574,7 +14456,7 @@
         "name": "Pietrosalvatore Savoia",
         "members": []
       },
-      "University": "polimi",
+      "University": "unical",
       "Solved tasks": 0,
       "Penalty": 0,
       "felix2": {
@@ -12633,7 +14515,7 @@
         "name": "Punto e Hackapo",
         "members": []
       },
-      "University": "polimi",
+      "University": "uninsubria",
       "Solved tasks": 0,
       "Penalty": 0,
       "felix2": {
@@ -12692,7 +14574,7 @@
         "name": "Riccardo Marchesani",
         "members": []
       },
-      "University": "polimi",
+      "University": "unipd",
       "Solved tasks": 0,
       "Penalty": 0,
       "felix2": {
@@ -12751,7 +14633,7 @@
         "name": "Sonia Foco",
         "members": []
       },
-      "University": "polimi",
+      "University": "polito",
       "Solved tasks": 0,
       "Penalty": 0,
       "felix2": {

@@ -1,31 +1,302 @@
 [
     {
+        "name": "Libera Universit\u00e0 Internazionale degli Studi Sociali \"Guido Carli\"",
+        "short_name": "luiss",
+        "website": "https://www.luiss.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 2,
+        "earliest_participation": 2021
+    },
+    {
         "name": "Politecnico di Milano",
         "short_name": "polimi",
         "website": "https://polimi.it/",
-        "total_gold_medals": 2,
+        "total_gold_medals": 0,
         "total_silver_medals": 0,
         "total_bronze_medals": 0,
-        "total_participations": 3,
+        "total_participations": 2,
         "earliest_participation": 2021
     },
     {
         "name": "Politecnico di Torino",
         "short_name": "polito",
         "website": "https://polito.it/",
-        "total_gold_medals": 1,
-        "total_silver_medals": 2,
-        "total_bronze_medals": 0,
-        "total_participations": 1,
-        "earliest_participation": 2022
-    },
-    {
-        "name": "Università di Bologna",
-        "short_name": "unibo",
         "total_gold_medals": 0,
         "total_silver_medals": 0,
-        "total_bronze_medals": 1,
+        "total_bronze_medals": 0,
+        "total_participations": 2,
+        "earliest_participation": 2021
+    },
+    {
+        "name": "Scuola Normale Superiore",
+        "short_name": "sns",
+        "website": "https://www.sns.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 1,
+        "earliest_participation": 2021
+    },
+    {
+        "name": "Scuola superiore di studi universitari e di perfezionamento Sant'Anna",
+        "short_name": "santanna",
+        "website": "https://www.santannapisa.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
         "total_participations": 1,
         "earliest_participation": 2023
+    },
+    {
+        "name": "Universit\u00e0 degli Studi di Bari Aldo Moro",
+        "short_name": "uniba",
+        "website": "https://www.uniba.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 1,
+        "earliest_participation": 2023
+    },
+    {
+        "name": "Universit\u00e0 degli Studi di Bologna",
+        "short_name": "unibo",
+        "website": "https://www.unibo.it/",
+        "total_gold_medals": 1,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 2,
+        "earliest_participation": 2021
+    },
+    {
+        "name": "Universit\u00e0 degli Studi della Calabria",
+        "short_name": "unical",
+        "website": "https://www.unical.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 1,
+        "earliest_participation": 2023
+    },
+    {
+        "name": "Universit\u00e0 degli Studi di Camerino",
+        "short_name": "unicam",
+        "website": "https://www.unicam.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 1,
+        "earliest_participation": 2023
+    },
+    {
+        "name": "Universit\u00e0 degli Studi di Catania",
+        "short_name": "unict",
+        "website": "https://www.unict.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 2,
+        "earliest_participation": 2021
+    },
+    {
+        "name": "Universit\u00e0 degli Studi di Firenze",
+        "short_name": "unifi",
+        "website": "https://www.unifi.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 1,
+        "earliest_participation": 2023
+    },
+    {
+        "name": "Universit\u00e0 degli Studi di Genova",
+        "short_name": "unige",
+        "website": "https://unige.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 2,
+        "earliest_participation": 2021
+    },
+    {
+        "name": "Universit\u00e0 degli Studi di Milano",
+        "short_name": "unimi",
+        "website": "https://www.unimi.it/",
+        "total_gold_medals": 1,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 2,
+        "earliest_participation": 2021
+    },
+    {
+        "name": "Universit\u00e0 degli Studi di Milano-Bicocca",
+        "short_name": "unimib",
+        "website": "https://www.unimib.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 1,
+        "earliest_participation": 2023
+    },
+    {
+        "name": "Universit\u00e0 degli Studi del Molise",
+        "short_name": "unimol",
+        "website": "https://www.unimol.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 1,
+        "earliest_participation": 2023
+    },
+    {
+        "name": "Universit\u00e0 degli Studi dell'Insubria",
+        "short_name": "uninsubria",
+        "website": "https://www.uninsubria.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 1,
+        "earliest_participation": 2023
+    },
+    {
+        "name": "Universit\u00e0 degli Studi di Padova",
+        "short_name": "unipd",
+        "website": "https://www.unipd.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 1,
+        "total_bronze_medals": 0,
+        "total_participations": 2,
+        "earliest_participation": 2021
+    },
+    {
+        "name": "Universit\u00e0 degli Studi di Perugia",
+        "short_name": "unipg",
+        "website": "https://www.unipg.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 1,
+        "earliest_participation": 2023
+    },
+    {
+        "name": "Universit\u00e0 degli Studi di Pisa",
+        "short_name": "unipi",
+        "website": "https://www.unipi.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 1,
+        "total_bronze_medals": 2,
+        "total_participations": 2,
+        "earliest_participation": 2021
+    },
+    {
+        "name": "Universit\u00e0 degli Studi di Roma \"La Sapienza\"",
+        "short_name": "uniroma1",
+        "website": "https://www.uniroma1.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 2,
+        "earliest_participation": 2021
+    },
+    {
+        "name": "Universit\u00e0 degli Studi di Salerno",
+        "short_name": "unisa",
+        "website": "https://www.unisa.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 1,
+        "earliest_participation": 2023
+    },
+    {
+        "name": "Universit\u00e0 degli Studi di Trento",
+        "short_name": "unitn",
+        "website": "https://www.unitn.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 1,
+        "earliest_participation": 2023
+    },
+    {
+        "name": "Universit\u00e0 degli Studi di Torino",
+        "short_name": "unito",
+        "website": "https://www.unito.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 1,
+        "earliest_participation": 2023
+    },
+    {
+        "name": "Universit\u00e0 degli Studi di Trieste",
+        "short_name": "units",
+        "website": "https://www.units.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 1,
+        "earliest_participation": 2023
+    },
+    {
+        "name": "Universit\u00e0 degli Studi di Udine",
+        "short_name": "uniud",
+        "website": "https://www.uniud.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 1,
+        "earliest_participation": 2023
+    },
+    {
+        "name": "Universit\u00e0 degli Studi del Piemonte Orientale \"Amedeo Avogadro\"",
+        "short_name": "uniupo",
+        "website": "https://uniupo.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 1,
+        "earliest_participation": 2023
+    },
+    {
+        "name": "Universit\u00e0 degli Studi dell'Aquila",
+        "short_name": "univaq",
+        "website": "https://www.univaq.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 2,
+        "earliest_participation": 2021
+    },
+    {
+        "name": "Universit\u00e0 Ca' Foscari di Venezia",
+        "short_name": "unive",
+        "website": "https://unive.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 1,
+        "earliest_participation": 2023
+    },
+    {
+        "name": "Universit\u00e0 Politecnica delle Marche",
+        "short_name": "univpm",
+        "website": "https://www.univpm.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 1,
+        "earliest_participation": 2023
+    },
+    {
+        "name": "Universit\u00e0 degli Studi di Verona",
+        "short_name": "univr",
+        "website": "https://www.univr.it/",
+        "total_gold_medals": 0,
+        "total_silver_medals": 0,
+        "total_bronze_medals": 0,
+        "total_participations": 1,
+        "earliest_participation": 2021
     }
 ]
