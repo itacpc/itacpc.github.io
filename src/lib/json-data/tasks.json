@@ -1,77 +1,114 @@
 {
+    "2021": {
+        "contest_tasks": [
+            {
+                "id": "party",
+                "name": "Bitwise Party",
+                "statement": "/files/2021/party.pdf"
+            },
+            {
+                "id": "marathon",
+                "name": "Training for the Marathon",
+                "statement": "/files/2021/marathon.pdf"
+            },
+            {
+                "id": "bird",
+                "name": "Flappy Bird",
+                "statement": "/files/2021/bird.pdf"
+            },
+            {
+                "id": "keyboard",
+                "name": "Keyboard Shift",
+                "statement": "/files/2021/keyboard.pdf"
+            },
+            {
+                "id": "police",
+                "name": "Police Investigation 6",
+                "statement": "/files/2021/police.pdf"
+            },
+            {
+                "id": "sorting",
+                "name": "Sorting Proximity",
+                "statement": "/files/2021/sorting.pdf"
+            },
+            {
+                "id": "sieve",
+                "name": "The Sieve of Eratosthenes",
+                "statement": "/files/2021/sieve.pdf"
+            },
+            {
+                "id": "wine",
+                "name": "Wine Tasting Tour",
+                "statement": "/files/2021/wine.pdf"
+            },
+            {
+                "id": "words",
+                "name": "Words, Just Words",
+                "statement": "/files/2021/words.pdf"
+            }
+        ]
+    },
     "2023": {
         "contest_tasks": [
             {
                 "id": "digits",
                 "name": "Sum of Digits",
-                "statement": "/files/2023/digits.pdf",
-                "solutions": "/files/2023/digits-sol.zip"
+                "statement": "/files/2023/digits.pdf"
             },
             {
                 "id": "pigeon",
                 "name": "Pigeon Life",
-                "statement": "/files/2023/pigeon.pdf",
-                "solutions": "/files/2023/pigeon-sol.zip"
+                "statement": "/files/2023/pigeon.pdf"
             },
             {
                 "id": "bookcase",
                 "name": "Palindromic Bookcase",
-                "statement": "/files/2023/bookcase.pdf",
-                "solutions": "/files/2023/bookcase-sol.zip"
+                "statement": "/files/2023/bookcase.pdf"
             },
             {
                 "id": "birthday",
                 "name": "Palindromic Birthday",
-                "statement": "/files/2023/birthday.pdf",
-                "solutions": "/files/2023/birthday-sol.zip"
+                "statement": "/files/2023/birthday.pdf"
             },
             {
                 "id": "meetings",
                 "name": "So Many Meetings",
-                "statement": "/files/2023/meetings.pdf",
-                "solutions": "/files/2023/meetings-sol.zip"
+                "statement": "/files/2023/meetings.pdf"
             },
             {
                 "id": "tree",
                 "name": "Tree Restoration",
-                "statement": "/files/2023/tree.pdf",
-                "solutions": "/files/2023/tree-sol.zip"
+                "statement": "/files/2023/tree.pdf"
             },
             {
                 "id": "parentheses",
                 "name": "Matter of Parentheses",
-                "statement": "/files/2023/parentheses.pdf",
-                "solutions": "/files/2023/parentheses-sol.zip"
+                "statement": "/files/2023/parentheses.pdf"
             },
             {
                 "id": "felix2",
                 "name": "Fold it Felix! 2",
-                "statement": "/files/2023/felix2.pdf",
-                "solutions": "/files/2023/felix2-sol.zip"
+                "statement": "/files/2023/felix2.pdf"
             },
             {
                 "id": "hike",
                 "name": "Hike on the Mountain",
-                "statement": "/files/2023/hike.pdf",
-                "solutions": "/files/2023/hike-sol.zip"
+                "statement": "/files/2023/hike.pdf"
             },
             {
                 "id": "events",
                 "name": "Turn of Events",
-                "statement": "/files/2023/events.pdf",
-                "solutions": "/files/2023/events-sol.zip"
+                "statement": "/files/2023/events.pdf"
             },
             {
                 "id": "agency",
                 "name": "Travel Agency",
-                "statement": "/files/2023/agency.pdf",
-                "solutions": "/files/2023/agency-sol.zip"
+                "statement": "/files/2023/agency.pdf"
             },
             {
                 "id": "pizzalandia",
                 "name": "Pizzalandia",
-                "statement": "/files/2023/pizzalandia.pdf",
-                "solutions": "/files/2023/pizzalandia-sol.zip"
+                "statement": "/files/2023/pizzalandia.pdf"
             }
         ]
     }
