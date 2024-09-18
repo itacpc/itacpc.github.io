@@ -96,13 +96,13 @@
 									  	</ul>
 									</div>
 								{:else if header == 'University'}
-									<a class="tooltip h-7" data-tip={data.universityMap[row.University]} href="asd">
+									<span class="tooltip h-7 cursor-help" data-tip={data.universityMap[row.University]}>
 										<img
 											class="w-7 h-7"
 											src="{base}/images/flags/{row.University}.png"
 											alt={data.universityMap[row.University]}
 										/>
-									</a>
+									</span>
 								{:else}
 									{row[`${header}`]}
 								{/if}
