@@ -1,4 +1,4 @@
-import{s as $,a as d,h as x,d as r,c as m,k as h,t as I,g as K,e as _,b as k,i as N,j as T,n as S}from"../chunks/scheduler.piR_H7nd.js";import{S as C,i as M,c as u,a as f,m as b,t as g,b as w,d as v}from"../chunks/index.C44RW9Sf.js";import{b as y}from"../chunks/paths.CST8sDOj.js";import{H as P}from"../chunks/Hero.DMFQIGAm.js";import{C as A}from"../chunks/Content.CKxdvEWY.js";function R(n){let e;return{c(){e=I("ITACPC Sample Problem")},l(s){e=K(s,"ITACPC Sample Problem")},m(s,a){h(s,e,a)},d(s){s&&r(e)}}}function L(n){let e,s=`<p>In this page we will show you a sample problem that reflects the
+import{s as $,a as d,h as x,d as r,c as m,k as h,t as I,g as k,e as K,b as _,i as N,j as T,n as S}from"../chunks/scheduler.piR_H7nd.js";import{S as C,i as P,c as u,a as f,m as b,t as g,b as w,d as v}from"../chunks/index.C44RW9Sf.js";import{b as y}from"../chunks/paths.CHx1nNBV.js";import{H as M}from"../chunks/Hero.DMFQIGAm.js";import{C as A}from"../chunks/Content.CKxdvEWY.js";function R(n){let e;return{c(){e=I("ITACPC Sample Problem")},l(s){e=k(s,"ITACPC Sample Problem")},m(s,o){h(s,e,o)},d(s){s&&r(e)}}}function L(n){let e,s=`<p>In this page we will show you a sample problem that reflects the
 			type of problems you will be asked to solve during a typical ITACPC
 			round, and we will also present a possible solution implemented in
 			Python, in Java and in C++. Remember that the tasks will always be
@@ -35,20 +35,22 @@ import{s as $,a as d,h as x,d as r,c as m,k as h,t as I,g as K,e as _,b as k,i a
 			elements. We will see that this solution is actually incredibly
 			slow, and it also proves quite difficult to implement in languages
 			such as C++ (in Python it&#39;s quite easy because of its rich standard
-			library, see: itertools.combinations).</p> <p>As it usually happens, “obvious” solutions are often wrong (or too
+			library, see: <a href="https://docs.python.org/3/library/itertools.html#itertools.combinations">itertools.combinations</a>).</p> <p>As it usually happens, “obvious” solutions are often wrong (or too
 			slow). In fact, here the number of possible combinations of K
 			elements from a set of N elements can become huge. In the example
 			above, with N=10 and K=3, we only have 120 possible combinations. If
 			we increased to N=30 and K=15 we would have more than 150 million
 			combinations! Solving such a testcase is probably still feasible
 			within the time limit, but what&#39;s the worst possible testcase?</p> <p>From the “Constraints” section of the problem description (and from
-			a quick look at Pascal&#39;s triangle) we can see that the worst
-			possible case is when N=1000000 and K=500000. In that case, the
-			number of combinations will be around 10<sup>301026</sup>, yes, that
-			number is “1” followed by 301026 zeroes!</p> <p>For perspective, the observable universe is estimated to “only” have
+			a quick look at <a href="https://en.wikipedia.org/wiki/Pascal&#39;s_triangle">Pascal&#39;s
+			triangle</a>) we can see that the worst possible case is when
+			N=1000000 and K=500000. In that case, the number of combinations
+			will be around 10<sup>301026</sup>, yes, that number is “1” followed
+			by 301026 zeroes!</p> <p>For perspective, the observable universe is estimated to “only” have
 			around 10<sup>80</sup> atoms.</p> <h2 class="text-xl">Let&#39;s do it faster!</h2> <p>Let&#39;s take the example with N=10 and the following heights (the
-			solution, with spread 6, is marked):</p> <p>67, 90, 22, 79, 95, 89, 76, 21, 65, 99</p> <p>Let&#39;s sort the heights in increasing order (but we will see that
-			also decreasing order is OK):</p> <p>21, 22, 65, 67, 76, 79, 89, 90, 95, 99</p> <p>Now that the numbers are sorted, we can easily see that it&#39;s never a
+			solution, with spread 6, is marked):</p> <p>67, <strong>90</strong>, 22, 79, <strong>95, 89</strong>, 76, 21,
+			65, 99</p> <p>Let&#39;s <strong>sort</strong> the heights in increasing order (but we
+			will see that also decreasing order is OK):</p> <p>21, 22, 65, 67, 76, 79, 89, <strong>90, 95, 99</strong></p> <p>Now that the numbers are sorted, we can easily see that it&#39;s never a
 			good idea to choose K chambers which are not consecutive in the
 			sorted array. Why is that? Well, because if we chose a
 			non-consecutive set then it would obviously be possible to reduce
@@ -125,4 +127,4 @@ public class Main  // class name should be &quot;Main&quot;
 	}
 }
 		</pre> <p>In our tests, this solution runs in about 1.5 seconds (and uses 104
-			MiB of RAM) on the hardest testcases we have.</p>`;return{c(){e=_("div"),e.innerHTML=s,this.h()},l(a){e=k(a,"DIV",{class:!0,"data-svelte-h":!0}),N(e)!=="svelte-86ysth"&&(e.innerHTML=s),this.h()},h(){T(e,"class","w-full max-w-4xl 2xl:max-w-7xl flex flex-col gap-8")},m(a,o){h(a,e,o)},p:S,d(a){a&&r(e)}}}function j(n){let e,s,a,o,l;return s=new P({props:{$$slots:{default:[R]},$$scope:{ctx:n}}}),o=new A({props:{$$slots:{default:[L]},$$scope:{ctx:n}}}),{c(){e=d(),u(s.$$.fragment),a=d(),u(o.$$.fragment),this.h()},l(t){x("svelte-1cpilgf",document.head).forEach(r),e=m(t),f(s.$$.fragment,t),a=m(t),f(o.$$.fragment,t),this.h()},h(){document.title="ITACPC Sample Problem"},m(t,i){h(t,e,i),b(s,t,i),h(t,a,i),b(o,t,i),l=!0},p(t,[i]){const p={};i&2&&(p.$$scope={dirty:i,ctx:t}),s.$set(p);const c={};i&2&&(c.$$scope={dirty:i,ctx:t}),o.$set(c)},i(t){l||(g(s.$$.fragment,t),g(o.$$.fragment,t),l=!0)},o(t){w(s.$$.fragment,t),w(o.$$.fragment,t),l=!1},d(t){t&&(r(e),r(a)),v(s,t),v(o,t)}}}function H(n,e,s){let{data:a}=e;return n.$$set=o=>{"data"in o&&s(0,a=o.data)},[a]}class E extends C{constructor(e){super(),M(this,e,H,j,$,{data:0})}}export{E as component};
+			MiB of RAM) on the hardest testcases we have.</p>`;return{c(){e=K("div"),e.innerHTML=s,this.h()},l(o){e=_(o,"DIV",{class:!0,"data-svelte-h":!0}),N(e)!=="svelte-grel48"&&(e.innerHTML=s),this.h()},h(){T(e,"class","w-full max-w-4xl 2xl:max-w-7xl flex flex-col gap-8")},m(o,a){h(o,e,a)},p:S,d(o){o&&r(e)}}}function j(n){let e,s,o,a,l;return s=new M({props:{$$slots:{default:[R]},$$scope:{ctx:n}}}),a=new A({props:{$$slots:{default:[L]},$$scope:{ctx:n}}}),{c(){e=d(),u(s.$$.fragment),o=d(),u(a.$$.fragment),this.h()},l(t){x("svelte-1cpilgf",document.head).forEach(r),e=m(t),f(s.$$.fragment,t),o=m(t),f(a.$$.fragment,t),this.h()},h(){document.title="ITACPC Sample Problem"},m(t,i){h(t,e,i),b(s,t,i),h(t,o,i),b(a,t,i),l=!0},p(t,[i]){const p={};i&2&&(p.$$scope={dirty:i,ctx:t}),s.$set(p);const c={};i&2&&(c.$$scope={dirty:i,ctx:t}),a.$set(c)},i(t){l||(g(s.$$.fragment,t),g(a.$$.fragment,t),l=!0)},o(t){w(s.$$.fragment,t),w(a.$$.fragment,t),l=!1},d(t){t&&(r(e),r(o)),v(s,t),v(a,t)}}}function H(n,e,s){let{data:o}=e;return n.$$set=a=>{"data"in a&&s(0,o=a.data)},[o]}class E extends C{constructor(e){super(),P(this,e,H,j,$,{data:0})}}export{E as component};
