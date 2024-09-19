@@ -10,7 +10,7 @@ export async function load() {
             return b.total_bronze_medals - a.total_bronze_medals;
         if (a.total_participations != b.total_participations)
             return b.total_participations - a.total_participations;
-        return a.short_name.localeCompare(b.short_name);
+        return a.name.localeCompare(b.name);
     });
 
     return {universities};

@@ -16,7 +16,8 @@
 <Hero>Universities</Hero>
 <Content>
 	<Description>
-		Here is the list of the participating universities with links to their websites.
+		A total of {data.universities.length} universities have participated at
+		least once in ITACPC.
 	</Description>
 	<div class="flex flex-col items-center w-full max-w-2xl gap-6">
 		{#each data.universities as university}
