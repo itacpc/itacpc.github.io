@@ -31,7 +31,7 @@
 			</p>
 			<p>
 				If you never participated in a similar competition,
-				<a href="{base}/" class="btn-link link-secondary">click here to see a sample problem</a>
+				<a href="{base}/competition/sample-problem" class="btn-link link-secondary">click here to see a sample problem</a>
 			</p>
 			<p>
 				The competition contains typically around 10 problems, with
