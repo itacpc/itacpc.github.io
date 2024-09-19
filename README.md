@@ -1,5 +1,5 @@
 
-# itacpc.github.io
+# [itacpc.github.io](http://itacpc.github.io/)
 
 This is the soon-to-be-published new website for ITACPC.
 
