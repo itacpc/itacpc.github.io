@@ -24,7 +24,7 @@
 			<span class="font-bold text-2xl">
 				#{row.Rank ? row.Rank : rank}
 			</span>
-			<span class="text-center grow text-xl">{row.Team}</span>
+			<span class="text-center grow text-xl">{row["Team"].name}</span>
 			<a class="btn bg-gray-100 border-gray-300 flex items-center gap-x-1" href="{base}/universities#{row.University}">
 				<img
 					bind:this={flag}
