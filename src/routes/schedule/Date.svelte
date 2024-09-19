@@ -13,5 +13,6 @@
                 <slot name="date"></slot>
             </div>
         </div>
+        <slot name="other"></slot>
     </div>
 </div>
