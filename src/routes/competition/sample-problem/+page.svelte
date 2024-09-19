@@ -160,7 +160,8 @@
 			elements. We will see that this solution is actually incredibly
 			slow, and it also proves quite difficult to implement in languages
 			such as C++ (in Python it's quite easy because of its rich standard
-			library, see: itertools.combinations).
+			library, see: <a
+			href="https://docs.python.org/3/library/itertools.html#itertools.combinations">itertools.combinations</a>).
 		</p>
 
 		<p>
@@ -175,10 +176,12 @@
 
 		<p>
 			From the “Constraints” section of the problem description (and from
-			a quick look at Pascal's triangle) we can see that the worst
-			possible case is when N=1000000 and K=500000. In that case, the
-			number of combinations will be around 10<sup>301026</sup>, yes, that
-			number is “1” followed by 301026 zeroes!
+			a quick look at <a
+			href="https://en.wikipedia.org/wiki/Pascal's_triangle">Pascal's
+			triangle</a>) we can see that the worst possible case is when
+			N=1000000 and K=500000. In that case, the number of combinations
+			will be around 10<sup>301026</sup>, yes, that number is “1” followed
+			by 301026 zeroes!
 		</p>
 
 		<p>
@@ -194,16 +197,17 @@
 		</p>
 
 		<p>
-			67, 90, 22, 79, 95, 89, 76, 21, 65, 99
+			67, <strong>90</strong>, 22, 79, <strong>95, 89</strong>, 76, 21,
+			65, 99
 		</p>
 
 		<p>
-			Let's sort the heights in increasing order (but we will see that
-			also decreasing order is OK):
+			Let's <strong>sort</strong> the heights in increasing order (but we
+			will see that also decreasing order is OK):
 		</p>
 
 		<p>
-			21, 22, 65, 67, 76, 79, 89, 90, 95, 99
+			21, 22, 65, 67, 76, 79, 89, <strong>90, 95, 99</strong>
 		</p>
 
 		<p>
