@@ -2,12 +2,13 @@
 import results from '$lib/json-data/results.json';
 import tasks from '$lib/json-data/tasks.json';
 import universities from '$lib/json-data/universities.json';
+import { error } from '@sveltejs/kit';
 
 export async function load({ params }) {
     const year = params.year;
 
     if(!results[`${year}`]) {
-        throw error(404, "Not Found");
+        error(404, "Not Found");
     }
 
     const rows = results[`${year}`];
