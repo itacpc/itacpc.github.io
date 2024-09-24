@@ -23,13 +23,13 @@
 			<div class="card-body">
 				<h2 class="card-title">
 					<span class="badge badge-lg bg-green-400">NEW</span>
-					Registration are open
+					Registration is open
 				</h2>
 				<div class="flex flex-row items-center gap-2 text-justify">
-					The registrations for ITACPC 2024 are now open!
+					The registration for ITACPC 2024 is now open!
 
 					<span>
-						<a class="btn btn-primary" href="{base}/schedule">See schedule</a>
+						<a class="btn btn-primary" href="https://teams24.itacpc.it/">Register here</a>
 					</span>
 				</div>
 			</div>
