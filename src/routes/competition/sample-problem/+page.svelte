@@ -8,7 +8,7 @@
 </script>
 
 <svelte:head>
-	<title>ITACPC Sample Problem</title>
+	<title>Sample Problem - ITACPC</title>
 </svelte:head>
 
 <Hero>ITACPC Sample Problem</Hero>

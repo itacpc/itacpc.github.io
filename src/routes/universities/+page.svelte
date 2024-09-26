@@ -10,7 +10,7 @@
 </script>
 
 <svelte:head>
-	<title>Universities</title>
+	<title>Universities - ITACPC</title>
 </svelte:head>
 
 <Hero>Universities</Hero>

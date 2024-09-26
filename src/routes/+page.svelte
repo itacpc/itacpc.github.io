@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>ITACPC - Italian Collegiate Programming Contest</title>
 </svelte:head>
 
 <div class="w-full flex justify-center bg-base-200 border-b-[1.5px] border-base-300 shadow-sm z-10">

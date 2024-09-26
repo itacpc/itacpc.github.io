@@ -21,7 +21,7 @@
 </script>
 
 <svelte:head>
-	<title>{data.year} Results</title>
+	<title>{data.year} Results - ITACPC</title>
 </svelte:head>
 
 <Hero>ITACPC {data.year} Results</Hero>

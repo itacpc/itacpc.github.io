@@ -10,7 +10,7 @@
 </script>
 
 <svelte:head>
-	<title>{data.year} Tasks</title>
+	<title>{data.year} Tasks - ITACPC</title>
 </svelte:head>
 
 <Hero>ITACPC {data.year} Tasks</Hero>

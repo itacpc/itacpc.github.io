@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>ITACPC Schedule</title>
+	<title>Schedule - ITACPC</title>
 </svelte:head>
 
 <Hero>Schedule</Hero>

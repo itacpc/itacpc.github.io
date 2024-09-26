@@ -8,7 +8,7 @@
 </script>
 
 <svelte:head>
-	<title>ITACPC Rules</title>
+	<title>Rules - ITACPC</title>
 </svelte:head>
 
 <Hero>ITACPC Rules</Hero>

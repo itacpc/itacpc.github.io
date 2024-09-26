@@ -11,7 +11,7 @@
 </script>
 
 <svelte:head>
-	<title>Past editions</title>
+	<title>Past editions - ITACPC</title>
 </svelte:head>
 
 <Hero>Past editions of ITACPC</Hero>
