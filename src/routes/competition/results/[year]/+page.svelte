@@ -29,7 +29,7 @@
 <Content>
 	<div class="gap-6 w-full flex-col flex md:hidden">
 		{#each data.rows as row, i}
-			<ResultCard year={data.year} {row} tasks={data.tasks} />
+			<ResultCard year={data.year} {row} tasks={data.tasks.contest_tasks} />
 		{/each}
 	</div>
 
