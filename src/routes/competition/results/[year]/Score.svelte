@@ -14,11 +14,11 @@
 	}
 </script>
 
-{#if score.attempts > 0}
+{#if score[1] > 0}
 	<span
 		class="indicator-item indicator-top indicator-center badge
-				{score.solve_time == null ? 'badge-error' : 'badge-success'}"
+				{score[0] == null ? 'badge-error' : 'badge-success'}"
 	>
-		{formatTime(score.solve_time)}
+		{formatTime(score[0])}
 	</span>
 {/if}

@@ -3,8 +3,6 @@
 	import { base } from '$app/paths';
 	import Hero from '$lib/components/page/Hero.svelte';
 	import Content from '$lib/components/page/Content.svelte';
-
-	export let data;
 </script>
 
 <svelte:head>

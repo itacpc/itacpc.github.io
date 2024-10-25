@@ -29,7 +29,7 @@
 <Content>
 	<div class="gap-6 w-full flex-col flex md:hidden">
 		{#each data.rows as row, i}
-			<ResultCard hasTasks={data.hasTasks} year={data.year}  {row} headers={data.headers} rank={i+1} />
+			<ResultCard year={data.year} {row} tasks={data.tasks} />
 		{/each}
 	</div>
 
@@ -38,16 +38,17 @@
 			<thead>
 				{#each data.headers as th}
 					<th class="whitespace-break-spaces text-sm">
-						{#if data.hasTasks && !['Rank', 'Award', 'Team', 'University', 'School', 'Solved tasks', 'Penalty'].includes(th)}
-							<a
-								href="{base}/competition/tasks/{data.year}#{th}"
-								class="whitespace-break-spaces link link-hover h-min"
-							>
-								{th}
-							</a>
-						{:else}
-							{th}
-						{/if}
+						{th}
+					</th>
+				{/each}
+				{#each data.tasks.contest_tasks as task}
+					<th class="whitespace-break-spaces text-sm">
+						<a
+							href="{base}/competition/tasks/{data.year}#{task.id}"
+							class="whitespace-break-spaces link link-hover h-min"
+						>
+							{task.id}
+						</a>
 					</th>
 				{/each}
 			</thead>
@@ -55,8 +56,8 @@
 				{#each data.rows as row}
 					<tr>
 						{#each data.headers as header}
-							<td class={['Team', 'University', 'School'].includes(header) ? 'left' : ''}>
-								{#if header == 'Award' && row.Award && row.Award != ''}
+							{#if header == 'Award' && row.Award && row.Award != ''}
+								<td>
 									<div class="tooltip h-7" data-tip={row.Award}>
 										<img
 											class="w-7 h-7"
@@ -64,28 +65,15 @@
 											alt={row.Award}
 										/>
 									</div>
-								{:else if !['Rank', 'Award', 'Team', 'University', 'School', 'Solved tasks', 'Penalty'].includes(header)}
-									{#if row[`${header}`].attempts > 0}
-										<span
-											class="badge
-												{row[`${header}`].attempts > 0
-													? (row[`${header}`].solve_time == null
-														? 'badge-error'
-														: 'badge-success')
-													: ''}"
-										>
-											{formatTime(row[`${header}`].solve_time)}
-										</span><br>
-										<span class="text-xs">
-											{row[`${header}`].attempts}
-											tr{row[`${header}`].attempts == 1 ? 'y' : 'ies'}
-										</span>
-									{/if}
-								{:else if header == 'Solved tasks'}
+								</td>
+							{:else if header == 'Solved tasks'}
+								<td>
 									<span class="badge badge-neutral font-bold">
 										{row[`${header}`]}
 									</span>
-								{:else if header == 'Team'}
+								</td>
+							{:else if header == 'Team'}
+								<td class="left">
 									<div class="collapse">
 										<input type="checkbox" /> 
 										<button class="collapse-title underline decoration-dotted">{row[`${header}`].name}</button>
@@ -95,18 +83,52 @@
 											{/each}
 									  	</ul>
 									</div>
-								{:else if header == 'University'}
-									<span class="tooltip h-7 cursor-help" data-tip={data.universityMap[row.University]}>
+								</td>
+							{:else if header == 'University'}
+								<td>
+									<span class="tooltip cursor-help" data-tip={data.universityMap[row.University]}>
 										<img
-											class="w-7 h-7"
+											class="w-12 h-12"
 											src="{base}/images/flags/{row.University}.png"
 											alt={data.universityMap[row.University]}
 										/>
 									</span>
-								{:else}
+									{#if row.univ_rank == 1}
+										<span class="tooltip cursor-help absolute" data-tip="First team of this university">
+											<img
+												class="w-5 h-5"
+												src="{base}/images/medals/first.png"
+												alt="First team of this university"
+											/>
+										</span>
+									{/if}
+								</td>
+							{:else}
+								<td>
 									{row[`${header}`]}
-								{/if}
-							</td>
+								</td>
+							{/if}
+						{/each}
+
+						{#each row["Tasks"] as t}
+						<td>
+							{#if t[1] > 0}
+								<span
+									class="badge
+										{t[1] > 0
+											? (t[0] == null
+												? 'badge-error'
+												: 'badge-success')
+											: ''}"
+								>
+									{formatTime(t[0])}
+								</span><br>
+								<span class="text-xs">
+									{t[1]}
+									tr{t[1] == 1 ? 'y' : 'ies'}
+								</span>
+							{/if}
+						</td>
 						{/each}
 					</tr>
 				{/each}

@@ -1,16 +1,15 @@
-// @ts-nocheck
-import tasks_json from '$lib/json-data/tasks.json';
 import { error } from '@sveltejs/kit';
 
 export async function load({ params }) {
-    const year = params.year;
+	const year = params.year;
 
-    if(!tasks_json[`${year}`]) {
-        error(404, "Not Found");
-    }
+	const { default: tasks_json } = await import(`$lib/json-data/tasks${year}.json`);
 
-    let ret = tasks_json[`${year}`];
-    ret.year = year;
+	if (!tasks_json) {
+		error(404, 'Not Found');
+	}
 
-    return ret;
-};
+	tasks_json.year = year;
+
+	return tasks_json;
+}

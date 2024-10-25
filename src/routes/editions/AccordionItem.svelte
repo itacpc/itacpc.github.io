@@ -1,7 +1,4 @@
 <script context="module">
-	import tasks_file from '$lib/json-data/tasks.json';
-	import results_file from '$lib/json-data/results.json';
-
 	import { galleries } from '$lib/stores';
 	import { writable } from 'svelte/store';
 
@@ -16,9 +13,6 @@
 	export let year;
 	export let flag = null;
 
-	let tasks = tasks_file[`${year}`];
-	let results = results_file[`${year}`];
-
 	const selfId = count++;
 	$: active = selfId == $activeId;
 
@@ -30,7 +24,7 @@
 </script>
 
 <div
-	class:collapse-arrow={tasks || results}
+	class:collapse-arrow={true}
 	class="collapse w-full join-item bg-base-200 border border-base-300"
 >
 	<input bind:checked={active} on:change={(e) => change(e)} type="checkbox" name="accordion" />
@@ -47,21 +41,15 @@
 		<div class="contents text-lg">
 			<slot name="description" />
 		</div>
-		{#if tasks || results}
-			<div class="flex flex-wrap gap-4">
-				{#if tasks}
-					<a
-						class="grow px-8 btn btn-secondary text-lg rounded-btn"
-						href="{base}/competition/tasks/{year}">Tasks</a
-					>
-				{/if}
-				{#if results}
-					<a
-						class="grow px-8 btn btn-primary text-lg rounded-btn"
-						href="{base}/competition/results/{year}">Results</a
-					>
-				{/if}
-			</div>
-		{/if}
+		<div class="flex flex-wrap gap-4">
+			<a
+				class="grow px-8 btn btn-secondary text-lg rounded-btn"
+				href="{base}/competition/tasks/{year}">Tasks</a
+			>
+			<a
+				class="grow px-8 btn btn-primary text-lg rounded-btn"
+				href="{base}/competition/results/{year}">Results</a
+			>
+		</div>
 	</div>
 </div>

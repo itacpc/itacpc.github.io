@@ -6,9 +6,7 @@
 
 	export let year;
 	export let row;
-	export let headers;
-	export let rank = null;
-	export let hasTasks;
+	export let tasks;
 
 	let flag;
 	function error() {
@@ -22,7 +20,7 @@
 	<div class="card-body p-6 gap-4">
 		<h2 class="card-title flex items-start justify-between gap-4">
 			<span class="font-bold text-2xl">
-				#{row.Rank ? row.Rank : rank}
+				#{row.Rank}
 			</span>
 			<span class="text-center grow text-xl">{row["Team"].name}</span>
 			<a class="btn bg-gray-100 border-gray-300 flex items-center gap-x-1" href="{base}/universities#{row.University}">
@@ -60,23 +58,14 @@
 				Solve time of attempted tasks:
 			</div>
 			<div class="collapse-content {open ? 'mt-2' : ''} flex flex-wrap gap-x-4 gap-y-6">
-				{#each headers as header}
-					{#if !['Rank', 'Award', 'Team', 'University', 'Solved tasks', 'Penalty'].includes(header)}
-						{#if hasTasks}
-							<a
-								class="btn hover:bg-base-100 indicator grow normal-case"
-								href="{base}/competition/tasks/{year}#{header}"
-							>
-								<Score score={row[`${header}`]} />
-								{header}
-							</a>
-						{:else}
-							<div class="h-12 px-4 flex justify-center items-center bg-base-200 rounded-btn indicator grow normal-case">
-								<Score score={row[`${header}`]} />
-								{header}
-							</div>
-						{/if}
-					{/if}
+				{#each tasks as t, i}
+					<a
+						class="btn hover:bg-base-100 indicator grow normal-case"
+						href="{base}/competition/tasks/{year}#{t.id}"
+					>
+						<Score score={row["Tasks"][i]} />
+						{t.id}
+					</a>
 				{/each}
 			</div>
 		</div>
