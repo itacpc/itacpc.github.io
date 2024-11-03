@@ -1,0 +1,64 @@
+{
+    "contest_tasks": [
+        {
+            "id": "quantum",
+            "name": "Quantum Frog",
+            "statement": "/files/2024/quantum.pdf"
+        },
+        {
+            "id": "espresso",
+            "name": "That's that Me Espresso",
+            "statement": "/files/2024/espresso.pdf"
+        },
+        {
+            "id": "inspection",
+            "name": "Elevator Inspection",
+            "statement": "/files/2024/inspection.pdf"
+        },
+        {
+            "id": "pancakes",
+            "name": "Pancake Rotation Challenge",
+            "statement": "/files/2024/pancakes.pdf"
+        },
+        {
+            "id": "screensaver",
+            "name": "Cool Screensaver",
+            "statement": "/files/2024/screensaver.pdf"
+        },
+        {
+            "id": "teams",
+            "name": "Team Building Excercise",
+            "statement": "/files/2024/teams.pdf"
+        },
+        {
+            "id": "texts",
+            "name": "Text Messaging App",
+            "statement": "/files/2024/texts.pdf"
+        },
+        {
+            "id": "anchovies",
+            "name": "Buying and Selling Anchovies",
+            "statement": "/files/2024/anchovies.pdf"
+        },
+        {
+            "id": "cornetti",
+            "name": "Rush to Cornetti",
+            "statement": "/files/2024/cornetti.pdf"
+        },
+        {
+            "id": "virus",
+            "name": "ITACPC Sabotage!",
+            "statement": "/files/2024/virus.pdf"
+        },
+        {
+            "id": "recovery",
+            "name": "Desperate Recovery",
+            "statement": "/files/2024/recovery.pdf"
+        },
+        {
+            "id": "ferret",
+            "name": "Fast Ferret Transform",
+            "statement": "/files/2024/ferret.pdf"
+        }
+    ]
+}
