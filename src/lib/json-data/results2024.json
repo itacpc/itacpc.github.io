@@ -4,7 +4,11 @@
     "Award": "gold",
     "Team": {
       "name": "flag[10]",
-      "members": []
+      "members": [
+        "Filippo Casarin",
+        "Tommaso Dossi",
+        "Valerio Stancanelli"
+      ]
     },
     "University": "unipi",
     "Tasks": [
@@ -63,7 +67,11 @@
     "Award": "gold",
     "Team": {
       "name": "I madidi",
-      "members": []
+      "members": [
+        "James Bamber",
+        "Francesco Vercellesi",
+        "Alessandro Lombardo"
+      ]
     },
     "University": "unipi",
     "Tasks": [
@@ -122,7 +130,11 @@
     "Award": "gold",
     "Team": {
       "name": "LaStatale (G)old",
-      "members": []
+      "members": [
+        "Fabrizio Brioni",
+        "Nicolas Albani",
+        "Michael Chelli"
+      ]
     },
     "University": "unimi",
     "Tasks": [
@@ -181,7 +193,11 @@
     "Award": "silver",
     "Team": {
       "name": "Roiti0 \u2620\ufe0f",
-      "members": []
+      "members": [
+        "Davide Bartoli",
+        "Mohammadreza Mohammadzadeh Asl",
+        "Elia Soldati"
+      ]
     },
     "University": "unibo",
     "Tasks": [
@@ -240,7 +256,11 @@
     "Award": "silver",
     "Team": {
       "name": "volterra gng",
-      "members": []
+      "members": [
+        "Lorenzo Ferrari",
+        "Francesco Lugli",
+        "Taulant Arapi"
+      ]
     },
     "University": "unipi",
     "Tasks": [
@@ -299,7 +319,11 @@
     "Award": "silver",
     "Team": {
       "name": "OverkillaTO",
-      "members": []
+      "members": [
+        "Federico Fortunati",
+        "Mattia Longo",
+        "Nima Naderi"
+      ]
     },
     "University": "polito",
     "Tasks": [
@@ -358,7 +382,11 @@
     "Award": "silver",
     "Team": {
       "name": "orabot",
-      "members": []
+      "members": [
+        "Edoardo Balistri",
+        "Federico Blandino",
+        "Thomas Alessandro Leihkauf"
+      ]
     },
     "University": "sns",
     "Tasks": [
@@ -417,7 +445,9 @@
     "Award": "silver",
     "Team": {
       "name": "Alessandro Dario",
-      "members": []
+      "members": [
+        "Alessandro Dario"
+      ]
     },
     "University": "unipd",
     "Tasks": [
@@ -476,7 +506,11 @@
     "Award": "silver",
     "Team": {
       "name": "Masters Of Breaks",
-      "members": []
+      "members": [
+        "Matteo Canton",
+        "Francesco Decataldo",
+        "Alessandro Minisini"
+      ]
     },
     "University": "uniud",
     "Tasks": [
@@ -535,7 +569,9 @@
     "Award": "bronze",
     "Team": {
       "name": "alessio de vito",
-      "members": []
+      "members": [
+        "Alessio De Vito"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -594,7 +630,11 @@
     "Award": "bronze",
     "Team": {
       "name": "AMG",
-      "members": []
+      "members": [
+        "Martina De Lucia",
+        "Gregorio Garofalo",
+        "Alessandra Raia"
+      ]
     },
     "University": "unisa",
     "Tasks": [
@@ -653,7 +693,9 @@
     "Award": "bronze",
     "Team": {
       "name": "Carlo Collodel",
-      "members": []
+      "members": [
+        "Carlo Collodel"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -712,7 +754,11 @@
     "Award": "bronze",
     "Team": {
       "name": "the bovo rizz party",
-      "members": []
+      "members": [
+        "Davide Gianessi",
+        "Aisja Baglioni",
+        "Giacomo Boschi"
+      ]
     },
     "University": "unibo",
     "Tasks": [
@@ -771,7 +817,11 @@
     "Award": "bronze",
     "Team": {
       "name": "py++",
-      "members": []
+      "members": [
+        "Pasquale Bianco",
+        "Jiakai Hu",
+        "Antonio Angelo Polignano"
+      ]
     },
     "University": "polito",
     "Tasks": [
@@ -830,7 +880,11 @@
     "Award": "bronze",
     "Team": {
       "name": "Spaventapassere",
-      "members": []
+      "members": [
+        "Fabio Gulmini",
+        "Andrea Nanni",
+        "Tommaso Nencini"
+      ]
     },
     "University": "unipi",
     "Tasks": [
@@ -889,7 +943,11 @@
     "Award": "bronze",
     "Team": {
       "name": "Array of Tortellini",
-      "members": []
+      "members": [
+        "Stefano Dal Pozzo",
+        "Glauco Masi",
+        "Francesco Torluccio"
+      ]
     },
     "University": "unibo",
     "Tasks": [
@@ -948,7 +1006,11 @@
     "Award": "bronze",
     "Team": {
       "name": "Sort(bot)",
-      "members": []
+      "members": [
+        "Andrea Maria Lanocita",
+        "Davide Perego",
+        "Lorenzo Sangalli"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -1007,7 +1069,11 @@
     "Award": "bronze",
     "Team": {
       "name": "A Programming Team",
-      "members": []
+      "members": [
+        "Mirko Faina",
+        "Pietro Lepori",
+        "Andrea Piseri"
+      ]
     },
     "University": "unimi",
     "Tasks": [
@@ -1066,7 +1132,10 @@
     "Award": "",
     "Team": {
       "name": "Petrinnina",
-      "members": []
+      "members": [
+        "Anna Grigoriev",
+        "Gabriele Genta"
+      ]
     },
     "University": "polito",
     "Tasks": [
@@ -1125,7 +1194,11 @@
     "Award": "",
     "Team": {
       "name": "!Assembly4Life",
-      "members": []
+      "members": [
+        "Vincenzo Cardea",
+        "Francesco Salvatore Rizzello",
+        "Giuseppe Aiello"
+      ]
     },
     "University": "unibo",
     "Tasks": [
@@ -1184,7 +1257,11 @@
     "Award": "",
     "Team": {
       "name": "Top0",
-      "members": []
+      "members": [
+        "Francesco Derme",
+        "Riccardo Dante",
+        "Pietro Fumagalli"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -1243,7 +1320,11 @@
     "Award": "",
     "Team": {
       "name": "giorgio informatica",
-      "members": []
+      "members": [
+        "Tommaso Ulian",
+        "Kevin Simon",
+        "Lorenzo Carrara"
+      ]
     },
     "University": "uniud",
     "Tasks": [
@@ -1302,7 +1383,10 @@
     "Award": "",
     "Team": {
       "name": "La StaTLE",
-      "members": []
+      "members": [
+        "Dario Moschetti",
+        "Maria Cichosz"
+      ]
     },
     "University": "unimi",
     "Tasks": [
@@ -1361,7 +1445,10 @@
     "Award": "",
     "Team": {
       "name": "Polenta e cannolo",
-      "members": []
+      "members": [
+        "Federico Dapr\u00e0",
+        "Gaspare Fanara"
+      ]
     },
     "University": "unitn",
     "Tasks": [
@@ -1420,7 +1507,10 @@
     "Award": "",
     "Team": {
       "name": "Blaisone OG",
-      "members": []
+      "members": [
+        "Simone Mazzacano",
+        "Eric Aquilotti"
+      ]
     },
     "University": "unibo",
     "Tasks": [
@@ -1479,7 +1569,11 @@
     "Award": "",
     "Team": {
       "name": "free(geri)",
-      "members": []
+      "members": [
+        "Luca Papiro",
+        "Jia Xing Chen",
+        "Tommaso Capone"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -1538,7 +1632,10 @@
     "Award": "",
     "Team": {
       "name": "Habanero",
-      "members": []
+      "members": [
+        "Domenico Lanza",
+        "Fabio Ficcadenti"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -1597,7 +1694,9 @@
     "Award": "",
     "Team": {
       "name": "Giovanni Gaio",
-      "members": []
+      "members": [
+        "Giovanni Gaio"
+      ]
     },
     "University": "unipd",
     "Tasks": [
@@ -1656,7 +1755,11 @@
     "Award": "",
     "Team": {
       "name": "Mashin Lebasshuei",
-      "members": []
+      "members": [
+        "Alireza Jahandoost",
+        "Ali Nabipour Dargah",
+        "Hosein Mirhoseini"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -1715,7 +1818,11 @@
     "Award": "",
     "Team": {
       "name": "X86-AGEDDON",
-      "members": []
+      "members": [
+        "Riccardo Caberlin",
+        "Yi Fei Zhang",
+        "Alessio Zeni"
+      ]
     },
     "University": "unitn",
     "Tasks": [
@@ -1774,7 +1881,10 @@
     "Award": "",
     "Team": {
       "name": "Bob l'\u00e9ponge",
-      "members": []
+      "members": [
+        "Alin Odobescu",
+        "Alessandro Cazzin"
+      ]
     },
     "University": "unive",
     "Tasks": [
@@ -1833,7 +1943,9 @@
     "Award": "",
     "Team": {
       "name": "Hussein Hafez Hussein Shalaby",
-      "members": []
+      "members": [
+        "Hussein Hafez Hussein Shalaby"
+      ]
     },
     "University": "unipd",
     "Tasks": [
@@ -1892,7 +2004,11 @@
     "Award": "",
     "Team": {
       "name": "piparilli",
-      "members": []
+      "members": [
+        "Giuseppe Barbieri",
+        "Domenico Ricci",
+        "Giorgio Martucci"
+      ]
     },
     "University": "unical",
     "Tasks": [
@@ -1951,7 +2067,11 @@
     "Award": "",
     "Team": {
       "name": "Topastri",
-      "members": []
+      "members": [
+        "Fabio Missagia",
+        "Luigi Miazzo",
+        "Gabriele Bocchi"
+      ]
     },
     "University": "unitn",
     "Tasks": [
@@ -2010,7 +2130,11 @@
     "Award": "",
     "Team": {
       "name": "while(true){}",
-      "members": []
+      "members": [
+        "Alessandro De Stasi",
+        "Ismaele Bahati",
+        "Emre Kavalc\u0131"
+      ]
     },
     "University": "polito",
     "Tasks": [
@@ -2069,7 +2193,11 @@
     "Award": "",
     "Team": {
       "name": "Scripting Issues",
-      "members": []
+      "members": [
+        "Gabriele Martini",
+        "Gabriele Dellepere",
+        "Fabien Dufour"
+      ]
     },
     "University": "unige",
     "Tasks": [
@@ -2128,7 +2256,10 @@
     "Award": "",
     "Team": {
       "name": "Terminal Titans",
-      "members": []
+      "members": [
+        "Daniele Lombardi",
+        "Francesca Rosa Checola"
+      ]
     },
     "University": "unimore",
     "Tasks": [
@@ -2187,7 +2318,11 @@
     "Award": "",
     "Team": {
       "name": "AFOrk()",
-      "members": []
+      "members": [
+        "Orazio Torre",
+        "Andrea Compagnone",
+        "Fabio Di Lieto"
+      ]
     },
     "University": "unisa",
     "Tasks": [
@@ -2246,7 +2381,9 @@
     "Award": "",
     "Team": {
       "name": "Francesco Peluso",
-      "members": []
+      "members": [
+        "Francesco Peluso"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -2305,7 +2442,10 @@
     "Award": "",
     "Team": {
       "name": "qwerty",
-      "members": []
+      "members": [
+        "Tommaso Thea Cioni",
+        "Dmitri Jemeljanov"
+      ]
     },
     "University": "unige",
     "Tasks": [
@@ -2364,7 +2504,11 @@
     "Award": "",
     "Team": {
       "name": "I disonesti",
-      "members": []
+      "members": [
+        "Omar Chaabani",
+        "Andrea Biasion Somaschini",
+        "Ilaria Brunati"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -2423,7 +2567,10 @@
     "Award": "",
     "Team": {
       "name": "Cerchi e pallini",
-      "members": []
+      "members": [
+        "Tommaso Felice Banfi",
+        "Michele De Matteo"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -2482,7 +2629,11 @@
     "Award": "",
     "Team": {
       "name": "Syntax Erorrs",
-      "members": []
+      "members": [
+        "Matteo Rossi",
+        "Nicola Tummolo",
+        "Riccardo Piantoni"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -2541,7 +2692,11 @@
     "Award": "",
     "Team": {
       "name": "DropTable",
-      "members": []
+      "members": [
+        "Flavio Milinanni",
+        "Daniele Cursano",
+        "Gabriele Baietta"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -2600,7 +2755,10 @@
     "Award": "",
     "Team": {
       "name": "Samueli",
-      "members": []
+      "members": [
+        "Samuele Riccardi",
+        "Samuele Silvestrini"
+      ]
     },
     "University": "unimore",
     "Tasks": [
@@ -2659,7 +2817,10 @@
     "Award": "",
     "Team": {
       "name": "malloc()",
-      "members": []
+      "members": [
+        "Mirko Massa",
+        "Giovanni Distefano"
+      ]
     },
     "University": "unimore",
     "Tasks": [
@@ -2718,7 +2879,11 @@
     "Award": "",
     "Team": {
       "name": "MiaoMiaoMiaoMiao",
-      "members": []
+      "members": [
+        "Lorenzo Pettenuzzo",
+        "Giacomo Pauletti",
+        "Paolo Ginefra"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -2777,7 +2942,11 @@
     "Award": "",
     "Team": {
       "name": "Techno tribe",
-      "members": []
+      "members": [
+        "Daniel Carpitella",
+        "Sebastiano Boato",
+        "Daniele Zuin"
+      ]
     },
     "University": "unive",
     "Tasks": [
@@ -2836,7 +3005,10 @@
     "Award": "",
     "Team": {
       "name": "BugOverflow",
-      "members": []
+      "members": [
+        "Yangping Shu",
+        "Fabrizia De Roxas Ilagan"
+      ]
     },
     "University": "uniupo",
     "Tasks": [
@@ -2895,7 +3067,11 @@
     "Award": "",
     "Team": {
       "name": "yaki",
-      "members": []
+      "members": [
+        "Giulio Sichili",
+        "Attilio Polito",
+        "Biagio Marra"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -2954,7 +3130,10 @@
     "Award": "",
     "Team": {
       "name": "Le Albicocche",
-      "members": []
+      "members": [
+        "Giorgio Zambetti",
+        "Claudio Tessa"
+      ]
     },
     "University": "unimib",
     "Tasks": [
@@ -3013,7 +3192,11 @@
     "Award": "",
     "Team": {
       "name": "A Silab Company",
-      "members": []
+      "members": [
+        "Matteo Curia",
+        "Luca Favini",
+        "Matteo Zagheno"
+      ]
     },
     "University": "unimi",
     "Tasks": [
@@ -3072,7 +3255,9 @@
     "Award": "",
     "Team": {
       "name": "Yi Zhou",
-      "members": []
+      "members": [
+        "Yi Zhou"
+      ]
     },
     "University": "uniroma1",
     "Tasks": [
@@ -3131,7 +3316,11 @@
     "Award": "",
     "Team": {
       "name": "2 uomini 1 zappa",
-      "members": []
+      "members": [
+        "Daniele Toniolo",
+        "Alessandro Sola",
+        "Matteo Zappa"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -3190,7 +3379,11 @@
     "Award": "",
     "Team": {
       "name": "Faenza F.C.",
-      "members": []
+      "members": [
+        "Federico Scaffidi Muta",
+        "Michelangelo Nardi",
+        "Riccardo Alberghi"
+      ]
     },
     "University": "unibocconi",
     "Tasks": [
@@ -3249,7 +3442,9 @@
     "Award": "",
     "Team": {
       "name": "Antonio Georgiev",
-      "members": []
+      "members": [
+        "Antonio Georgiev"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -3308,7 +3503,10 @@
     "Award": "",
     "Team": {
       "name": "TOP[-1]",
-      "members": []
+      "members": [
+        "Giulia Huang",
+        "Kaixi Matteo Chen"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -3367,7 +3565,11 @@
     "Award": "",
     "Team": {
       "name": "IRCS",
-      "members": []
+      "members": [
+        "Sajjad Shaffaf",
+        "Mohammadsadegh Sirjani",
+        "Mohammad Rashid Khan Mofrad"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -3426,7 +3628,11 @@
     "Award": "",
     "Team": {
       "name": "Le bimbe di PM",
-      "members": []
+      "members": [
+        "Mattia Curri",
+        "Michele Minervini",
+        "Davide Cirilli"
+      ]
     },
     "University": "uniba",
     "Tasks": [
@@ -3485,7 +3691,11 @@
     "Award": "",
     "Team": {
       "name": "montrami tutta",
-      "members": []
+      "members": [
+        "Leonardo Bridi",
+        "Martin Perosa",
+        "Giovanni Zanibellato"
+      ]
     },
     "University": "unitn",
     "Tasks": [
@@ -3544,7 +3754,9 @@
     "Award": "",
     "Team": {
       "name": "Bo",
-      "members": []
+      "members": [
+        "Mario D'Ambrosi"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -3603,7 +3815,9 @@
     "Award": "",
     "Team": {
       "name": "Mattia Capitanio",
-      "members": []
+      "members": [
+        "Mattia Capitanio"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -3662,7 +3876,11 @@
     "Award": "",
     "Team": {
       "name": "hello_world(\"print\")",
-      "members": []
+      "members": [
+        "Demir Elmas",
+        "Omar Jallouq",
+        "Giorgio Micaletto"
+      ]
     },
     "University": "unibocconi",
     "Tasks": [
@@ -3721,7 +3939,10 @@
     "Award": "",
     "Team": {
       "name": "Cat-A-Nyaa~ uwundewgwad",
-      "members": []
+      "members": [
+        "Federico Maria Morrone",
+        "Graziano Di Grande"
+      ]
     },
     "University": "unict",
     "Tasks": [
@@ -3780,7 +4001,10 @@
     "Award": "",
     "Team": {
       "name": "shokolat",
-      "members": []
+      "members": [
+        "MohammadAmin Rahimi",
+        "Shakiba Shahidiani"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -3839,7 +4063,10 @@
     "Award": "",
     "Team": {
       "name": "Almost Cooked",
-      "members": []
+      "members": [
+        "Nicol\u00f2 Faranda",
+        "Vincenzo Fargione"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -3898,7 +4125,11 @@
     "Award": "",
     "Team": {
       "name": "Polling",
-      "members": []
+      "members": [
+        "Rodrigo Almandoz Franco",
+        "Mattia Brandi",
+        "Tommaso Crippa"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -3957,7 +4188,9 @@
     "Award": "",
     "Team": {
       "name": "Alessio Campanelli",
-      "members": []
+      "members": [
+        "Alessio Campanelli"
+      ]
     },
     "University": "unive",
     "Tasks": [
@@ -4016,7 +4249,10 @@
     "Award": "",
     "Team": {
       "name": "srand",
-      "members": []
+      "members": [
+        "Taha Mousavi",
+        "Alireza Azadi"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -4075,7 +4311,11 @@
     "Award": "",
     "Team": {
       "name": "Codekhola",
-      "members": []
+      "members": [
+        "Amirali Noorani",
+        "Sepehr Sarjami",
+        "Arvin Jafari Moghadam Fard"
+      ]
     },
     "University": "unimi",
     "Tasks": [
@@ -4134,7 +4374,9 @@
     "Award": "",
     "Team": {
       "name": "Matteo Sinit\u00f2",
-      "members": []
+      "members": [
+        "Matteo Sinit\u00f2"
+      ]
     },
     "University": "unict",
     "Tasks": [
@@ -4193,7 +4435,9 @@
     "Award": "",
     "Team": {
       "name": "Daniele De Pietri",
-      "members": []
+      "members": [
+        "Daniele De Pietri"
+      ]
     },
     "University": "unipd",
     "Tasks": [
@@ -4252,7 +4496,9 @@
     "Award": "",
     "Team": {
       "name": "Stefano Sciaky",
-      "members": []
+      "members": [
+        "Stefano Sciaky"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -4311,7 +4557,11 @@
     "Award": "",
     "Team": {
       "name": "42",
-      "members": []
+      "members": [
+        "Andrei-Alexandru Sofronie",
+        "Lorenzo Caputi",
+        "Maria Ester Massari"
+      ]
     },
     "University": "unibocconi",
     "Tasks": [
@@ -4370,7 +4620,10 @@
     "Award": "",
     "Team": {
       "name": "Untitled",
-      "members": []
+      "members": [
+        "Matteo Delton",
+        "Piervito Creanza"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -4429,7 +4682,9 @@
     "Award": "",
     "Team": {
       "name": "Mihail Skorenko",
-      "members": []
+      "members": [
+        "Mihail Skorenko"
+      ]
     },
     "University": "unive",
     "Tasks": [
@@ -4488,7 +4743,10 @@
     "Award": "",
     "Team": {
       "name": "ChickenOut",
-      "members": []
+      "members": [
+        "Andrea Squitieri",
+        "Guglielmo Forte"
+      ]
     },
     "University": "unisa",
     "Tasks": [
@@ -4547,7 +4805,11 @@
     "Award": "",
     "Team": {
       "name": "Portomannu Warriors",
-      "members": []
+      "members": [
+        "Michela Addabbo",
+        "Lorenzo Zani",
+        "Matteo Belloni"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -4606,7 +4868,9 @@
     "Award": "",
     "Team": {
       "name": "Samuele Pio Samperna",
-      "members": []
+      "members": [
+        "Samuele Pio Samperna"
+      ]
     },
     "University": "unimi",
     "Tasks": [
@@ -4665,7 +4929,11 @@
     "Award": "",
     "Team": {
       "name": "Sezione Critica",
-      "members": []
+      "members": [
+        "Gabriele Olivieri",
+        "Thomas Ghione",
+        "Simone Tomasella"
+      ]
     },
     "University": "unige",
     "Tasks": [
@@ -4724,7 +4992,11 @@
     "Award": "",
     "Team": {
       "name": "RickyOne",
-      "members": []
+      "members": [
+        "Andrea Vicedomini",
+        "Alberto Sposito",
+        "Karanbir Singh"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -4783,7 +5055,10 @@
     "Award": "",
     "Team": {
       "name": "c++ enjoyers",
-      "members": []
+      "members": [
+        "Nicola Ruffato",
+        "Oleksandr Kirpachov"
+      ]
     },
     "University": "unive",
     "Tasks": [
@@ -4842,7 +5117,11 @@
     "Award": "",
     "Team": {
       "name": "BugBusters",
-      "members": []
+      "members": [
+        "Matei Gabriel Cosa",
+        "Bianca Otel",
+        "Kassym Mukhanbetiyar"
+      ]
     },
     "University": "unibocconi",
     "Tasks": [
@@ -4901,7 +5180,11 @@
     "Award": "",
     "Team": {
       "name": "NULL Pointers",
-      "members": []
+      "members": [
+        "Raul Agolli",
+        "Gioele Guaiumi",
+        "Juvraj Singh Banwait"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -4960,7 +5243,11 @@
     "Award": "",
     "Team": {
       "name": "Bolliti",
-      "members": []
+      "members": [
+        "Filippo Cioccolanti",
+        "Claudio Simeoni",
+        "Simone Scala"
+      ]
     },
     "University": "santanna",
     "Tasks": [
@@ -5019,7 +5306,11 @@
     "Award": "",
     "Team": {
       "name": "lupastri",
-      "members": []
+      "members": [
+        "Youssef Bouadoud",
+        "Alessandro Duranti",
+        "Tommaso Tricker"
+      ]
     },
     "University": "unitn",
     "Tasks": [
@@ -5078,7 +5369,9 @@
     "Award": "",
     "Team": {
       "name": "leave-no-stone-unturned",
-      "members": []
+      "members": [
+        "Daniel Falbo"
+      ]
     },
     "University": "uniroma1",
     "Tasks": [
@@ -5137,7 +5430,11 @@
     "Award": "",
     "Team": {
       "name": "Hello world",
-      "members": []
+      "members": [
+        "Andrea Paganelli",
+        "Silvia Loiacono",
+        "Christian Mariano"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -5196,7 +5493,9 @@
     "Award": "",
     "Team": {
       "name": "Lorenzo Consoli",
-      "members": []
+      "members": [
+        "Lorenzo Consoli"
+      ]
     },
     "University": "unict",
     "Tasks": [
@@ -5255,7 +5554,9 @@
     "Award": "",
     "Team": {
       "name": "Gennaro D'Avanzo",
-      "members": []
+      "members": [
+        "Gennaro D'Avanzo"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -5314,7 +5615,10 @@
     "Award": "",
     "Team": {
       "name": "CPPiace",
-      "members": []
+      "members": [
+        "Nicol\u00f2 Raganato",
+        "Denis Untila"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -5373,7 +5677,10 @@
     "Award": "",
     "Team": {
       "name": "Monnezzari",
-      "members": []
+      "members": [
+        "Francesco Monticone",
+        "Samuel Matta"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -5432,7 +5739,11 @@
     "Award": "",
     "Team": {
       "name": "noreply",
-      "members": []
+      "members": [
+        "Nicola Ricci Maccarini",
+        "Thomas Cantuti",
+        "Alessio Celentano"
+      ]
     },
     "University": "unife",
     "Tasks": [
@@ -5491,7 +5802,11 @@
     "Award": "",
     "Team": {
       "name": "BICGSTAB",
-      "members": []
+      "members": [
+        "Alberto Ondei",
+        "Andrea Valentini",
+        "Abdullah Javed"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -5550,7 +5865,9 @@
     "Award": "",
     "Team": {
       "name": "Andrea Bosetti",
-      "members": []
+      "members": [
+        "Andrea Bosetti"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -5609,7 +5926,11 @@
     "Award": "",
     "Team": {
       "name": "BFS (Bocconi Failed Submissions)",
-      "members": []
+      "members": [
+        "Edoardo Panella",
+        "Angelo Cao",
+        "Emanuele Regnani"
+      ]
     },
     "University": "unibocconi",
     "Tasks": [
@@ -5668,7 +5989,10 @@
     "Award": "",
     "Team": {
       "name": "pranzo al 26",
-      "members": []
+      "members": [
+        "Riccardo Sabatti",
+        "Alessandro Porteri"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -5727,7 +6051,11 @@
     "Award": "",
     "Team": {
       "name": "break;",
-      "members": []
+      "members": [
+        "Niccol\u00f2 Ruggiu",
+        "Mirko Serio",
+        "Mattia Secciani"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -5786,7 +6114,11 @@
     "Award": "",
     "Team": {
       "name": "Bugged!Out",
-      "members": []
+      "members": [
+        "Jose Sgariglia",
+        "Luigi Turco",
+        "Daniele Liguori"
+      ]
     },
     "University": "unisa",
     "Tasks": [
@@ -5845,7 +6177,11 @@
     "Award": "",
     "Team": {
       "name": "return 42;",
-      "members": []
+      "members": [
+        "Diego D'Angelo",
+        "Luca Russo",
+        "Leonardo Quartucci"
+      ]
     },
     "University": "uniroma2",
     "Tasks": [
@@ -5904,7 +6240,11 @@
     "Award": "",
     "Team": {
       "name": "HuCares",
-      "members": []
+      "members": [
+        "Antonio Labranca",
+        "Alberto Novello",
+        "Yucheng Hu"
+      ]
     },
     "University": "unive",
     "Tasks": [
@@ -5963,7 +6303,9 @@
     "Award": "",
     "Team": {
       "name": "NaN",
-      "members": []
+      "members": [
+        "Lorenzo Mariotti"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -6022,7 +6364,10 @@
     "Award": "",
     "Team": {
       "name": "gimmeabit",
-      "members": []
+      "members": [
+        "Aron Tolu",
+        "Luca Fatone"
+      ]
     },
     "University": "polito",
     "Tasks": [
@@ -6081,7 +6426,11 @@
     "Award": "",
     "Team": {
       "name": "Boolean Rhapsody",
-      "members": []
+      "members": [
+        "Francesco Giuseppe Zammarrelli",
+        "Carlo Sorrentino",
+        "Yuri Brandi"
+      ]
     },
     "University": "unisa",
     "Tasks": [
@@ -6140,7 +6489,10 @@
     "Award": "",
     "Team": {
       "name": "Ciccio e Marco e Lorenzo !!!",
-      "members": []
+      "members": [
+        "Marco Di Biasi",
+        "Francesco Granata"
+      ]
     },
     "University": "unict",
     "Tasks": [
@@ -6199,7 +6551,10 @@
     "Award": "",
     "Team": {
       "name": "Fine della Dimostrazione",
-      "members": []
+      "members": [
+        "Olsi Imeraj",
+        "Daniele Gherardi"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -6258,7 +6613,9 @@
     "Award": "",
     "Team": {
       "name": "Luca Micarelli",
-      "members": []
+      "members": [
+        "Luca Micarelli"
+      ]
     },
     "University": "uniroma1",
     "Tasks": [
@@ -6317,7 +6674,11 @@
     "Award": "",
     "Team": {
       "name": "BigShoulders",
-      "members": []
+      "members": [
+        "Efrem Marzatico",
+        "Andrea Carlos Muratori",
+        "Riccardo Gadeschi"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -6376,7 +6737,9 @@
     "Award": "",
     "Team": {
       "name": "Eris Vucaj",
-      "members": []
+      "members": [
+        "Eris Vucaj"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -6435,7 +6798,9 @@
     "Award": "",
     "Team": {
       "name": "Davide Yang",
-      "members": []
+      "members": [
+        "Davide Yang"
+      ]
     },
     "University": "unibocconi",
     "Tasks": [
@@ -6494,7 +6859,11 @@
     "Award": "",
     "Team": {
       "name": "HashBrowns",
-      "members": []
+      "members": [
+        "Alessandro Mella",
+        "Tommaso Vaccari",
+        "Lorenzo Cavazzini"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -6553,7 +6922,9 @@
     "Award": "",
     "Team": {
       "name": "Ying Luo Zhou",
-      "members": []
+      "members": [
+        "Ying Luo Zhou"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -6612,7 +6983,9 @@
     "Award": "",
     "Team": {
       "name": "Francesco Visona'",
-      "members": []
+      "members": [
+        "Francesco Visona'"
+      ]
     },
     "University": "unipd",
     "Tasks": [
@@ -6671,7 +7044,10 @@
     "Award": "",
     "Team": {
       "name": "Stupydi",
-      "members": []
+      "members": [
+        "Luca Capoferri",
+        "Stefano Cecchettini"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -6730,7 +7106,10 @@
     "Award": "",
     "Team": {
       "name": "BallsIntoBins",
-      "members": []
+      "members": [
+        "M M",
+        "Matteo Di Gioacchino"
+      ]
     },
     "University": "uniroma2",
     "Tasks": [
@@ -6789,7 +7168,11 @@
     "Award": "",
     "Team": {
       "name": "Gallarate, TX",
-      "members": []
+      "members": [
+        "Alessandro Pelle",
+        "Andrea Pantaleo",
+        "Mattia Oliveri"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -6848,7 +7231,11 @@
     "Award": "",
     "Team": {
       "name": "Politeam",
-      "members": []
+      "members": [
+        "Bernardo Bartolomei",
+        "Giada Ballerini",
+        "Daniele Amodio"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -6907,7 +7294,9 @@
     "Award": "",
     "Team": {
       "name": "Mario D'Andrea",
-      "members": []
+      "members": [
+        "Mario D'Andrea"
+      ]
     },
     "University": "unical",
     "Tasks": [
@@ -6966,7 +7355,11 @@
     "Award": "",
     "Team": {
       "name": "\u03c1\u03b4\u03b1\u03c1",
-      "members": []
+      "members": [
+        "Matteo Bianchi",
+        "Anthony Iemmolo",
+        "Nicolas Franco"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -7025,7 +7418,9 @@
     "Award": "",
     "Team": {
       "name": "Giovanni Costa",
-      "members": []
+      "members": [
+        "Giovanni Costa"
+      ]
     },
     "University": "unive",
     "Tasks": [
@@ -7084,7 +7479,11 @@
     "Award": "",
     "Team": {
       "name": "Losing is NP-Hard",
-      "members": []
+      "members": [
+        "Matteo Stromieri",
+        "Andrea Bonifati",
+        "Davide Toniatti"
+      ]
     },
     "University": "uniroma2",
     "Tasks": [
@@ -7143,7 +7542,9 @@
     "Award": "",
     "Team": {
       "name": "Marco Minaudo",
-      "members": []
+      "members": [
+        "Marco Minaudo"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -7202,7 +7603,9 @@
     "Award": "",
     "Team": {
       "name": "Raffaele Cimino",
-      "members": []
+      "members": [
+        "Raffaele Cimino"
+      ]
     },
     "University": "unisa",
     "Tasks": [
@@ -7261,7 +7664,11 @@
     "Award": "",
     "Team": {
       "name": "teamg",
-      "members": []
+      "members": [
+        "Sofia Scalzo",
+        "Natalija Tosic",
+        "Giulia Aloia"
+      ]
     },
     "University": "unipi",
     "Tasks": [
@@ -7320,7 +7727,10 @@
     "Award": "",
     "Team": {
       "name": "ai",
-      "members": []
+      "members": [
+        "Giorgia Nava",
+        "Nicolo' Cappa"
+      ]
     },
     "University": "unipv",
     "Tasks": [
@@ -7379,7 +7789,10 @@
     "Award": "",
     "Team": {
       "name": "Arch users",
-      "members": []
+      "members": [
+        "Zeno Saletti",
+        "Mattia Ferretti"
+      ]
     },
     "University": "unitn",
     "Tasks": [
@@ -7438,7 +7851,9 @@
     "Award": "",
     "Team": {
       "name": "Vito Altieri",
-      "members": []
+      "members": [
+        "Vito Altieri"
+      ]
     },
     "University": "unisa",
     "Tasks": [
@@ -7497,7 +7912,11 @@
     "Award": "",
     "Team": {
       "name": "Carbonara Code",
-      "members": []
+      "members": [
+        "Andrea Lo Iacono",
+        "Simone Pellegrini",
+        "Gabriele Maraia"
+      ]
     },
     "University": "uniroma2",
     "Tasks": [
@@ -7556,7 +7975,11 @@
     "Award": "",
     "Team": {
       "name": "Stack Overflowers",
-      "members": []
+      "members": [
+        "Lorenzo Orlandi",
+        "Alessandro Pasquetto",
+        "Gabriele Pedesini"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -7615,7 +8038,11 @@
     "Award": "",
     "Team": {
       "name": "AI Wizards\ud83e\uddd9",
-      "members": []
+      "members": [
+        "Matteo Fasulo",
+        "Antonio Gravina",
+        "Luca Tedeschini"
+      ]
     },
     "University": "unibo",
     "Tasks": [
@@ -7674,7 +8101,11 @@
     "Award": "",
     "Team": {
       "name": "fifa",
-      "members": []
+      "members": [
+        "Michele Pio Lacagnina",
+        "Arseniy Kirykouski",
+        "Maksim Okulov"
+      ]
     },
     "University": "unipv",
     "Tasks": [
@@ -7733,7 +8164,9 @@
     "Award": "",
     "Team": {
       "name": "Karam El labadie",
-      "members": []
+      "members": [
+        "Karam El Labadie"
+      ]
     },
     "University": "unive",
     "Tasks": [
@@ -7792,7 +8225,9 @@
     "Award": "",
     "Team": {
       "name": "Andrea Marcolin",
-      "members": []
+      "members": [
+        "Andrea Marcolin"
+      ]
     },
     "University": "unipd",
     "Tasks": [
@@ -7851,7 +8286,10 @@
     "Award": "",
     "Team": {
       "name": "Ronnie Coleman",
-      "members": []
+      "members": [
+        "Tommaso Del Grosso",
+        "Davide Scheggia"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -7910,7 +8348,11 @@
     "Award": "",
     "Team": {
       "name": "Gli Stellari",
-      "members": []
+      "members": [
+        "Gabriele Stellini",
+        "Michele Tavecchio",
+        "Lorenzo Trenti"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -7969,7 +8411,11 @@
     "Award": "",
     "Team": {
       "name": "Granchi Avatori",
-      "members": []
+      "members": [
+        "Filippo Lipari",
+        "Roberto Giannini Bragh\u00e8",
+        "Fabio Romagnoli"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -8028,7 +8474,11 @@
     "Award": "",
     "Team": {
       "name": "TripleBit",
-      "members": []
+      "members": [
+        "Luca Astolfi",
+        "Simone Aresta",
+        "Francesco Mancuso"
+      ]
     },
     "University": "unimore",
     "Tasks": [
@@ -8087,7 +8537,9 @@
     "Award": "",
     "Team": {
       "name": "Paolo Biolghini",
-      "members": []
+      "members": [
+        "Paolo Biolghini"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -8146,7 +8598,11 @@
     "Award": "",
     "Team": {
       "name": "JuLiAn",
-      "members": []
+      "members": [
+        "Lingfeng Jin",
+        "Andrea Venditti",
+        "Barnab\u00e1s Juh\u00e1sz"
+      ]
     },
     "University": "uniroma1",
     "Tasks": [
@@ -8205,7 +8661,9 @@
     "Award": "",
     "Team": {
       "name": "Ettore Veronese",
-      "members": []
+      "members": [
+        "Ettore Veronese"
+      ]
     },
     "University": "unipd",
     "Tasks": [
@@ -8264,7 +8722,9 @@
     "Award": "",
     "Team": {
       "name": "Marco Rocca",
-      "members": []
+      "members": [
+        "Marco Rocca"
+      ]
     },
     "University": "unipv",
     "Tasks": [
@@ -8323,7 +8783,10 @@
     "Award": "",
     "Team": {
       "name": "Byteminds",
-      "members": []
+      "members": [
+        "Lorenza D'Amario",
+        "Tasnem El Koush"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -8382,7 +8845,10 @@
     "Award": "",
     "Team": {
       "name": "Ni-Master-Team",
-      "members": []
+      "members": [
+        "Yang Hao Mao",
+        "Giovanni Ni"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -8441,7 +8907,9 @@
     "Award": "",
     "Team": {
       "name": "Luca Feggi",
-      "members": []
+      "members": [
+        "Luca Feggi"
+      ]
     },
     "University": "unipd",
     "Tasks": [
@@ -8500,7 +8968,10 @@
     "Award": "",
     "Team": {
       "name": "NULL",
-      "members": []
+      "members": [
+        "Alessandro Annechini",
+        "Nicole Filippi"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -8559,7 +9030,9 @@
     "Award": "",
     "Team": {
       "name": "Antonio Saboanu",
-      "members": []
+      "members": [
+        "Antonio Saboanu"
+      ]
     },
     "University": "unipd",
     "Tasks": [
@@ -8618,7 +9091,9 @@
     "Award": "",
     "Team": {
       "name": "Salvatore Ruocco",
-      "members": []
+      "members": [
+        "Salvatore Ruocco"
+      ]
     },
     "University": "unisa",
     "Tasks": [
@@ -8677,7 +9152,11 @@
     "Award": "",
     "Team": {
       "name": "HACK-attoni",
-      "members": []
+      "members": [
+        "Francesco Cosciotti",
+        "Ionut Zbirciog",
+        " "
+      ]
     },
     "University": "uniroma2",
     "Tasks": [
@@ -8736,7 +9215,11 @@
     "Award": "",
     "Team": {
       "name": "O(nlogn)",
-      "members": []
+      "members": [
+        "Enci Guan",
+        "Xin Lin",
+        "Yiming Hou"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -8795,7 +9278,10 @@
     "Award": "",
     "Team": {
       "name": "TeamPV",
-      "members": []
+      "members": [
+        "Ralph Angelo Visayana",
+        "Lorenzo Sangirardi"
+      ]
     },
     "University": "unipv",
     "Tasks": [
@@ -8854,7 +9340,11 @@
     "Award": "",
     "Team": {
       "name": "i scarsi",
-      "members": []
+      "members": [
+        "XiangYu Zhang",
+        "Giacomo Yang",
+        "Jin Fa Zheng"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -8913,7 +9403,11 @@
     "Award": "",
     "Team": {
       "name": "VScode + Marco",
-      "members": []
+      "members": [
+        "Vittorio Sironi",
+        "Marco Tonarelli",
+        "Stefano Ungaro"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -8972,7 +9466,11 @@
     "Award": "",
     "Team": {
       "name": "I Tre Kebabbari",
-      "members": []
+      "members": [
+        "Mihai Alexandru Sandu",
+        "Giacomo Pace",
+        "Matteo Cipolletta"
+      ]
     },
     "University": "uniroma2",
     "Tasks": [
@@ -9031,7 +9529,10 @@
     "Award": "",
     "Team": {
       "name": "Testimoni di Java",
-      "members": []
+      "members": [
+        "Alberto De Fina",
+        "Sebastiano Girotto"
+      ]
     },
     "University": "unive",
     "Tasks": [
@@ -9090,7 +9591,11 @@
     "Award": "",
     "Team": {
       "name": "Pigeon-Team",
-      "members": []
+      "members": [
+        "Christian Sfeir",
+        "Damiano Porcari",
+        "Giovanni Talerico"
+      ]
     },
     "University": "uniroma2",
     "Tasks": [
@@ -9149,7 +9654,11 @@
     "Award": "",
     "Team": {
       "name": "CarlAgents",
-      "members": []
+      "members": [
+        "Matteo Mascherin",
+        "Davide Cerpelloni",
+        "Carlo Serra"
+      ]
     },
     "University": "unitn",
     "Tasks": [
@@ -9208,7 +9717,9 @@
     "Award": "",
     "Team": {
       "name": "Giovanni Pegoraro",
-      "members": []
+      "members": [
+        "Giovanni Pegoraro"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -9267,7 +9778,11 @@
     "Award": "",
     "Team": {
       "name": "EX-UniTn",
-      "members": []
+      "members": [
+        "Simone Vigasio",
+        "Gabriel Fumagalli",
+        "Daniele Visentin"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -9326,7 +9841,11 @@
     "Award": "",
     "Team": {
       "name": "Banda Bsstti",
-      "members": []
+      "members": [
+        "Marco Rosi",
+        "Giordano Rizzi",
+        "Carmelo Rotondo"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -9385,7 +9904,10 @@
     "Award": "",
     "Team": {
       "name": "UnicasTeam",
-      "members": []
+      "members": [
+        "Emanuele Vita",
+        "Massimiliano Carello"
+      ]
     },
     "University": "unicas",
     "Tasks": [
@@ -9444,7 +9966,10 @@
     "Award": "",
     "Team": {
       "name": "persiPalCaivo",
-      "members": []
+      "members": [
+        "Riccardo Rossato",
+        "Morris Moment\u00e8"
+      ]
     },
     "University": "unive",
     "Tasks": [
@@ -9503,7 +10028,11 @@
     "Award": "",
     "Team": {
       "name": "PFC",
-      "members": []
+      "members": [
+        "Francesco Guerra",
+        "Francesco Lago",
+        "Alessandro Gemin"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -9562,7 +10091,9 @@
     "Award": "",
     "Team": {
       "name": "Vladyslav Maslov",
-      "members": []
+      "members": [
+        "Vladyslav Maslov"
+      ]
     },
     "University": "unisa",
     "Tasks": [
@@ -9621,7 +10152,10 @@
     "Award": "",
     "Team": {
       "name": "Carrefour Express",
-      "members": []
+      "members": [
+        "Roberto Montalti",
+        "Giacomo Montali"
+      ]
     },
     "University": "unimi",
     "Tasks": [
@@ -9680,7 +10214,11 @@
     "Award": "",
     "Team": {
       "name": "BSOD",
-      "members": []
+      "members": [
+        "Elisa Tarocchi",
+        "Stefano Tosi",
+        "Gilles Vismara"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -9739,7 +10277,11 @@
     "Award": "",
     "Team": {
       "name": "Avengers Assembly",
-      "members": []
+      "members": [
+        "Alessandro Casagranda",
+        "Tobia Marco Cimino",
+        "Matteo Cannarozzi"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -9798,7 +10340,11 @@
     "Award": "",
     "Team": {
       "name": "print(\"miao\")",
-      "members": []
+      "members": [
+        "Simone Ragusa",
+        "Arianna Paone",
+        "Andrea Tarabotto"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -9857,7 +10403,10 @@
     "Award": "",
     "Team": {
       "name": "o(piccolo)",
-      "members": []
+      "members": [
+        "Danilo Ligato",
+        "Riccardo Morabito"
+      ]
     },
     "University": "unical",
     "Tasks": [
@@ -9916,7 +10465,9 @@
     "Award": "",
     "Team": {
       "name": "Amir Gheser",
-      "members": []
+      "members": [
+        "Amir Gheser"
+      ]
     },
     "University": "unitn",
     "Tasks": [
@@ -9975,7 +10526,9 @@
     "Award": "",
     "Team": {
       "name": "Alisa Pesotskaia",
-      "members": []
+      "members": [
+        "Alisa Pesotskaia"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -10034,7 +10587,11 @@
     "Award": "",
     "Team": {
       "name": "Fratelli Burrito",
-      "members": []
+      "members": [
+        "Andrii Seliverstov",
+        "Iosyp Rudnytskyi",
+        "Gabriele Russo"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -10093,7 +10650,11 @@
     "Award": "",
     "Team": {
       "name": "C--",
-      "members": []
+      "members": [
+        "Matteo Cancian",
+        "Federico Bertossi",
+        "Martina Siderini"
+      ]
     },
     "University": "uniud",
     "Tasks": [
@@ -10152,7 +10713,9 @@
     "Award": "",
     "Team": {
       "name": "Fakrul Islam",
-      "members": []
+      "members": [
+        "Fakrul Islam"
+      ]
     },
     "University": "polito",
     "Tasks": [
@@ -10211,7 +10774,9 @@
     "Award": "",
     "Team": {
       "name": "Laura Michelizza",
-      "members": []
+      "members": [
+        "Laura Michelizza"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -10270,7 +10835,9 @@
     "Award": "",
     "Team": {
       "name": "Serafino Pirronitto",
-      "members": []
+      "members": [
+        "Serafino Pirronitto"
+      ]
     },
     "University": "unict",
     "Tasks": [
@@ -10329,7 +10896,11 @@
     "Award": "",
     "Team": {
       "name": "HopeItWorks",
-      "members": []
+      "members": [
+        "Alessio Del Sorbo",
+        "Andrea De Simone",
+        "Antonio Walter De Fusco"
+      ]
     },
     "University": "unisa",
     "Tasks": [
@@ -10388,7 +10959,9 @@
     "Award": "",
     "Team": {
       "name": "Riccardo Toniolo",
-      "members": []
+      "members": [
+        "Riccardo Toniolo"
+      ]
     },
     "University": "unipd",
     "Tasks": [
@@ -10447,7 +11020,11 @@
     "Award": "",
     "Team": {
       "name": "Cryptoparty",
-      "members": []
+      "members": [
+        "Mario Barbieri",
+        "Giuseppe Magliano",
+        "Alfredo Camposano"
+      ]
     },
     "University": "unical",
     "Tasks": [
@@ -10506,7 +11083,10 @@
     "Award": "",
     "Team": {
       "name": "Code Ready",
-      "members": []
+      "members": [
+        "Luca Iacopino",
+        "Francesco Pio Samperna"
+      ]
     },
     "University": "unipv",
     "Tasks": [
@@ -10565,7 +11145,9 @@
     "Award": "",
     "Team": {
       "name": "Mattia Gerosa",
-      "members": []
+      "members": [
+        "Mattia Gerosa"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -10624,7 +11206,9 @@
     "Award": "",
     "Team": {
       "name": "Geraldine Montella",
-      "members": []
+      "members": [
+        "Geraldine Montella"
+      ]
     },
     "University": "unisa",
     "Tasks": [
@@ -10683,7 +11267,10 @@
     "Award": "",
     "Team": {
       "name": "Segmentation Fault",
-      "members": []
+      "members": [
+        "Emanuele Campora",
+        "Diego Miresse"
+      ]
     },
     "University": "uniupo",
     "Tasks": [
@@ -10742,7 +11329,10 @@
     "Award": "",
     "Team": {
       "name": "giveMeHuaweiLaptop",
-      "members": []
+      "members": [
+        "Ali Sabeh",
+        "Fahad Naeem"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -10801,7 +11391,9 @@
     "Award": "",
     "Team": {
       "name": "Busy Beavers",
-      "members": []
+      "members": [
+        "Francesco Cola"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -10860,7 +11452,9 @@
     "Award": "",
     "Team": {
       "name": "Carmine De Rosa",
-      "members": []
+      "members": [
+        "Carmine De Rosa"
+      ]
     },
     "University": "unimore",
     "Tasks": [
@@ -10919,7 +11513,9 @@
     "Award": "",
     "Team": {
       "name": "Christian Moiola",
-      "members": []
+      "members": [
+        "Christian Moiola"
+      ]
     },
     "University": "unitn",
     "Tasks": [
@@ -10978,7 +11574,11 @@
     "Award": "",
     "Team": {
       "name": "Databoys",
-      "members": []
+      "members": [
+        "Manuel Testoni",
+        "Marco Magni",
+        "Riccardo Rimondi"
+      ]
     },
     "University": "unimore",
     "Tasks": [
@@ -11037,7 +11637,9 @@
     "Award": "",
     "Team": {
       "name": "Davide Municchi",
-      "members": []
+      "members": [
+        "Davide Municchi"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -11096,7 +11698,9 @@
     "Award": "",
     "Team": {
       "name": "Davide Scalise",
-      "members": []
+      "members": [
+        "Davide Scalise"
+      ]
     },
     "University": "unical",
     "Tasks": [
@@ -11155,7 +11759,10 @@
     "Award": "",
     "Team": {
       "name": "jugaad",
-      "members": []
+      "members": [
+        "Matteo Giordano",
+        "Thomas Routhu"
+      ]
     },
     "University": "unipv",
     "Tasks": [
@@ -11214,7 +11821,10 @@
     "Award": "",
     "Team": {
       "name": "KAJ",
-      "members": []
+      "members": [
+        "Seyedkian Kashfipour",
+        "Mohammad Javad Zandiyeh"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -11273,7 +11883,9 @@
     "Award": "",
     "Team": {
       "name": "Lorenzo Giani",
-      "members": []
+      "members": [
+        "Lorenzo Giani"
+      ]
     },
     "University": "unige",
     "Tasks": [
@@ -11332,7 +11944,9 @@
     "Award": "",
     "Team": {
       "name": "Marco Premoli",
-      "members": []
+      "members": [
+        "Marco Premoli"
+      ]
     },
     "University": "polimi",
     "Tasks": [
@@ -11391,7 +12005,9 @@
     "Award": "",
     "Team": {
       "name": "Mohamed Takouri",
-      "members": []
+      "members": [
+        "Mohamed Takouri"
+      ]
     },
     "University": "unict",
     "Tasks": [

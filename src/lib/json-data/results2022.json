@@ -4,7 +4,11 @@
     "Award": "gold",
     "Team": {
       "name": "DeepGaussianDelanuyBbstMexConvolution",
-      "members": []
+      "members": [
+        "Davide Bartoli",
+        "Davide Gianessi",
+        "Michael Chelli"
+      ]
     },
     "University": "unibo",
     "Solved tasks": 10,
@@ -57,7 +61,11 @@
     "Award": "silver",
     "Team": {
       "name": "flag[10]",
-      "members": []
+      "members": [
+        "Filippo Casarin",
+        "Tommaso Dossi",
+        "Valerio Stancanelli"
+      ]
     },
     "University": "unipi",
     "Solved tasks": 10,
@@ -110,7 +118,11 @@
     "Award": "bronze",
     "Team": {
       "name": "LaStatale Blue",
-      "members": []
+      "members": [
+        "Alessandro Bortolin",
+        "Fabrizio Brioni",
+        "Nicolas Albani"
+      ]
     },
     "University": "unimi",
     "Solved tasks": 9,
@@ -163,7 +175,11 @@
     "Award": "",
     "Team": {
       "name": "Send Nodes",
-      "members": []
+      "members": [
+        "Alberto Vendramini",
+        "Armando Pellegrini",
+        "Enrico Dal Bianco"
+      ]
     },
     "University": "unitn",
     "Solved tasks": 9,
@@ -216,7 +232,11 @@
     "Award": "",
     "Team": {
       "name": "PoliGons",
-      "members": []
+      "members": [
+        "Ghassane Ben El Aattar",
+        "Matteo Jiahao Chen",
+        "Nima Naderi"
+      ]
     },
     "University": "polito",
     "Solved tasks": 9,
@@ -269,7 +289,11 @@
     "Award": "",
     "Team": {
       "name": "dQw4w9WgXcQ",
-      "members": []
+      "members": [
+        "Leonardo Gagliardoni",
+        "Lorenzo Cazzador",
+        "Simone Moretti"
+      ]
     },
     "University": "unipd",
     "Solved tasks": 9,
@@ -322,7 +346,11 @@
     "Award": "",
     "Team": {
       "name": "flag[11]",
-      "members": []
+      "members": [
+        "Daria Pasqualetti",
+        "Taulant Arapi",
+        "Tommaso Lunghi"
+      ]
     },
     "University": "unipi",
     "Solved tasks": 9,
@@ -375,7 +403,10 @@
     "Award": "",
     "Team": {
       "name": "Paoli",
-      "members": []
+      "members": [
+        "Paolo Battellani",
+        "Paolo Rizzo"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 9,
@@ -428,7 +459,11 @@
     "Award": "",
     "Team": {
       "name": "SapienzaGreen",
-      "members": []
+      "members": [
+        "Andrea Puddu",
+        "Danny Antonelli",
+        "Dario Petrillo"
+      ]
     },
     "University": "uniroma1",
     "Solved tasks": 8,
@@ -481,7 +516,11 @@
     "Award": "",
     "Team": {
       "name": "Virko Miroli",
-      "members": []
+      "members": [
+        "Giacomo Aloisi",
+        "Giacomo Pasini",
+        "Giulio Carlassare"
+      ]
     },
     "University": "unibo",
     "Solved tasks": 8,
@@ -534,7 +573,11 @@
     "Award": "",
     "Team": {
       "name": "Fenwick Treento",
-      "members": []
+      "members": [
+        "Andrea Dipace",
+        "Daniele Cabassi",
+        "Michele Ghilardi"
+      ]
     },
     "University": "unitn",
     "Solved tasks": 8,
@@ -587,7 +630,11 @@
     "Award": "",
     "Team": {
       "name": "Toroidal Polihedrons",
-      "members": []
+      "members": [
+        "Federico Fortunati",
+        "Francesco Imparato",
+        "Marco Sorbi"
+      ]
     },
     "University": "polito",
     "Solved tasks": 7,
@@ -640,7 +687,10 @@
     "Award": "",
     "Team": {
       "name": "reclUSI",
-      "members": []
+      "members": [
+        "Fabio Marchesi",
+        "Raffaele Morganti"
+      ]
     },
     "University": "unimib",
     "Solved tasks": 7,
@@ -693,7 +743,11 @@
     "Award": "",
     "Team": {
       "name": "MindsHub",
-      "members": []
+      "members": [
+        "Alessio Zeni",
+        "Fabio Giovanazzi",
+        "Teodora Panjkovic"
+      ]
     },
     "University": "unitn",
     "Solved tasks": 7,
@@ -746,7 +800,10 @@
     "Award": "",
     "Team": {
       "name": "Patavini",
-      "members": []
+      "members": [
+        "Giovanni Gaio",
+        "Valentino Badalucco"
+      ]
     },
     "University": "unipd",
     "Solved tasks": 7,
@@ -799,7 +856,11 @@
     "Award": "",
     "Team": {
       "name": "C_aramba",
-      "members": []
+      "members": [
+        "Gabriele Baietta",
+        "Giacomo Aragnetti",
+        "Michele Pasquale Amato"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 7,
@@ -852,7 +913,10 @@
     "Award": "",
     "Team": {
       "name": "ScuviergiaTeam",
-      "members": []
+      "members": [
+        "Brian Riccardi",
+        "Christian Bianchini"
+      ]
     },
     "University": "uniud",
     "Solved tasks": 7,
@@ -905,7 +969,11 @@
     "Award": "",
     "Team": {
       "name": "team name goes here",
-      "members": []
+      "members": [
+        "Lorenzo Battini",
+        "Marco Meinardi",
+        "Matteo Arrigo"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 7,
@@ -958,7 +1026,11 @@
     "Award": "",
     "Team": {
       "name": "Freddo&Sonno",
-      "members": []
+      "members": [
+        "Antonio Matteri",
+        "Chiara Molinari",
+        "Eduardo Venturini"
+      ]
     },
     "University": "sns",
     "Solved tasks": 7,
@@ -1011,7 +1083,11 @@
     "Award": "",
     "Team": {
       "name": "Accendini Persiani",
-      "members": []
+      "members": [
+        "Kian Eliasi Boroujeni",
+        "Mohsen Shahverdikondori",
+        "Seyedpeyman Alavi"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 6,
@@ -1064,7 +1140,11 @@
     "Award": "",
     "Team": {
       "name": "noname",
-      "members": []
+      "members": [
+        "Alessandro Dario",
+        "Davide Caucchiolo",
+        "Francesco Protopapa"
+      ]
     },
     "University": "unipd",
     "Solved tasks": 6,
@@ -1117,7 +1197,10 @@
     "Award": "",
     "Team": {
       "name": "Supe",
-      "members": []
+      "members": [
+        "Alessandro Minisini",
+        "Matteo Canton"
+      ]
     },
     "University": "uniud",
     "Solved tasks": 6,
@@ -1170,7 +1253,11 @@
     "Award": "",
     "Team": {
       "name": "SapienzaRainbow",
-      "members": []
+      "members": [
+        "Alessio De Vito",
+        "Pietro Danieli",
+        "Valerio Camaiani"
+      ]
     },
     "University": "uniroma1",
     "Solved tasks": 6,
@@ -1223,7 +1310,11 @@
     "Award": "",
     "Team": {
       "name": "Catamarc",
-      "members": []
+      "members": [
+        "Marco Catapano",
+        "Massimiliano Foschi",
+        "Matteo Poletto"
+      ]
     },
     "University": "sns",
     "Solved tasks": 6,
@@ -1276,7 +1367,9 @@
     "Award": "",
     "Team": {
       "name": "Me, myself and I",
-      "members": []
+      "members": [
+        "Federico Zarantonello"
+      ]
     },
     "University": "unimib",
     "Solved tasks": 6,
@@ -1329,7 +1422,11 @@
     "Award": "",
     "Team": {
       "name": "Markcellone",
-      "members": []
+      "members": [
+        "Angelo Huang",
+        "Filippo Terzi",
+        "Giovanni Spadaccini"
+      ]
     },
     "University": "unibo",
     "Solved tasks": 6,
@@ -1382,7 +1479,11 @@
     "Award": "",
     "Team": {
       "name": "SaPyenza",
-      "members": []
+      "members": [
+        "Francesco Bianchi",
+        "Giulio Manuzzi",
+        "Matteo D'Agostino"
+      ]
     },
     "University": "uniroma1",
     "Solved tasks": 6,
@@ -1435,7 +1536,11 @@
     "Award": "",
     "Team": {
       "name": "Brioscine",
-      "members": []
+      "members": [
+        "Alberto L'Episcopo",
+        "Alessandro Sferlazza",
+        "Alessio Spagnoletti"
+      ]
     },
     "University": "unipi",
     "Solved tasks": 6,
@@ -1488,7 +1593,9 @@
     "Award": "",
     "Team": {
       "name": "0xDEADC0DE",
-      "members": []
+      "members": [
+        "Riccardo Cicala"
+      ]
     },
     "University": "unige",
     "Solved tasks": 5,
@@ -1541,7 +1648,11 @@
     "Award": "",
     "Team": {
       "name": "Risi && Bisi",
-      "members": []
+      "members": [
+        "Alessio Campanelli",
+        "Leone Bacciu",
+        "Mario Gottardo"
+      ]
     },
     "University": "unive",
     "Solved tasks": 5,
@@ -1594,7 +1705,11 @@
     "Award": "",
     "Team": {
       "name": "AFL",
-      "members": []
+      "members": [
+        "Aryan Sood",
+        "Federico Villa",
+        "Lorenzo Benedetti"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 5,
@@ -1647,7 +1762,9 @@
     "Award": "",
     "Team": {
       "name": "FlyingSpaghettiMonster",
-      "members": []
+      "members": [
+        "Riccardo Isola"
+      ]
     },
     "University": "unige",
     "Solved tasks": 5,
@@ -1700,7 +1817,11 @@
     "Award": "",
     "Team": {
       "name": "CodeLGM",
-      "members": []
+      "members": [
+        "Filippo Momesso",
+        "Guglielmo Boi",
+        "Marco Lechthaler"
+      ]
     },
     "University": "unitn",
     "Solved tasks": 5,
@@ -1753,7 +1874,11 @@
     "Award": "",
     "Team": {
       "name": "vettocavaers",
-      "members": []
+      "members": [
+        "Aleandro Prudenzano",
+        "Alessandro Versari",
+        "Dario Pagani"
+      ]
     },
     "University": "unipi",
     "Solved tasks": 5,
@@ -1806,7 +1931,9 @@
     "Award": "",
     "Team": {
       "name": "Rubik'sCode",
-      "members": []
+      "members": [
+        "Patrick Pastorelli"
+      ]
     },
     "University": "unige",
     "Solved tasks": 5,
@@ -1859,7 +1986,11 @@
     "Award": "",
     "Team": {
       "name": "Brainf**k",
-      "members": []
+      "members": [
+        "Alessandro Boschi",
+        "Andrea Allegretti",
+        "Matilde Albonetti"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 5,
@@ -1912,7 +2043,10 @@
     "Award": "",
     "Team": {
       "name": "SickP",
-      "members": []
+      "members": [
+        "Andrea Piseri",
+        "Francesco Riva"
+      ]
     },
     "University": "unimi",
     "Solved tasks": 5,
@@ -1965,7 +2099,9 @@
     "Award": "",
     "Team": {
       "name": "thelax",
-      "members": []
+      "members": [
+        "Lorenzo La Corte"
+      ]
     },
     "University": "unige",
     "Solved tasks": 5,
@@ -2018,7 +2154,11 @@
     "Award": "",
     "Team": {
       "name": "CPU",
-      "members": []
+      "members": [
+        "Giordano Colli",
+        "Katiuscia Pellone",
+        "Samuel Finocchio"
+      ]
     },
     "University": "univaq",
     "Solved tasks": 4,
@@ -2071,7 +2211,11 @@
     "Award": "",
     "Team": {
       "name": "ELIS",
-      "members": []
+      "members": [
+        "Davide Laureti",
+        "Francesco Peluso",
+        "Marco Minaudo"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 4,
@@ -2124,7 +2268,11 @@
     "Award": "",
     "Team": {
       "name": "Shader",
-      "members": []
+      "members": [
+        "Gianmarco D'Onofrio",
+        "Lorenzo Benzoni",
+        "Stefano Arcaro"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 4,
@@ -2177,7 +2325,9 @@
     "Award": "",
     "Team": {
       "name": "Spacekido",
-      "members": []
+      "members": [
+        "Alessandro Oneto"
+      ]
     },
     "University": "unige",
     "Solved tasks": 4,
@@ -2230,7 +2380,11 @@
     "Award": "",
     "Team": {
       "name": "Giga chart",
-      "members": []
+      "members": [
+        "Lorenzo Tinfena",
+        "Luca Donatellis",
+        "Redi Vreto"
+      ]
     },
     "University": "unitn",
     "Solved tasks": 4,
@@ -2283,7 +2437,10 @@
     "Award": "",
     "Team": {
       "name": "FST",
-      "members": []
+      "members": [
+        "Jacopo Pesaresi",
+        "Michele Ceccacci"
+      ]
     },
     "University": "unibo",
     "Solved tasks": 4,
@@ -2336,7 +2493,11 @@
     "Award": "",
     "Team": {
       "name": "404",
-      "members": []
+      "members": [
+        "Emilio Annoni",
+        "Kevin Grosso",
+        "Leonardo Ou Xu"
+      ]
     },
     "University": "unimi",
     "Solved tasks": 4,
@@ -2389,7 +2550,9 @@
     "Award": "",
     "Team": {
       "name": "CristianRonaldoSUI",
-      "members": []
+      "members": [
+        "Samuele Romano"
+      ]
     },
     "University": "unige",
     "Solved tasks": 4,
@@ -2442,7 +2605,9 @@
     "Award": "",
     "Team": {
       "name": "ParinParei",
-      "members": []
+      "members": [
+        "Christian Stingone"
+      ]
     },
     "University": "unige",
     "Solved tasks": 4,
@@ -2495,7 +2660,11 @@
     "Award": "",
     "Team": {
       "name": "Gli Smonadici",
-      "members": []
+      "members": [
+        "Mirko Faina",
+        "Pietro Lepori",
+        "Samuele Manclossi"
+      ]
     },
     "University": "unimi",
     "Solved tasks": 4,
@@ -2548,7 +2717,11 @@
     "Award": "",
     "Team": {
       "name": "Robert');DROP TABLE Students;--",
-      "members": []
+      "members": [
+        "Andrea Sgobbi",
+        "Jacopo Piazzalunga",
+        "Mattia Piccinato"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 4,
@@ -2601,7 +2774,9 @@
     "Award": "",
     "Team": {
       "name": "SegmentationSlayer",
-      "members": []
+      "members": [
+        "Pietro Zignaigo"
+      ]
     },
     "University": "unige",
     "Solved tasks": 4,
@@ -2654,7 +2829,11 @@
     "Award": "",
     "Team": {
       "name": "CiSiProva",
-      "members": []
+      "members": [
+        "Camilla Copetti",
+        "Francesco Mario Boldrin",
+        "Riccardo Germenia"
+      ]
     },
     "University": "unitn",
     "Solved tasks": 4,
@@ -2707,7 +2886,11 @@
     "Award": "",
     "Team": {
       "name": "Inefficient",
-      "members": []
+      "members": [
+        "Dennis Orlando",
+        "Giacomo Sanna",
+        "Petr Sabel"
+      ]
     },
     "University": "unitn",
     "Solved tasks": 4,
@@ -2760,7 +2943,11 @@
     "Award": "",
     "Team": {
       "name": "Unacosaacaso",
-      "members": []
+      "members": [
+        "Dariel Vllamasi",
+        "Martino Barbieri",
+        "Mattia Dell\u2019Anna"
+      ]
     },
     "University": "sns",
     "Solved tasks": 4,
@@ -2813,7 +3000,11 @@
     "Award": "",
     "Team": {
       "name": "a.s.turbo",
-      "members": []
+      "members": [
+        "Andrea Torti",
+        "Fabio Vokrri",
+        "Jonatan Sciaky"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 4,
@@ -2866,7 +3057,9 @@
     "Award": "",
     "Team": {
       "name": "Fabio Fontana",
-      "members": []
+      "members": [
+        "Fabio Fontana"
+      ]
     },
     "University": "unige",
     "Solved tasks": 4,
@@ -2919,7 +3112,9 @@
     "Award": "",
     "Team": {
       "name": "allora praticamente",
-      "members": []
+      "members": [
+        "Lorenzo Giani"
+      ]
     },
     "University": "unige",
     "Solved tasks": 4,
@@ -2972,7 +3167,9 @@
     "Award": "",
     "Team": {
       "name": "Team Name",
-      "members": []
+      "members": [
+        "Ismaele Lorenzon"
+      ]
     },
     "University": "unipd",
     "Solved tasks": 4,
@@ -3025,7 +3222,9 @@
     "Award": "",
     "Team": {
       "name": "teams.get(\"Sapienza\").unwrap()",
-      "members": []
+      "members": [
+        "Ionut Cicio"
+      ]
     },
     "University": "uniroma1",
     "Solved tasks": 3,
@@ -3078,7 +3277,9 @@
     "Award": "",
     "Team": {
       "name": "IndexOutOfBoundsException",
-      "members": []
+      "members": [
+        "Andrea Stucchi"
+      ]
     },
     "University": "unige",
     "Solved tasks": 3,
@@ -3131,7 +3332,9 @@
     "Award": "",
     "Team": {
       "name": "ludof",
-      "members": []
+      "members": [
+        "Ludovico Capiaghi"
+      ]
     },
     "University": "unige",
     "Solved tasks": 3,
@@ -3184,7 +3387,11 @@
     "Award": "",
     "Team": {
       "name": "\u0d9e",
-      "members": []
+      "members": [
+        "Antonio Fergola",
+        "Dario Crosa",
+        "Matteo Garzone"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 3,
@@ -3237,7 +3444,11 @@
     "Award": "",
     "Team": {
       "name": "slag\ud83d\ude00",
-      "members": []
+      "members": [
+        "Edoardo Leali",
+        "Marina Maccarinelli",
+        "Stefano Lauciello"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 3,
@@ -3290,7 +3501,11 @@
     "Award": "",
     "Team": {
       "name": "Sapienza++",
-      "members": []
+      "members": [
+        "Andrea Cicinelli",
+        "Daniel Falbo",
+        "Francesco Manzionna"
+      ]
     },
     "University": "uniroma1",
     "Solved tasks": 3,
@@ -3343,7 +3558,9 @@
     "Award": "",
     "Team": {
       "name": "xDiste",
-      "members": []
+      "members": [
+        "Alex Di Stefano"
+      ]
     },
     "University": "unige",
     "Solved tasks": 3,
@@ -3396,7 +3613,11 @@
     "Award": "",
     "Team": {
       "name": "Sette e mezzo",
-      "members": []
+      "members": [
+        "Alessandro Trimarchi",
+        "Diego Zafferani",
+        "Giacomo Saracino"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 3,
@@ -3449,7 +3670,10 @@
     "Award": "",
     "Team": {
       "name": "FATCATS",
-      "members": []
+      "members": [
+        "Federico Bononi",
+        "Simone Bedini"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 3,
@@ -3502,7 +3726,9 @@
     "Award": "",
     "Team": {
       "name": "Poldo_Team",
-      "members": []
+      "members": [
+        "Beniamino Vagnarelli"
+      ]
     },
     "University": "univpm",
     "Solved tasks": 3,
@@ -3555,7 +3781,9 @@
     "Award": "",
     "Team": {
       "name": "Giovanni Pascoli",
-      "members": []
+      "members": [
+        "Daniele Scaffai"
+      ]
     },
     "University": "unige",
     "Solved tasks": 3,
@@ -3608,7 +3836,11 @@
     "Award": "",
     "Team": {
       "name": "Flamingos",
-      "members": []
+      "members": [
+        "Giorgio Mattina",
+        "Giuseppe Laguardia",
+        "Riccardo Lapi"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 3,
@@ -3661,7 +3893,9 @@
     "Award": "",
     "Team": {
       "name": "IForgotA;",
-      "members": []
+      "members": [
+        "Paolo Patrone"
+      ]
     },
     "University": "unige",
     "Solved tasks": 3,
@@ -3714,7 +3948,11 @@
     "Award": "",
     "Team": {
       "name": "Flamingo in the backrooms",
-      "members": []
+      "members": [
+        "Matteo Luraghi",
+        "Maximilian Mangosi",
+        "Riccardo Merello"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 3,
@@ -3767,7 +4005,9 @@
     "Award": "",
     "Team": {
       "name": "Hot Doggers",
-      "members": []
+      "members": [
+        "Giulio Modolo"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 3,
@@ -3820,7 +4060,11 @@
     "Award": "",
     "Team": {
       "name": "The honey bugs",
-      "members": []
+      "members": [
+        "Alessio Guarisco",
+        "Francesco Genovese",
+        "Paolo Ginefra"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 3,
@@ -3873,7 +4117,10 @@
     "Award": "",
     "Team": {
       "name": "Pizza2",
-      "members": []
+      "members": [
+        "Mohammad Hosseinipour",
+        "Taha Enayat"
+      ]
     },
     "University": "unipd",
     "Solved tasks": 3,
@@ -3926,7 +4173,11 @@
     "Award": "",
     "Team": {
       "name": "arancinHaCK",
-      "members": []
+      "members": [
+        "Flavio Amato",
+        "Francesco La Barbera",
+        "Francesco Virgilia"
+      ]
     },
     "University": "unipa",
     "Solved tasks": 2,
@@ -3978,8 +4229,11 @@
     "Rank": 76,
     "Award": "",
     "Team": {
-      "name": "ld\n                                                    to, TEAM_NAME",
-      "members": []
+      "name": "ld to, TEAM_NAME",
+      "members": [
+        "Alessandro Di Maria",
+        "Tommaso Crippa"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 2,
@@ -4032,7 +4286,11 @@
     "Award": "",
     "Team": {
       "name": "404 - Team Name not found",
-      "members": []
+      "members": [
+        "Giuseppe Bocci",
+        "Giuseppe Steduto",
+        "Mario Vallone"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 2,
@@ -4084,8 +4342,11 @@
     "Rank": 78,
     "Award": "",
     "Team": {
-      "name": "I\n                                                    bimbi di TurboPaolo",
-      "members": []
+      "name": "I bimbi di TurboPaolo",
+      "members": [
+        "Francesco Azzar\u00e0",
+        "Sara Berardinelli"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 2,
@@ -4138,7 +4399,9 @@
     "Award": "",
     "Team": {
       "name": "Team123",
-      "members": []
+      "members": [
+        "Valentyn Piskovskyi"
+      ]
     },
     "University": "unimib",
     "Solved tasks": 2,
@@ -4191,7 +4454,11 @@
     "Award": "",
     "Team": {
       "name": "PiCoDe",
-      "members": []
+      "members": [
+        "Mohammad Vanaei",
+        "Pedram Zeinalabedin Zadegan",
+        "Sina Raeisadigh"
+      ]
     },
     "University": "unipd",
     "Solved tasks": 2,
@@ -4244,7 +4511,11 @@
     "Award": "",
     "Team": {
       "name": "2/3 asians",
-      "members": []
+      "members": [
+        "Alessandro Carbone",
+        "Enrico Chen",
+        "Jia Xing Chen"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 2,
@@ -4297,7 +4568,11 @@
     "Award": "",
     "Team": {
       "name": "EsotericCode(1)",
-      "members": []
+      "members": [
+        "Cezar Narcis Culcea",
+        "Emanuele Mele",
+        "Francesco De Nunzio"
+      ]
     },
     "University": "unisalento",
     "Solved tasks": 2,
@@ -4350,7 +4625,10 @@
     "Award": "",
     "Team": {
       "name": "BadGateway[502]",
-      "members": []
+      "members": [
+        "Federico Mercurio",
+        "Luca Mattiussi"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 2,
@@ -4403,7 +4681,11 @@
     "Award": "",
     "Team": {
       "name": "EsotericCode(0)",
-      "members": []
+      "members": [
+        "Filippo Goffredo",
+        "Matteo Aprile",
+        "Roberto Vadacca"
+      ]
     },
     "University": "unisalento",
     "Solved tasks": 2,
@@ -4456,7 +4738,11 @@
     "Award": "",
     "Team": {
       "name": "Segmentation Fault",
-      "members": []
+      "members": [
+        "Carlos Martin Lara Acosta",
+        "Leonardo Mantovani",
+        "Pietro Lucattini"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 2,
@@ -4509,7 +4795,11 @@
     "Award": "",
     "Team": {
       "name": "Cos\u00ec non si pu\u00f2 giocare",
-      "members": []
+      "members": [
+        "Nicola Gallucci",
+        "Simone Ferri",
+        "Stefano Garzoni"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 2,
@@ -4562,7 +4852,9 @@
     "Award": "",
     "Team": {
       "name": "Rock Solid",
-      "members": []
+      "members": [
+        "Gabriele Dellepere"
+      ]
     },
     "University": "unige",
     "Solved tasks": 2,
@@ -4615,7 +4907,10 @@
     "Award": "",
     "Team": {
       "name": "Questo Team \u00e8 Sponsorizzato da NordVPN",
-      "members": []
+      "members": [
+        "Christian Vezzoli",
+        "Shaan Vashisht"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 2,
@@ -4667,8 +4962,11 @@
     "Rank": 89,
     "Award": "",
     "Team": {
-      "name": "We\n                                                    don't use dp",
-      "members": []
+      "name": "We don't use dp",
+      "members": [
+        "Dario Bekic",
+        "Giacomo Antonelli"
+      ]
     },
     "University": "unibo",
     "Solved tasks": 2,
@@ -4721,7 +5019,11 @@
     "Award": "",
     "Team": {
       "name": "NaN",
-      "members": []
+      "members": [
+        "Christian Corvace",
+        "Lorenzo Mariotti",
+        "Mehdi Zribi"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 2,
@@ -4774,7 +5076,9 @@
     "Award": "",
     "Team": {
       "name": "Calogero Jerik Scozzaro",
-      "members": []
+      "members": [
+        "Calogero Jerik Scozzaro"
+      ]
     },
     "University": "unito",
     "Solved tasks": 2,
@@ -4827,7 +5131,11 @@
     "Award": "",
     "Team": {
       "name": "Pwnsticciotti",
-      "members": []
+      "members": [
+        "Alessandro Tornesello",
+        "Danila Meleleo",
+        "Matteo Rizzo"
+      ]
     },
     "University": "unisalento",
     "Solved tasks": 2,
@@ -4880,7 +5188,11 @@
     "Award": "",
     "Team": {
       "name": "Parchimetri",
-      "members": []
+      "members": [
+        "Daniele Montanari",
+        "Manuel Isolan",
+        "Marco Da Pozzo"
+      ]
     },
     "University": "univr",
     "Solved tasks": 2,
@@ -4933,7 +5245,9 @@
     "Award": "",
     "Team": {
       "name": "Aigul Zhyldyzbekova",
-      "members": []
+      "members": [
+        "Aigul Zhyldyzbekova"
+      ]
     },
     "University": "unime",
     "Solved tasks": 2,
@@ -4986,7 +5300,9 @@
     "Award": "",
     "Team": {
       "name": "GitCopMyLife",
-      "members": []
+      "members": [
+        "Pietro Montaldo"
+      ]
     },
     "University": "unige",
     "Solved tasks": 2,
@@ -5039,7 +5355,9 @@
     "Award": "",
     "Team": {
       "name": "AMOGUS SUS",
-      "members": []
+      "members": [
+        "Thomas Ghione"
+      ]
     },
     "University": "unige",
     "Solved tasks": 2,
@@ -5092,7 +5410,11 @@
     "Award": "",
     "Team": {
       "name": "return new Team()",
-      "members": []
+      "members": [
+        "Davide Corradina",
+        "Flavio De Lellis",
+        "Marco Conti"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 2,
@@ -5145,7 +5467,9 @@
     "Award": "",
     "Team": {
       "name": "AbdulAleem",
-      "members": []
+      "members": [
+        "Abdul Aleem"
+      ]
     },
     "University": "unige",
     "Solved tasks": 2,
@@ -5198,7 +5522,10 @@
     "Award": "",
     "Team": {
       "name": "GroupNotFound",
-      "members": []
+      "members": [
+        "Alessandro Pasquetto",
+        "Davide Premoli"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 2,
@@ -5251,7 +5578,11 @@
     "Award": "",
     "Team": {
       "name": "Controllo Qualit\u00e0 Acciona",
-      "members": []
+      "members": [
+        "Alessandro Rinaldi",
+        "Antonio Leonetti",
+        "Saverio Cannone"
+      ]
     },
     "University": "unimi",
     "Solved tasks": 2,
@@ -5304,7 +5635,10 @@
     "Award": "",
     "Team": {
       "name": "NotThatTech",
-      "members": []
+      "members": [
+        "Daniele Cursano",
+        "Flavio Milinanni"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 2,
@@ -5357,7 +5691,11 @@
     "Award": "",
     "Team": {
       "name": "TeamPallo",
-      "members": []
+      "members": [
+        "Francesco Fausto Franchina",
+        "Maurilio Miceli",
+        "Mohamed Tager"
+      ]
     },
     "University": "unipa",
     "Solved tasks": 2,
@@ -5410,7 +5748,11 @@
     "Award": "",
     "Team": {
       "name": "Midnight",
-      "members": []
+      "members": [
+        "Andrea Gollo",
+        "Matteo Melchiorre",
+        "Ramin Mohammadi Masoudi"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 2,
@@ -5463,7 +5805,11 @@
     "Award": "",
     "Team": {
       "name": "LitPeople",
-      "members": []
+      "members": [
+        "Luca Cattani",
+        "Simone Lucca",
+        "Tommaso Fellegara"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 2,
@@ -5516,7 +5862,11 @@
     "Award": "",
     "Team": {
       "name": "Script Kiddies",
-      "members": []
+      "members": [
+        "Federico Cangelosi",
+        "Stefano Merendino",
+        "Tiziano Dell'Aiera"
+      ]
     },
     "University": "unipa",
     "Solved tasks": 2,
@@ -5569,7 +5919,11 @@
     "Award": "",
     "Team": {
       "name": "RNC",
-      "members": []
+      "members": [
+        "Emilio Fattibene",
+        "Giuseppe D'Ambrosi",
+        "Loreto Del Vecchio"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 2,
@@ -5622,7 +5976,9 @@
     "Award": "",
     "Team": {
       "name": "AMOGUS",
-      "members": []
+      "members": [
+        "Andrea Chicco"
+      ]
     },
     "University": "unige",
     "Solved tasks": 2,
@@ -5675,7 +6031,9 @@
     "Award": "",
     "Team": {
       "name": "ChillCode",
-      "members": []
+      "members": [
+        "Alessio Barletta"
+      ]
     },
     "University": "unige",
     "Solved tasks": 2,
@@ -5728,7 +6086,11 @@
     "Award": "",
     "Team": {
       "name": "_",
-      "members": []
+      "members": [
+        "Alessandro Ruzza",
+        "Corrado Sciancalepore",
+        "Federico Quartieri"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 2,
@@ -5781,7 +6143,11 @@
     "Award": "",
     "Team": {
       "name": "DJY",
-      "members": []
+      "members": [
+        "Giovanni Ni",
+        "Ken Che",
+        "Yang Hao Mao"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 2,
@@ -5834,7 +6200,9 @@
     "Award": "",
     "Team": {
       "name": "Mida0205",
-      "members": []
+      "members": [
+        "Mirko Francesco Pedone"
+      ]
     },
     "University": "unimi",
     "Solved tasks": 2,
@@ -5887,7 +6255,9 @@
     "Award": "",
     "Team": {
       "name": "spinnyscript",
-      "members": []
+      "members": [
+        "Filippo Spinella"
+      ]
     },
     "University": "unige",
     "Solved tasks": 2,
@@ -5940,7 +6310,9 @@
     "Award": "",
     "Team": {
       "name": "Andrea Bellocci",
-      "members": []
+      "members": [
+        "Andrea Bellocci"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 2,
@@ -5993,7 +6365,11 @@
     "Award": "",
     "Team": {
       "name": "DajeIscrivetevi",
-      "members": []
+      "members": [
+        "Alessandro Saccinto",
+        "Gabriele Masciulli",
+        "Valerio Gozzellino"
+      ]
     },
     "University": "unito",
     "Solved tasks": 1,
@@ -6046,7 +6422,11 @@
     "Award": "",
     "Team": {
       "name": "Antani",
-      "members": []
+      "members": [
+        "Alberto Ovena",
+        "Mattia Perfumo",
+        "Tiziano Radicchi"
+      ]
     },
     "University": "unimi",
     "Solved tasks": 1,
@@ -6099,7 +6479,11 @@
     "Award": "",
     "Team": {
       "name": "Error404",
-      "members": []
+      "members": [
+        "Daniele Castellano",
+        "Kristian Dragoti",
+        "Matteo Leotardi"
+      ]
     },
     "University": "uniupo",
     "Solved tasks": 1,
@@ -6152,7 +6536,11 @@
     "Award": "",
     "Team": {
       "name": "Tecknobit",
-      "members": []
+      "members": [
+        "Alessandro Costantino Baltag",
+        "Gabriele Marengo",
+        "Manuel Maurizio"
+      ]
     },
     "University": "unito",
     "Solved tasks": 1,
@@ -6205,7 +6593,11 @@
     "Award": "",
     "Team": {
       "name": "KGAcoding",
-      "members": []
+      "members": [
+        "Alessandro Valenti",
+        "Giacomo Lombardo",
+        "Silvestro Scalici"
+      ]
     },
     "University": "unipa",
     "Solved tasks": 1,
@@ -6258,7 +6650,10 @@
     "Award": "",
     "Team": {
       "name": "RismaDiCarta",
-      "members": []
+      "members": [
+        "Marco Scala Bertolin",
+        "Matteo Gobbi Frattini"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 1,
@@ -6310,8 +6705,12 @@
     "Rank": 120,
     "Award": "",
     "Team": {
-      "name": "Hp\n                                                    Triple Kill",
-      "members": []
+      "name": "Hp Triple Kill",
+      "members": [
+        "Haojie Zuo",
+        "Shiqi Zhou",
+        "Simone Pan"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 1,
@@ -6364,7 +6763,9 @@
     "Award": "",
     "Team": {
       "name": "Amina El Kharouai",
-      "members": []
+      "members": [
+        "Amina El Kharouai"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 1,
@@ -6417,7 +6818,10 @@
     "Award": "",
     "Team": {
       "name": "yay",
-      "members": []
+      "members": [
+        "Alessandro Sarto",
+        "Daniele Beltrami Vincenzi"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 1,
@@ -6470,7 +6874,11 @@
     "Award": "",
     "Team": {
       "name": "(\u2060\uff89\u2060\u25d5\u2060\u30ee\u2060\u25d5\u2060)\u2060\uff89\u2060*\u2060.\u2060\u2727",
-      "members": []
+      "members": [
+        "Andrea Caruana",
+        "Federico Ernesto Bulfari",
+        "Mattia Caon"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 1,
@@ -6523,7 +6931,9 @@
     "Award": "",
     "Team": {
       "name": "Miad Alavinezhad",
-      "members": []
+      "members": [
+        "Miad Alavinezhad"
+      ]
     },
     "University": "unimi",
     "Solved tasks": 1,
@@ -6576,7 +6986,11 @@
     "Award": "",
     "Team": {
       "name": "Tipsy Pirates",
-      "members": []
+      "members": [
+        "Paula Bellesi",
+        "Pietro Agnoli",
+        "Salvatore Bosco"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 1,
@@ -6629,7 +7043,11 @@
     "Award": "",
     "Team": {
       "name": "\u2800",
-      "members": []
+      "members": [
+        "Emanuele Babolo",
+        "Giuliano Croppi",
+        "Kevin Vallerin"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 1,
@@ -6682,7 +7100,11 @@
     "Award": "",
     "Team": {
       "name": "RandomName.exe",
-      "members": []
+      "members": [
+        "Amedeo Braggio",
+        "Federico Giacardi",
+        "Lorenzo Sacchetti"
+      ]
     },
     "University": "unito",
     "Solved tasks": 1,
@@ -6735,7 +7157,9 @@
     "Award": "",
     "Team": {
       "name": "Mattia Morea",
-      "members": []
+      "members": [
+        "Mattia Morea"
+      ]
     },
     "University": "polito",
     "Solved tasks": 1,
@@ -6788,7 +7212,11 @@
     "Award": "",
     "Team": {
       "name": "MNF",
-      "members": []
+      "members": [
+        "Edoardo D'Alessio",
+        "Federico Falcone",
+        "Nicola De March"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 1,
@@ -6841,7 +7269,9 @@
     "Award": "",
     "Team": {
       "name": "Francesco Bondi",
-      "members": []
+      "members": [
+        "Francesco Bondi"
+      ]
     },
     "University": "polimi",
     "Solved tasks": 0,
