@@ -19,7 +19,7 @@
 		<Date>
 			<h2 slot="title">Registration</h2>
 			<p slot="date">
-				Closed on October 18th, 11:59 PM
+				Closed on October 18th 2024, 11:59 PM
 			</p>
 			<p slot="other">
 				<a class="btn btn-disabled rounded-full mt-4" href="https://teams24.itacpc.it/">
@@ -31,9 +31,10 @@
 
 		<Date>
 			<h2 slot="title">Contest</h2>
-			<p slot="date">October 19th, 9:00 AM - 1:00 PM (4 hours)</p>
+			<p slot="date">October 19th 2024, 9:00 AM - 1:00 PM (4 hours)</p>
 			<p slot="other">
-				<a class="btn btn-secondary rounded-full mt-4" href="https://judge24.itacpc.it/">
+				<!-- Change btn-disabled to btn-secondary -->
+				<a class="btn btn-disabled rounded-full mt-4" href="https://judge24.itacpc.it/">
 					<!-- You can access the contest on the 19th -->
 					Access the contest platform
 				</a>
