@@ -21,7 +21,7 @@
 		</p>
 
 		<h2>
-			Rules as of October 11th, 2024
+			Rules as of September 22th, 2025
 		</h2>
 
 		<ul class="list-disc">
@@ -64,6 +64,16 @@
 				It's permitted to use code snippets found online as long as the
 				source is mentioned in the code (adding a comment with a URL is
 				fine). Re-using an entire solution, for example, is not allowed.
+			</li>
+
+			<li>
+				Using AI tools (like ChatGPT, GitHub Copilot, etc.) to
+				automatically generate code is not allowed.
+			</li>
+
+			<li>
+				The contest judges have final authority on all matters related
+				to the contest, including deciding on any rule violations.
 			</li>
 		</ul>
 	</div>
