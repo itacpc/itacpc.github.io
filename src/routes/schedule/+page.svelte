@@ -17,12 +17,17 @@
 	</Description>
 	<div class="max-w-xl w-full flex flex-col text-center gap-4">
 		<Date>
-			<h2 slot="title">Registration</h2>
+			<h2 slot="title">
+				Registration is open!
+				<!-- Registration is closed -->
+			</h2>
 			<p slot="date">
-				Closed on October 18th 2024, 11:59 PM
+				Registrations will close on October 10th 2025, 11:59 PM
+				<!-- Registrations closed on ... -->
 			</p>
 			<p slot="other">
-				<a class="btn btn-disabled rounded-full mt-4" href="https://teams24.itacpc.it/">
+				<!-- Alternate: btn-disabled, btn-secondary -->
+				<a class="btn btn-secondary rounded-full mt-4" href="https://teams25.itacpc.it/">
 					Click here to register
 					<!-- View teams and get your contest access credentials -->
 				</a>
@@ -31,12 +36,12 @@
 
 		<Date>
 			<h2 slot="title">Contest</h2>
-			<p slot="date">October 19th 2024, 9:00 AM - 1:00 PM (4 hours)</p>
+			<p slot="date">October 11th 2025, 9:00 AM - 1:00 PM (4 hours)</p>
 			<p slot="other">
-				<!-- Change btn-disabled to btn-secondary -->
-				<a class="btn btn-disabled rounded-full mt-4" href="https://judge24.itacpc.it/">
-					<!-- You can access the contest on the 19th -->
-					Access the contest platform
+				<!-- Alternate: btn-disabled, btn-secondary -->
+				<a class="btn btn-disabled rounded-full mt-4" href="https://judge25.itacpc.it/">
+					You cannot access the contest platform yet
+					<!-- Access the contest platform -->
 				</a>
 			</p>
 		</Date>
