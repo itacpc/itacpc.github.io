@@ -19,21 +19,21 @@
 
 <Content>
 	<div class="w-full max-w-4xl text-lg flex flex-col px-2">
-		<!-- <div class="card bg-green-100 shadow-xl mb-8">
+		<div class="card bg-green-100 shadow-xl mb-8">
 			<div class="card-body">
 				<h2 class="card-title">
 					<span class="badge badge-lg bg-green-400">NEW</span>
 					Registration is open
 				</h2>
 				<div class="flex flex-row items-center gap-2 text-justify">
-					The registration for ITACPC 2024 is now open!
+					The registration for ITACPC 2025 is now open!
 
 					<span>
-						<a class="btn btn-primary" href="https://teams24.itacpc.it/">Register here</a>
+						<a class="btn btn-primary" href="https://teams25.itacpc.it/">Register here</a>
 					</span>
 				</div>
 			</div>
-		</div> -->
+		</div>
 
 		<h2 class="text-2xl sm:divider">About ITACPC</h2>
 		<div class="flex flex-col gap-2 text-justify">
