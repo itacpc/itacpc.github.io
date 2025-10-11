@@ -19,6 +19,22 @@
 
 <Content>
 	<div class="w-full max-w-4xl text-lg flex flex-col px-2">
+		<div class="card bg-green-100 shadow-xl mb-8">
+			<div class="card-body">
+				<h2 class="card-title">
+					<span class="badge badge-lg bg-green-400">NEW</span>
+					Problem analysis livestream
+				</h2>
+				<div class="flex flex-row items-center gap-2 text-justify">
+					The livestream for ITACPC 2025 is now available!
+
+					<span>
+						<a class="btn btn-primary" href="https://www.youtube.com/live/qEZeY6D-y1E">Watch on YouTube</a>
+					</span>
+				</div>
+			</div>
+		</div>
+
 		<!-- <div class="card bg-green-100 shadow-xl mb-8">
 			<div class="card-body">
 				<h2 class="card-title">
