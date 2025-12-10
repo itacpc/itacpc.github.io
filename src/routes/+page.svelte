@@ -19,7 +19,7 @@
 
 <Content>
 	<div class="w-full max-w-4xl text-lg flex flex-col px-2">
-		<div class="card bg-green-100 shadow-xl mb-8">
+		<!-- <div class="card bg-green-100 shadow-xl mb-8">
 			<div class="card-body">
 				<h2 class="card-title">
 					<span class="badge badge-lg bg-green-400">NEW</span>
@@ -33,7 +33,7 @@
 					</span>
 				</div>
 			</div>
-		</div>
+		</div> -->
 
 		<!-- <div class="card bg-green-100 shadow-xl mb-8">
 			<div class="card-body">
