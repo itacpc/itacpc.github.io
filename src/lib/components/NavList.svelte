@@ -27,14 +27,14 @@
 		<ul class="p-2">
 			<li>
 				<a
-					href="{base}/competition/tasks/2024"
+					href="{base}/competition/tasks/2025"
 					class:font-bold={$page.route.id === `${base}/competition/tasks/[year]`}
 					on:click={closeDrawer}>Tasks</a
 				>
 			</li>
 			<li>
 				<a
-					href="{base}/competition/results/2024"
+					href="{base}/competition/results/2025"
 					class:font-bold={$page.route.id === `${base}/competition/results/[year]`}
 					on:click={closeDrawer}>Results</a
 				>

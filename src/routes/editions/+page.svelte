@@ -20,6 +20,11 @@
 	<div class="join join-vertical w-full max-w-2xl shadow-md rounded-box">
 		<!-- Use the `year` property -->
 		<!-- optional: To display a flag, use the `flag="filename"` property (svg files inside images/flags) -->
+		<AccordionItem year="2025">
+			<p slot="title">
+				October 11th, 2025
+			</p>
+		</AccordionItem>
 		<AccordionItem year="2024">
 			<p slot="title">
 				October 19th, 2024
