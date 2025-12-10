@@ -1,0 +1,64 @@
+{
+    "contest_tasks": [
+        {
+            "id": "birthday",
+            "name": "Birthday Party",
+            "statement": "/files/2025/birthday.pdf"
+        },
+        {
+            "id": "walk",
+            "name": "Palindromic Walk",
+            "statement": "/files/2025/walk.pdf"
+        },
+        {
+            "id": "square",
+            "name": "The Squares Strike Back",
+            "statement": "/files/2025/square.pdf"
+        },
+        {
+            "id": "wizard",
+            "name": "Wizard",
+            "statement": "/files/2025/wizard.pdf"
+        },
+        {
+            "id": "inversions",
+            "name": "Permutation Inversions",
+            "statement": "/files/2025/inversions.pdf"
+        },
+        {
+            "id": "coliva",
+            "name": "Colivă",
+            "statement": "/files/2025/coliva.pdf"
+        },
+        {
+            "id": "dinner",
+            "name": "Christmas Dinner",
+            "statement": "/files/2025/dinner.pdf"
+        },
+        {
+            "id": "wardrobe",
+            "name": "Wardrobe 3",
+            "statement": "/files/2025/wardrobe.pdf"
+        },
+        {
+            "id": "soup",
+            "name": "Good Soup",
+            "statement": "/files/2025/soup.pdf"
+        },
+        {
+            "id": "porco",
+            "name": "Porco Rigido",
+            "statement": "/files/2025/porco.pdf"
+        },
+        {
+            "id": "pizza",
+            "name": "Pizza",
+            "statement": "/files/2025/pizza.pdf"
+        },
+        {
+            "id": "string",
+            "name": "Fake Square String",
+            "statement": "/files/2025/string.pdf"
+        }
+    ]
+}
