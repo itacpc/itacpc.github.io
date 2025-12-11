@@ -26,7 +26,8 @@
 				Registrations closed on on October 10th 2025, 11:59 PM
 			</p>
 			<p slot="other">
-				<a class="btn btn-secondary rounded-full mt-4" href="https://teams25.itacpc.it/">
+				<!-- Alternate: btn-disabled, btn-secondary -->
+				<a class="btn btn-disabled rounded-full mt-4" href="https://teams25.itacpc.it/">
 					<!-- Click here to register -->
 					View teams and get your contest access credentials
 				</a>
@@ -38,7 +39,7 @@
 			<p slot="date">October 11th 2025, 9:00 AM - 1:00 PM (4 hours)</p>
 			<p slot="other">
 				<!-- Alternate: btn-disabled, btn-secondary -->
-				<a class="btn btn-secondary rounded-full mt-4" href="https://judge25.itacpc.it/">
+				<a class="btn btn-disabled rounded-full mt-4" href="https://judge25.itacpc.it/">
 					<!-- You cannot access the contest platform yet -->
 					Access the contest platform
 				</a>
