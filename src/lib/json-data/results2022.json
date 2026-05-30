@@ -11,8 +11,6 @@
       ]
     },
     "University": "unibo",
-    "Solved tasks": 10,
-    "Penalty": 612,
     "Tasks": [
       [
         3,
@@ -68,8 +66,6 @@
       ]
     },
     "University": "unipi",
-    "Solved tasks": 10,
-    "Penalty": 741,
     "Tasks": [
       [
         3,
@@ -125,8 +121,6 @@
       ]
     },
     "University": "unimi",
-    "Solved tasks": 9,
-    "Penalty": 460,
     "Tasks": [
       [
         5,
@@ -182,8 +176,6 @@
       ]
     },
     "University": "unitn",
-    "Solved tasks": 9,
-    "Penalty": 636,
     "Tasks": [
       [
         3,
@@ -239,8 +231,6 @@
       ]
     },
     "University": "polito",
-    "Solved tasks": 9,
-    "Penalty": 716,
     "Tasks": [
       [
         5,
@@ -296,8 +286,6 @@
       ]
     },
     "University": "unipd",
-    "Solved tasks": 9,
-    "Penalty": 769,
     "Tasks": [
       [
         2,
@@ -353,8 +341,6 @@
       ]
     },
     "University": "unipi",
-    "Solved tasks": 9,
-    "Penalty": 827,
     "Tasks": [
       [
         3,
@@ -409,8 +395,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 9,
-    "Penalty": 840,
     "Tasks": [
       [
         3,
@@ -466,8 +450,6 @@
       ]
     },
     "University": "uniroma1",
-    "Solved tasks": 8,
-    "Penalty": 602,
     "Tasks": [
       [
         6,
@@ -523,8 +505,6 @@
       ]
     },
     "University": "unibo",
-    "Solved tasks": 8,
-    "Penalty": 806,
     "Tasks": [
       [
         4,
@@ -580,8 +560,6 @@
       ]
     },
     "University": "unitn",
-    "Solved tasks": 8,
-    "Penalty": 915,
     "Tasks": [
       [
         5,
@@ -637,8 +615,6 @@
       ]
     },
     "University": "polito",
-    "Solved tasks": 7,
-    "Penalty": 438,
     "Tasks": [
       [
         4,
@@ -693,8 +669,6 @@
       ]
     },
     "University": "unimib",
-    "Solved tasks": 7,
-    "Penalty": 460,
     "Tasks": [
       [
         5,
@@ -750,8 +724,6 @@
       ]
     },
     "University": "unitn",
-    "Solved tasks": 7,
-    "Penalty": 549,
     "Tasks": [
       [
         6,
@@ -806,8 +778,6 @@
       ]
     },
     "University": "unipd",
-    "Solved tasks": 7,
-    "Penalty": 586,
     "Tasks": [
       [
         7,
@@ -863,8 +833,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 7,
-    "Penalty": 758,
     "Tasks": [
       [
         3,
@@ -919,8 +887,6 @@
       ]
     },
     "University": "uniud",
-    "Solved tasks": 7,
-    "Penalty": 850,
     "Tasks": [
       [
         13,
@@ -976,8 +942,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 7,
-    "Penalty": 948,
     "Tasks": [
       [
         16,
@@ -1033,8 +997,6 @@
       ]
     },
     "University": "sns",
-    "Solved tasks": 7,
-    "Penalty": 1018,
     "Tasks": [
       [
         6,
@@ -1090,8 +1052,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 6,
-    "Penalty": 375,
     "Tasks": [
       [
         4,
@@ -1147,8 +1107,6 @@
       ]
     },
     "University": "unipd",
-    "Solved tasks": 6,
-    "Penalty": 466,
     "Tasks": [
       [
         8,
@@ -1203,8 +1161,6 @@
       ]
     },
     "University": "uniud",
-    "Solved tasks": 6,
-    "Penalty": 466,
     "Tasks": [
       [
         42,
@@ -1260,8 +1216,6 @@
       ]
     },
     "University": "uniroma1",
-    "Solved tasks": 6,
-    "Penalty": 560,
     "Tasks": [
       [
         4,
@@ -1317,8 +1271,6 @@
       ]
     },
     "University": "sns",
-    "Solved tasks": 6,
-    "Penalty": 666,
     "Tasks": [
       [
         47,
@@ -1372,8 +1324,6 @@
       ]
     },
     "University": "unimib",
-    "Solved tasks": 6,
-    "Penalty": 727,
     "Tasks": [
       [
         4,
@@ -1429,8 +1379,6 @@
       ]
     },
     "University": "unibo",
-    "Solved tasks": 6,
-    "Penalty": 834,
     "Tasks": [
       [
         8,
@@ -1486,8 +1434,6 @@
       ]
     },
     "University": "uniroma1",
-    "Solved tasks": 6,
-    "Penalty": 853,
     "Tasks": [
       [
         3,
@@ -1543,8 +1489,6 @@
       ]
     },
     "University": "unipi",
-    "Solved tasks": 6,
-    "Penalty": 960,
     "Tasks": [
       [
         10,
@@ -1598,8 +1542,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 5,
-    "Penalty": 192,
     "Tasks": [
       [
         5,
@@ -1655,8 +1597,6 @@
       ]
     },
     "University": "unive",
-    "Solved tasks": 5,
-    "Penalty": 212,
     "Tasks": [
       [
         2,
@@ -1712,8 +1652,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 5,
-    "Penalty": 310,
     "Tasks": [
       [
         3,
@@ -1767,8 +1705,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 5,
-    "Penalty": 340,
     "Tasks": [
       [
         2,
@@ -1824,8 +1760,6 @@
       ]
     },
     "University": "unitn",
-    "Solved tasks": 5,
-    "Penalty": 427,
     "Tasks": [
       [
         4,
@@ -1881,8 +1815,6 @@
       ]
     },
     "University": "unipi",
-    "Solved tasks": 5,
-    "Penalty": 446,
     "Tasks": [
       [
         4,
@@ -1936,8 +1868,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 5,
-    "Penalty": 554,
     "Tasks": [
       [
         5,
@@ -1993,8 +1923,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 5,
-    "Penalty": 698,
     "Tasks": [
       [
         30,
@@ -2049,8 +1977,6 @@
       ]
     },
     "University": "unimi",
-    "Solved tasks": 5,
-    "Penalty": 702,
     "Tasks": [
       [
         8,
@@ -2104,8 +2030,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 5,
-    "Penalty": 818,
     "Tasks": [
       [
         19,
@@ -2161,8 +2085,6 @@
       ]
     },
     "University": "univaq",
-    "Solved tasks": 4,
-    "Penalty": 158,
     "Tasks": [
       [
         6,
@@ -2218,8 +2140,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 4,
-    "Penalty": 248,
     "Tasks": [
       [
         3,
@@ -2275,8 +2195,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 4,
-    "Penalty": 279,
     "Tasks": [
       [
         16,
@@ -2330,8 +2248,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 4,
-    "Penalty": 293,
     "Tasks": [
       [
         3,
@@ -2387,8 +2303,6 @@
       ]
     },
     "University": "unitn",
-    "Solved tasks": 4,
-    "Penalty": 323,
     "Tasks": [
       [
         4,
@@ -2443,8 +2357,6 @@
       ]
     },
     "University": "unibo",
-    "Solved tasks": 4,
-    "Penalty": 331,
     "Tasks": [
       [
         9,
@@ -2500,8 +2412,6 @@
       ]
     },
     "University": "unimi",
-    "Solved tasks": 4,
-    "Penalty": 384,
     "Tasks": [
       [
         2,
@@ -2555,8 +2465,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 4,
-    "Penalty": 443,
     "Tasks": [
       [
         6,
@@ -2610,8 +2518,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 4,
-    "Penalty": 449,
     "Tasks": [
       [
         9,
@@ -2667,8 +2573,6 @@
       ]
     },
     "University": "unimi",
-    "Solved tasks": 4,
-    "Penalty": 482,
     "Tasks": [
       [
         9,
@@ -2724,8 +2628,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 4,
-    "Penalty": 506,
     "Tasks": [
       [
         16,
@@ -2779,8 +2681,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 4,
-    "Penalty": 525,
     "Tasks": [
       [
         31,
@@ -2836,8 +2736,6 @@
       ]
     },
     "University": "unitn",
-    "Solved tasks": 4,
-    "Penalty": 586,
     "Tasks": [
       [
         10,
@@ -2893,8 +2791,6 @@
       ]
     },
     "University": "unitn",
-    "Solved tasks": 4,
-    "Penalty": 592,
     "Tasks": [
       [
         6,
@@ -2950,8 +2846,6 @@
       ]
     },
     "University": "sns",
-    "Solved tasks": 4,
-    "Penalty": 654,
     "Tasks": [
       [
         43,
@@ -3007,8 +2901,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 4,
-    "Penalty": 671,
     "Tasks": [
       [
         44,
@@ -3062,8 +2954,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 4,
-    "Penalty": 689,
     "Tasks": [
       [
         39,
@@ -3117,8 +3007,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 4,
-    "Penalty": 756,
     "Tasks": [
       [
         3,
@@ -3172,8 +3060,6 @@
       ]
     },
     "University": "unipd",
-    "Solved tasks": 4,
-    "Penalty": 999,
     "Tasks": [
       [
         50,
@@ -3227,8 +3113,6 @@
       ]
     },
     "University": "uniroma1",
-    "Solved tasks": 3,
-    "Penalty": 168,
     "Tasks": [
       [
         5,
@@ -3282,8 +3166,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 3,
-    "Penalty": 181,
     "Tasks": [
       [
         14,
@@ -3337,8 +3219,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 3,
-    "Penalty": 188,
     "Tasks": [
       [
         14,
@@ -3394,8 +3274,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 3,
-    "Penalty": 241,
     "Tasks": [
       [
         43,
@@ -3451,8 +3329,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 3,
-    "Penalty": 296,
     "Tasks": [
       [
         22,
@@ -3508,8 +3384,6 @@
       ]
     },
     "University": "uniroma1",
-    "Solved tasks": 3,
-    "Penalty": 327,
     "Tasks": [
       [
         20,
@@ -3563,8 +3437,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 3,
-    "Penalty": 355,
     "Tasks": [
       [
         11,
@@ -3620,8 +3492,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 3,
-    "Penalty": 360,
     "Tasks": [
       [
         59,
@@ -3676,8 +3546,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 3,
-    "Penalty": 367,
     "Tasks": [
       [
         12,
@@ -3731,8 +3599,6 @@
       ]
     },
     "University": "univpm",
-    "Solved tasks": 3,
-    "Penalty": 398,
     "Tasks": [
       [
         21,
@@ -3786,8 +3652,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 3,
-    "Penalty": 424,
     "Tasks": [
       [
         8,
@@ -3843,8 +3707,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 3,
-    "Penalty": 467,
     "Tasks": [
       [
         22,
@@ -3898,8 +3760,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 3,
-    "Penalty": 474,
     "Tasks": [
       [
         8,
@@ -3955,8 +3815,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 3,
-    "Penalty": 490,
     "Tasks": [
       [
         25,
@@ -4010,8 +3868,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 3,
-    "Penalty": 554,
     "Tasks": [
       [
         13,
@@ -4067,8 +3923,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 3,
-    "Penalty": 580,
     "Tasks": [
       [
         97,
@@ -4123,8 +3977,6 @@
       ]
     },
     "University": "unipd",
-    "Solved tasks": 3,
-    "Penalty": 607,
     "Tasks": [
       [
         40,
@@ -4180,8 +4032,6 @@
       ]
     },
     "University": "unipa",
-    "Solved tasks": 2,
-    "Penalty": 21,
     "Tasks": [
       [
         9,
@@ -4236,8 +4086,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 2,
-    "Penalty": 25,
     "Tasks": [
       [
         4,
@@ -4293,8 +4141,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 2,
-    "Penalty": 29,
     "Tasks": [
       [
         20,
@@ -4349,8 +4195,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 2,
-    "Penalty": 58,
     "Tasks": [
       [
         10,
@@ -4404,8 +4248,6 @@
       ]
     },
     "University": "unimib",
-    "Solved tasks": 2,
-    "Penalty": 79,
     "Tasks": [
       [
         13,
@@ -4461,8 +4303,6 @@
       ]
     },
     "University": "unipd",
-    "Solved tasks": 2,
-    "Penalty": 85,
     "Tasks": [
       [
         41,
@@ -4518,8 +4358,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 2,
-    "Penalty": 103,
     "Tasks": [
       [
         10,
@@ -4575,8 +4413,6 @@
       ]
     },
     "University": "unisalento",
-    "Solved tasks": 2,
-    "Penalty": 104,
     "Tasks": [
       [
         10,
@@ -4631,8 +4467,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 2,
-    "Penalty": 112,
     "Tasks": [
       [
         10,
@@ -4688,8 +4522,6 @@
       ]
     },
     "University": "unisalento",
-    "Solved tasks": 2,
-    "Penalty": 115,
     "Tasks": [
       [
         66,
@@ -4745,8 +4577,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 2,
-    "Penalty": 115,
     "Tasks": [
       [
         70,
@@ -4802,8 +4632,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 2,
-    "Penalty": 117,
     "Tasks": [
       [
         42,
@@ -4857,8 +4685,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 2,
-    "Penalty": 117,
     "Tasks": [
       [
         27,
@@ -4913,8 +4739,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 2,
-    "Penalty": 123,
     "Tasks": [
       [
         26,
@@ -4969,8 +4793,6 @@
       ]
     },
     "University": "unibo",
-    "Solved tasks": 2,
-    "Penalty": 126,
     "Tasks": [
       [
         54,
@@ -5026,8 +4848,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 2,
-    "Penalty": 130,
     "Tasks": [
       [
         30,
@@ -5081,8 +4901,6 @@
       ]
     },
     "University": "unito",
-    "Solved tasks": 2,
-    "Penalty": 136,
     "Tasks": [
       [
         34,
@@ -5138,8 +4956,6 @@
       ]
     },
     "University": "unisalento",
-    "Solved tasks": 2,
-    "Penalty": 141,
     "Tasks": [
       [
         33,
@@ -5195,8 +5011,6 @@
       ]
     },
     "University": "univr",
-    "Solved tasks": 2,
-    "Penalty": 149,
     "Tasks": [
       [
         29,
@@ -5250,8 +5064,6 @@
       ]
     },
     "University": "unime",
-    "Solved tasks": 2,
-    "Penalty": 175,
     "Tasks": [
       [
         21,
@@ -5305,8 +5117,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 2,
-    "Penalty": 190,
     "Tasks": [
       [
         5,
@@ -5360,8 +5170,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 2,
-    "Penalty": 198,
     "Tasks": [
       [
         36,
@@ -5417,8 +5225,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 2,
-    "Penalty": 201,
     "Tasks": [
       [
         49,
@@ -5472,8 +5278,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 2,
-    "Penalty": 203,
     "Tasks": [
       [
         83,
@@ -5528,8 +5332,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 2,
-    "Penalty": 219,
     "Tasks": [
       [
         12,
@@ -5585,8 +5387,6 @@
       ]
     },
     "University": "unimi",
-    "Solved tasks": 2,
-    "Penalty": 222,
     "Tasks": [
       [
         26,
@@ -5641,8 +5441,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 2,
-    "Penalty": 247,
     "Tasks": [
       [
         9,
@@ -5698,8 +5496,6 @@
       ]
     },
     "University": "unipa",
-    "Solved tasks": 2,
-    "Penalty": 270,
     "Tasks": [
       [
         52,
@@ -5751,12 +5547,10 @@
       "members": [
         "Andrea Gollo",
         "Matteo Melchiorre",
-        "Ramin Mohammadi Masoudi"
+        "[redacted]"
       ]
     },
     "University": "polimi",
-    "Solved tasks": 2,
-    "Penalty": 288,
     "Tasks": [
       [
         39,
@@ -5812,8 +5606,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 2,
-    "Penalty": 306,
     "Tasks": [
       [
         144,
@@ -5869,8 +5661,6 @@
       ]
     },
     "University": "unipa",
-    "Solved tasks": 2,
-    "Penalty": 334,
     "Tasks": [
       [
         28,
@@ -5926,8 +5716,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 2,
-    "Penalty": 344,
     "Tasks": [
       [
         169,
@@ -5981,8 +5769,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 2,
-    "Penalty": 352,
     "Tasks": [
       [
         89,
@@ -6036,8 +5822,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 2,
-    "Penalty": 374,
     "Tasks": [
       [
         32,
@@ -6093,8 +5877,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 2,
-    "Penalty": 375,
     "Tasks": [
       [
         131,
@@ -6150,8 +5932,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 2,
-    "Penalty": 405,
     "Tasks": [
       [
         87,
@@ -6205,8 +5985,6 @@
       ]
     },
     "University": "unimi",
-    "Solved tasks": 2,
-    "Penalty": 492,
     "Tasks": [
       [
         237,
@@ -6260,8 +6038,6 @@
       ]
     },
     "University": "unige",
-    "Solved tasks": 2,
-    "Penalty": 496,
     "Tasks": [
       [
         23,
@@ -6315,8 +6091,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 2,
-    "Penalty": 539,
     "Tasks": [
       [
         234,
@@ -6372,8 +6146,6 @@
       ]
     },
     "University": "unito",
-    "Solved tasks": 1,
-    "Penalty": 4,
     "Tasks": [
       [
         4,
@@ -6429,8 +6201,6 @@
       ]
     },
     "University": "unimi",
-    "Solved tasks": 1,
-    "Penalty": 9,
     "Tasks": [
       [
         9,
@@ -6486,8 +6256,6 @@
       ]
     },
     "University": "uniupo",
-    "Solved tasks": 1,
-    "Penalty": 10,
     "Tasks": [
       [
         10,
@@ -6543,8 +6311,6 @@
       ]
     },
     "University": "unito",
-    "Solved tasks": 1,
-    "Penalty": 16,
     "Tasks": [
       [
         16,
@@ -6600,8 +6366,6 @@
       ]
     },
     "University": "unipa",
-    "Solved tasks": 1,
-    "Penalty": 22,
     "Tasks": [
       [
         22,
@@ -6656,8 +6420,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 1,
-    "Penalty": 29,
     "Tasks": [
       [
         29,
@@ -6713,8 +6475,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 1,
-    "Penalty": 34,
     "Tasks": [
       [
         34,
@@ -6768,8 +6528,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 1,
-    "Penalty": 35,
     "Tasks": [
       [
         35,
@@ -6824,8 +6582,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 1,
-    "Penalty": 39,
     "Tasks": [
       [
         39,
@@ -6881,8 +6637,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 1,
-    "Penalty": 60,
     "Tasks": [
       [
         60,
@@ -6936,8 +6690,6 @@
       ]
     },
     "University": "unimi",
-    "Solved tasks": 1,
-    "Penalty": 63,
     "Tasks": [
       [
         63,
@@ -6993,8 +6745,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 1,
-    "Penalty": 64,
     "Tasks": [
       [
         null,
@@ -7050,8 +6800,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 1,
-    "Penalty": 75,
     "Tasks": [
       [
         55,
@@ -7107,8 +6855,6 @@
       ]
     },
     "University": "unito",
-    "Solved tasks": 1,
-    "Penalty": 79,
     "Tasks": [
       [
         59,
@@ -7162,8 +6908,6 @@
       ]
     },
     "University": "polito",
-    "Solved tasks": 1,
-    "Penalty": 145,
     "Tasks": [
       [
         145,
@@ -7219,8 +6963,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 1,
-    "Penalty": 206,
     "Tasks": [
       [
         46,
@@ -7274,8 +7016,6 @@
       ]
     },
     "University": "polimi",
-    "Solved tasks": 0,
-    "Penalty": 0,
     "Tasks": [
       [
         null,
