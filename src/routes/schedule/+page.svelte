@@ -13,43 +13,16 @@
 
 <Content>
 	<Description>
-		You can find the schedule for ITACPC 2025 below.
+		The 2026 edition of ITACPC will not take place.
 	</Description>
 	<div class="max-w-xl w-full flex flex-col text-center gap-4">
-		<Date>
-			<h2 slot="title">
-				<!-- Registration is open! -->
-				Registration is closed
-			</h2>
-			<p slot="date">
-				<!-- Registrations will close on ... -->
-				Registrations closed on on October 10th 2025, 11:59 PM
-			</p>
-			<p slot="other">
-				<!-- Alternate: btn-disabled, btn-secondary -->
-				<a class="btn btn-disabled rounded-full mt-4" href="https://teams25.itacpc.it/">
-					<!-- Click here to register -->
-					View teams and get your contest access credentials
-				</a>
-			</p>
-		</Date>
-
-		<Date>
-			<h2 slot="title">Contest</h2>
-			<p slot="date">October 11th 2025, 9:00 AM - 1:00 PM (4 hours)</p>
-			<p slot="other">
-				<!-- Alternate: btn-disabled, btn-secondary -->
-				<a class="btn btn-disabled rounded-full mt-4" href="https://judge25.itacpc.it/">
-					<!-- You cannot access the contest platform yet -->
-					Access the contest platform
-				</a>
-			</p>
-		</Date>
+		<div class="alert alert-warning shadow-lg">
+			<div class="flex flex-col gap-1">
+				<strong>Contest cancelled</strong>
+				<span>
+					We are not organizing ITACPC this year. Please check this website again for future announcements about the next edition.
+				</span>
+			</div>
+		</div>
 	</div>
 </Content>
-
-<style>
-	h2 {
-		font-weight: bold;
-	}
-</style>

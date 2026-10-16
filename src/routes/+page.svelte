@@ -51,6 +51,66 @@
 			</div>
 		</div> -->
 
+		<div class="alert alert-warning shadow-lg mb-8">
+			<div class="flex flex-col gap-3 text-left leading-relaxed">
+				<p class="m-0"><strong>This year's ITACPC edition will not take place.</strong></p>
+				<p class="m-0">
+					Dear ITACPC community,
+				</p>
+				<p class="m-0">
+					We write to you after five years of competitions, stimulating problems, satisfactions, and a beautiful growth that has seen countless students and enthusiasts put themselves to the test in competitive programming.
+				</p>
+				<p class="m-0">
+					Today we are writing to inform you that <strong>this year's edition of ITACPC will not take place</strong>.
+				</p>
+				<p class="m-0">
+					Organizing a competition of this level requires a complex organizational machine and constant commitment. Unfortunately, the combination of two main factors leads us to make a pause for reflection:
+				</p>
+				<ul class="list-disc pl-6 m-0 space-y-1">
+					<li><strong>Human resources and volunteers:</strong> the
+					organization relies on the work of a team of volunteers.
+					This year we were not able to reach the number of people
+					needed to guarantee the standard and care that an event like
+					ITACPC deserves.</li>
+					<li><strong>The impact of Artificial Intelligence in online
+					contests:</strong> the evolution of AI tools makes it
+					extremely easy today to be guided in solving problems
+					remotely. In a fully online format, it becomes increasingly
+					difficult to value and compare transparently the work of
+					those who solve tasks completely independently and on their
+					own.</li>
+				</ul>
+				<p class="m-0">
+					<strong>What does the future hold for ITACPC?</strong>
+				</p>
+				<p class="m-0">
+					This is not a definitive goodbye, but a moment of
+					transition. We are evaluating the possibility of
+					reorganizing the competition in the future, rethinking it
+					<strong>entirely in person</strong>, following the path of
+					established formats such as <strong>SWERC</strong> and
+					<strong>ICPC</strong>. A live event would not only guarantee
+					fairness in the contest, but would also allow all of us to
+					meet again and experience the true spirit of the competitive
+					programming community.
+				</p>
+				<p class="m-0">
+					We want to sincerely thank all the sponsors, problem
+					setters, testers, and each of you who participated in and
+					supported ITACPC over these 5 years.
+				</p>
+				<p class="m-0">
+					We will continue to keep you updated through our <a
+					href="https://t.me/itacpc" class="link link-primary"
+					target="_blank">Telegram channel</a> and this website.
+				</p>
+				<p class="m-0">
+					See you soon,<br />
+					<i>The ITACPC Team</i>
+				</p>
+			</div>
+		</div>
+
 		<h2 class="text-2xl sm:divider">About ITACPC</h2>
 		<div class="flex flex-col gap-2 text-justify">
 			<p>
